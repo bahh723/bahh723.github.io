@@ -64,7 +64,7 @@ Chung-Wei Lee\*, Haipeng Luo\*, Chen-Yu Wei\*, Mengxiao Zhang\*
 
 **Federated Residual Learning**  
 Chen-Yu Wei, Alekh Agarwal, John Langford  
-*NeurIPS Workshop on Scalability, Privacy, and Security in Federated Learning 2020*  
+*NeurIPS Workshop on Scalability, Privacy, and Security in Federated Learning 2020* 
 [[arXiv](https://arxiv.org/abs/2003.12880){:target="_blank"}]
 
 **Taking a Hint: How to Leverage Loss Predictors in Contextual Bandits?**  
@@ -83,7 +83,7 @@ Chen-Yu Wei, Mehdi Jafarnia-Jahromi, Haipeng Luo, Hiteshi Sharma, Rahul Jain
 **Analyzing the Variance of Policy Gradient Estimators for the Linear-Quadratic Regulator**  
 James Preiss\*, Sebastien Arnold\*, Chen-Yu Wei\*, Marius Kloft  
 *NeurIPS Workshop on Optimization Foundations for Reinforcement Learning 2019* 
-*SoCal Machine Learning Symposium 2019* <span style="color:red">(Best Poster Award)</span>  
+*SoCal Machine Learning Symposium 2019* <span style="color:red">(Best Poster Award)</span> 
 [[arXiv](https://arxiv.org/abs/1910.01249){:target="_blank"}]
 
 **A New Algorithm for Non-stationary Contextual Bandits: Efficient, Optimal, and Parameter-free**  
