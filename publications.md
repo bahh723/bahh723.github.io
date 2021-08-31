@@ -82,9 +82,8 @@ Chen-Yu Wei, Mehdi Jafarnia-Jahromi, Haipeng Luo, Hiteshi Sharma, Rahul Jain
 
 **Analyzing the Variance of Policy Gradient Estimators for the Linear-Quadratic Regulator**  
 James Preiss\*, Sebastien Arnold\*, Chen-Yu Wei\*, Marius Kloft  
-*NeurIPS Workshop on Optimization Foundations for Reinforcement Learning 2019*  
+*NeurIPS Workshop on Optimization Foundations for Reinforcement Learning 2019* [[arXiv](https://arxiv.org/abs/1910.01249){:target="_blank"}]  
 *SoCal Machine Learning Symposium 2019* <span style="color:red">(Best Poster Award)</span> 
-[[arXiv](https://arxiv.org/abs/1910.01249){:target="_blank"}]
 
 **A New Algorithm for Non-stationary Contextual Bandits: Efficient, Optimal, and Parameter-free**  
 Yifang Chen\*, Chung-Wei Lee\*, Haipeng Luo\*, Chen-Yu Wei\*  
