@@ -4,8 +4,9 @@ permalink: "/publications/"
 layout: page
 ---
 
-## Preprints <span style="font-size: 17px;">(* indicates equal contribution or alphabetical ordering)</span> 
- - **Policy Optimization in Adversarial MDPs:  Improved Exploration via Dilated Bonuses**  
+## Preprints <span style="font-size: 17px;">(* indicates equal contribution or alphabetical ordering)</span>  
+
+**Policy Optimization in Adversarial MDPs:  Improved Exploration via Dilated Bonuses**  
 Haipeng Luo\*, Chen-Yu Wei\*, Chung-Wei Lee  
 [[arXiv](https://arxiv.org/abs/2107.08346){:target="_blank"}]
 
@@ -13,17 +14,17 @@ Haipeng Luo\*, Chen-Yu Wei\*, Chung-Wei Lee
 
 ### 2021
 
- - **Achieving Near Instance-Optimality and Minimax-Optimality in Stochastic and Adversarial Linear Bandits Simultaneously**  
+**Achieving Near Instance-Optimality and Minimax-Optimality in Stochastic and Adversarial Linear Bandits Simultaneously**  
 Chung-Wei Lee\*, Haipeng Luo\*, Chen-Yu Wei\*, Mengxiao Zhang\*, Xiaojin Zhang\*  
 *ICML 2021*  
 [[arXiv](https://arxiv.org/abs/2102.05858){:target="_blank"}]
 
- - **Non-stationary Reinforcement Learning without Prior Knowledge: An Optimal Black-box Approach**  
+**Non-stationary Reinforcement Learning without Prior Knowledge: An Optimal Black-box Approach**  
 Chen-Yu Wei and Haipeng Luo  
 *COLT 2021*  <span style="color:red">(Best Paper Award)</span>  
 [[arXiv](https://arxiv.org/abs/2102.05406){:target="_blank"}]
 
-- **Last-iterate Convergence of Decentralized Optimistic Gradient Descent/Ascent in Infinite-horizon Competitive Markov Games**  
+**Last-iterate Convergence of Decentralized Optimistic Gradient Descent/Ascent in Infinite-horizon Competitive Markov Games**  
 Chen-Yu Wei, Chung-Wei Lee\*, Mengxiao Zhang\*, Haipeng Luo  
 *COLT 2021*  
 [[arXiv](https://arxiv.org/abs/2102.04540){:target="_blank"}]
