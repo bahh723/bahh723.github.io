@@ -19,7 +19,7 @@ Chung-Wei Lee\*, Haipeng Luo\*, Chen-Yu Wei\*, Mengxiao Zhang\*, Xiaojin Zhang\*
 [[arXiv](https://arxiv.org/abs/2102.05858){:target="_blank"}]
 
  - **Non-stationary Reinforcement Learning without Prior Knowledge: An Optimal Black-box Approach**  
-Chen-Yu Wei, Haipeng Luo  
+Chen-Yu Wei and Haipeng Luo  
 *COLT 2021*  <span style="color:red">(Best Paper Award)</span>  
 [[arXiv](https://arxiv.org/abs/2102.05406){:target="_blank"}]
 
