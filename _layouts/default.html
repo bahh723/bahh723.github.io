@@ -28,7 +28,7 @@
 {% endif %}
 
 <header>
-  <!-- <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a> -->
+  <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a> 
   {% include menu.html menu=pages %}
 </header>
 
@@ -36,7 +36,7 @@
 
 {% if site.external %}
 <footer>
-  <div>{{ site.description | default: site.title }}</div>
+  <!-- <div>{{ site.description | default: site.title }}</div> -->
   {% include menu.html menu=site.external %}
 </footer>
 {% endif %}
