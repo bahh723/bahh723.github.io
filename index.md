@@ -18,5 +18,5 @@ Fall 2021: Teaching assitant, Machine Learning
 Spring 2021: Teaching assitant, Introduction to Algorithms and Theory of Computing  
 Fall 2017: Teaching assitant, Introduction to Online Learning  
 
-
-**Email**: chenyu.wei [at] usc.edu
+## Contact
+chenyu.wei [at] usc.edu
