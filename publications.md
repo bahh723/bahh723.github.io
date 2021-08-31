@@ -5,7 +5,7 @@ layout: page
 ---
 
 ## Preprints
-
+(* indicates equal contribution or alphabetical ordering)
  - **Policy Optimization in Adversarial MDPs:  Improved Exploration via Dilated Bonuses**  
 Haipeng Luo\*, Chen-Yu Wei\*, Chung-Wei Lee  
 [[arXiv](https://arxiv.org/abs/2107.08346){:target="_blank"}]
