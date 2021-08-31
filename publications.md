@@ -11,6 +11,8 @@ Haipeng Luo\*, Chen-Yu Wei\*, Chung-Wei Lee
 
 ## Conference Papers
 
+### 2021
+
  - **Achieving Near Instance-Optimality and Minimax-Optimality in Stochastic and Adversarial Linear Bandits Simultaneously**  
 Chung-Wei Lee\*, Haipeng Luo\*, Chen-Yu Wei\*, Mengxiao Zhang\*, Xiaojin Zhang\*  
 *ICML 2021*  
@@ -52,6 +54,8 @@ Ehsan Emamjomeh-Zadeh\*, Chen-Yu Wei\*, Haipeng Luo, David Kempe
 *ALT 2021*  
 [[arXiv](https://arxiv.org/abs/2003.03490){:target="_blank"}]
 
+### 2020
+
 - **Bias no more: high-probability data-dependent regret bounds for adversarial bandits and MDPs**  
 Chung-Wei Lee\*, Haipeng Luo\*, Chen-Yu Wei\*, Mengxiao Zhang\*  
 *NeurIPS 2020*  <span style="color:red">(Oral)</span>  
@@ -72,6 +76,8 @@ Chen-Yu Wei, Mehdi Jafarnia-Jahromi, Haipeng Luo, Hiteshi Sharma, Rahul Jain
 *ICML 2020*  
 [[arXiv](https://arxiv.org/abs/1910.07072){:target="_blank"}]
 [[code](https://github.com/bahh723/model-free-rl-algos){:target="_blank"}]
+
+### 2019
 
 - **Analyzing the Variance of Policy Gradient Estimators for the Linear-Quadratic Regulator**  
 James Preiss\*, Sebastien Arnold\*, Chen-Yu Wei\*, Marius Kloft  
@@ -101,6 +107,8 @@ Julian Zimmert, Haipeng Luo, Chen-Yu Wei
 *ICML 2019* <span style="color:red">(Long talk)</span>  
 [[arXiv](https://arxiv.org/abs/1901.08779){:target="_blank"}]
 
+### 2018
+
 - **Efficient Online Portfolio with Logarithmic Regret**  
 Haipeng Luo\*, Chen-Yu Wei\*, Kai Zheng\*  
 *NeurIPS 2018* <span style="color:red">(Spotlight)</span>  
@@ -116,10 +124,14 @@ Chen-Yu Wei and Haipeng Luo
 *COLT 2018*  
 [[arXiv](https://arxiv.org/abs/1801.03265){:target="_blank"}]
 
+### 2017
+
 - **Online Reinforcement Learning in Stochastic Games**  
 Chen-Yu Wei, Yi-Te Hong, Chi-Jen Lu  
 *NeurIPS 2017*  
 [[arXiv](https://arxiv.org/abs/1712.00579){:target="_blank"}]
+
+### 2016
 
 - **Tracking the Best Expert in Non-stationary Stochastic Environments**  
 Chen-Yu Wei, Yi-Te Hong, Chi-Jen Lu  
