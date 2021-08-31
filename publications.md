@@ -72,7 +72,7 @@ ICML 2020
 [arXiv] [code]
 
 Analyzing the Variance of Policy Gradient Estimators for the Linear-Quadratic Regulator
-James Preiss*, Sébastien Arnold*, Chen-Yu Wei*, Marius Kloft
+James Preiss*, Sebastien Arnold*, Chen-Yu Wei*, Marius Kloft
 NeurIPS Workshop on Optimization Foundations for Reinforcement Learning 2019
 SoCal Machine Learning Symposium 2019 (Best Poster Award)
 [arXiv]
@@ -83,12 +83,12 @@ COLT 2019
 [arXiv] [A joint extended abstract with Auer, Gajane, and Ortner]
 
 Improved Path-length Regret Bounds for Bandits
-Sébastien Bubeck*, Yuanzhi Li*, Haipeng Luo*, Chen-Yu Wei*
+Sebastien Bubeck*, Yuanzhi Li*, Haipeng Luo*, Chen-Yu Wei*
 COLT 2019
 [arXiv]
 
 Bandit Multiclass Linear Classification: Efficient Algorithms for the Separable Case
-Alina Beygelzimer*, Dávid Pál*, Balázs Szörényi*, Devanathan Thiruvenkatachari*, Chen-Yu Wei*, Chicheng Zhang*
+Alina Beygelzimer*, David Pal*, Balazs Szorenyi*, Devanathan Thiruvenkatachari*, Chen-Yu Wei*, Chicheng Zhang*
 ICML 2019
 [arXiv] [code]
 
