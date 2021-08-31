@@ -8,6 +8,7 @@ I am a fifth-year Computer Science PhD student at **University of Southern Calif
 
 ## Research Experiences [[CV](https://drive.google.com/file/d/1YHTn834IdkJ11geRM_uca5oOtMDM1lnZ/view?usp=sharing){:target="_blank"}]
 Research Intern, Google Research, Summer 2021 <!--(supervisor: [Christoph Dann](https://cdann.net/), [Julian Zimmert](https://www.linkedin.com/in/julian-zimmert-998b39aa/?originalSubdomain=de)) -->  
+Student Visitor, Simons Institute for the Theory of Computing, Fall 2020  
 Research Intern, Microsoft Research, Redmond, Summer 2019 <!-- (supervisor: [Alekh Agarwal](http://alekhagarwal.net/), [John Langford](https://hunch.net/~jl/)) -->  
 Research Intern, Yahoo Research, New York, Summer 2018 <!--(supervisor: [Alina Beygelzimer](https://hunch.net/~beygel/), [David Pal](http://david.palenica.com/), [Balazs Szorenyi](https://research.yahoo.com/researchers/bszorenyi)) -->  
 Research Assistant, Academia Sinica, Taipei, 2015-2017 <!-- (supervisor: [Chi-Jen Lu](https://www.iis.sinica.edu.tw/pages/cjlu/)) -->
@@ -20,5 +21,4 @@ Teaching Assitant, Introduction to Algorithms and Theory of Computing, Spring 20
 Teaching Assitant, Introduction to Online Learning, Fall 2017  
   
 
-## Contact
-chenyu.wei [at] usc.edu
+**Contact**: chenyu.wei [at] usc.edu
