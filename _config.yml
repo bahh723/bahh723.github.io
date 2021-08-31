@@ -1,5 +1,5 @@
 title: "Chen-Yu Wei"
-author: ""
+author: " "
 # description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 description: ""
 permalink: /:title/
@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
+  - {file: "index.md"}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
