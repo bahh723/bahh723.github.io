@@ -20,6 +20,6 @@ Teaching Assistant, Machine Learning, Fall 2021
 Teaching Assistant, Introduction to Algorithms and Theory of Computing, Spring 2021  
 Teaching Assistant, Introduction to Online Learning, Fall 2017  
   
-  
+<br/><br/>  
 
 **Email**: chenyu.wei [at] usc.edu
