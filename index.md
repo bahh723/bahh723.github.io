@@ -21,4 +21,4 @@ Teaching Assitant, Introduction to Algorithms and Theory of Computing, Spring 20
 Teaching Assitant, Introduction to Online Learning, Fall 2017  
   
 
-Email: chenyu.wei [at] usc.edu
+**Email**: chenyu.wei [at] usc.edu
