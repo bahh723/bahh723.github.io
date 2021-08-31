@@ -13,4 +13,12 @@ Summer 2019: Research intern at Microsoft Research, Redmond <!-- (supervisor: [A
 Summer 2018: Research intern at Yahoo Research, New York <!--(supervisor: [Alina Beygelzimer](https://hunch.net/~beygel/), [David Pal](http://david.palenica.com/), [Balazs Szorenyi](https://research.yahoo.com/researchers/bszorenyi)) -->  
 2015-2017: Research assistant at Academia Sinica, Taipei <!-- (supervisor: [Chi-Jen Lu](https://www.iis.sinica.edu.tw/pages/cjlu/)) -->
 
+
+## Teaching Experiences
+
+Fall 2021: Teaching assitant, Machine Learning  
+Spring 2021: Teaching assitant, Introduction to Algorithms and Theory of Computing  
+Fall 2017: Teaching assitant, Introduction to Online Learning  
+
+
 **Email**: chenyu.wei [at] usc.edu
