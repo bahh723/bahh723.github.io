@@ -55,7 +55,7 @@ Ehsan Emamjomeh-Zadeh\*, Chen-Yu Wei\*, Haipeng Luo, David Kempe
 
 - **Bias no more: high-probability data-dependent regret bounds for adversarial bandits and MDPs**  
 Chung-Wei Lee\*, Haipeng Luo\*, Chen-Yu Wei\*, Mengxiao Zhang\*  
-*NeurIPS 2020*  (Oral)  
+*NeurIPS 2020*  <span style="color:red">(Oral)</span>  
 [[arXiv](https://arxiv.org/abs/2006.08040){:target="_blank"}]
 
 - **Federated Residual Learning**  
@@ -77,7 +77,7 @@ Chen-Yu Wei, Mehdi Jafarnia-Jahromi, Haipeng Luo, Hiteshi Sharma, Rahul Jain
 - **Analyzing the Variance of Policy Gradient Estimators for the Linear-Quadratic Regulator**  
 James Preiss\*, Sebastien Arnold\*, Chen-Yu Wei\*, Marius Kloft  
 *NeurIPS Workshop on Optimization Foundations for Reinforcement Learning 2019*  
-*SoCal Machine Learning Symposium 2019* (Best Poster Award)  
+*SoCal Machine Learning Symposium 2019* <span style="color:red">(Best Poster Award)</span>  
 [[arXiv](https://arxiv.org/abs/1910.01249){:target="_blank"}]
 
 - **A New Algorithm for Non-stationary Contextual Bandits: Efficient, Optimal, and Parameter-free**  
@@ -99,12 +99,12 @@ Alina Beygelzimer\*, David Pal\*, Balazs Szorenyi\*, Devanathan Thiruvenkatachar
 
 - **Beating Stochastic and Adversarial Semi-bandits Optimally and Simultaneously**  
 Julian Zimmert, Haipeng Luo, Chen-Yu Wei  
-*ICML 2019* (Long talk)  
+*ICML 2019* <span style="color:red">(Long talk)</span>  
 [[arXiv](https://arxiv.org/abs/1901.08779){:target="_blank"}]
 
 - **Efficient Online Portfolio with Logarithmic Regret**  
 Haipeng Luo\*, Chen-Yu Wei\*, Kai Zheng\*  
-*NeurIPS 2018* (Spotlight)  
+*NeurIPS 2018* <span style="color:red">(Spotlight)</span>  
 [[arXiv](https://arxiv.org/abs/1708.01799){:target="_blank"}]
 
 - **Efficient Contextual Bandits in Non-stationary Worlds**  
