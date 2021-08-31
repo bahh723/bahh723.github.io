@@ -8,19 +8,19 @@ layout: page
 
  - **Policy Optimization in Adversarial MDPs:  Improved Exploration via Dilated Bonuses**  
 Haipeng Luo\*, Chen-Yu Wei\*, Chung-Wei Lee  
-[[arXiv](https://arxiv.org/abs/2107.08346)]
+[[arXiv](https://arxiv.org/abs/2107.08346){:target="_blank"}]
 
 ## Conference Papers
 
  - **Achieving Near Instance-Optimality and Minimax-Optimality in Stochastic and Adversarial Linear Bandits Simultaneously**  
 Chung-Wei Lee\*, Haipeng Luo\*, Chen-Yu Wei\*, Mengxiao Zhang\*, Xiaojin Zhang\*  
 ICML 2021  
-[arXiv]
+[[arXiv]()]
 
  - **Non-stationary Reinforcement Learning without Prior Knowledge: An Optimal Black-box Approach**  
 Chen-Yu Wei, Haipeng Luo  
 COLT 2021  (Best Paper Award)  
-[arXiv]
+[[arXiv]()]
 
 - **Last-iterate Convergence of Decentralized Optimistic Gradient Descent/Ascent in Infinite-horizon Competitive Markov Games**  
 Chen-Yu Wei, Chung-Wei Lee\*, Mengxiao Zhang\*, Haipeng Luo  
