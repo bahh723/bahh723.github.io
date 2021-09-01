@@ -16,7 +16,6 @@ Research Intern, Yahoo Research, New York, Summer 2018 <!--(supervisor: [Alina B
 Research Assistant, Academia Sinica, Taipei, 2015-2017 <!-- (supervisor: [Chi-Jen Lu](https://www.iis.sinica.edu.tw/pages/cjlu/)) -->
    
 
-<br>
 
 ## Teaching
 Teaching Assistant, Machine Learning, Fall 2021  
