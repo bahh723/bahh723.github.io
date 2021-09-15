@@ -89,7 +89,7 @@ James Preiss\*, Sebastien Arnold\*, Chen-Yu Wei\*, Marius Kloft
 Yifang Chen\*, Chung-Wei Lee\*, Haipeng Luo\*, Chen-Yu Wei\*  
 *COLT 2019* 
 [[arXiv](https://arxiv.org/abs/1902.00980){:target="_blank"}]
-[[A joint extended abstract with Auer, Gajane, and Ortner](http://proceedings.mlr.press/v99/auer19b.html){:target="_blank"}]
+[[a joint extended abstract with Auer, Gajane, and Ortner](http://proceedings.mlr.press/v99/auer19b.html){:target="_blank"}]
 
 - **Improved Path-length Regret Bounds for Bandits**  
 Sebastien Bubeck\*, Yuanzhi Li\*, Haipeng Luo\*, Chen-Yu Wei\*  
