@@ -9,7 +9,7 @@ I am a fifth-year Computer Science PhD student at **University of Southern Calif
     <br>
 </div>
 
-## Research Experiences [[CV](https://bahh723.github.io/document/CV20210912.pdf{:target="_blank"}]
+## Research Experiences [[CV](https://bahh723.github.io/document/CV20210912.pdf){:target="_blank"}]
 Research Intern, Google Research, Summer 2021 <!--(supervisor: [Christoph Dann](https://cdann.net/), [Julian Zimmert](https://www.linkedin.com/in/julian-zimmert-998b39aa/?originalSubdomain=de)) -->  
 Student Visitor, Simons Institute for the Theory of Computing, Fall 2020  
 Research Intern, Microsoft Research, Redmond, Summer 2019 <!-- (supervisor: [Alekh Agarwal](http://alekhagarwal.net/), [John Langford](https://hunch.net/~jl/)) -->  
