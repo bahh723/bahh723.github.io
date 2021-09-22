@@ -28,8 +28,10 @@
 {% endif %}
 
 <header>
-  <a href="{{ "Chen-Yu Wei" }}" class="title"> <h1>{{ site.title | escape }} </h1> </a> 
-  {% include menu.html menu=pages %}
+  <head>
+        <title>Chen-Yu Wei</title>
+  </head>
+  <h1>{{ site.title | escape }} </h1>   {% include menu.html menu=pages %}
 </header>
 
 {{ content }} 
