@@ -65,7 +65,7 @@ Chung-Wei Lee\*, Haipeng Luo\*, Chen-Yu Wei\*, Mengxiao Zhang\*
 - **Federated Residual Learning**  
 Chen-Yu Wei, Alekh Agarwal, John Langford  
 *NeurIPS Workshop on Scalability, Privacy, and Security in Federated Learning 2020* 
-[[arXiv](https://arxiv.org/abs/2003.12880){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/2003.12880){:target="_blank"}] [[workshop version](http://icfl.cc/wp-content/uploads/2020/12/SpicyFL_2020_paper_74.pdf)]
 
 - **Taking a Hint: How to Leverage Loss Predictors in Contextual Bandits?**  
 Chen-Yu Wei, Haipeng Luo, Alekh Agarwal  
