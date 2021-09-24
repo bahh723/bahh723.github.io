@@ -76,7 +76,8 @@ Chen-Yu Wei, Haipeng Luo, Alekh Agarwal
 Chen-Yu Wei, Mehdi Jafarnia-Jahromi, Haipeng Luo, Hiteshi Sharma, Rahul Jain  
 *ICML 2020* 
 [[arXiv](https://arxiv.org/abs/1910.07072){:target="_blank"}] 
-[[code](https://github.com/bahh723/model-free-rl-algos){:target="_blank"}]
+[[code](https://github.com/bahh723/model-free-rl-algos){:target="_blank"}] [[slides](https://bahh723.github.io/document/model-free.pdf){:target="_blank"}]
+
 
 ### 2019
 
@@ -105,14 +106,15 @@ Alina Beygelzimer\*, David Pal\*, Balazs Szorenyi\*, Devanathan Thiruvenkatachar
 - **Beating Stochastic and Adversarial Semi-bandits Optimally and Simultaneously**  
 Julian Zimmert, Haipeng Luo, Chen-Yu Wei  
 *ICML 2019* <span style="color:red">(Long talk)</span> 
-[[arXiv](https://arxiv.org/abs/1901.08779){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/1901.08779){:target="_blank"}] [[slides](https://bahh723.github.io/document/semi-bandit.pdf){:target="_blank"}]
+
 
 ### 2018
 
 - **Efficient Online Portfolio with Logarithmic Regret**  
 Haipeng Luo\*, Chen-Yu Wei\*, Kai Zheng\*  
 *NeurIPS 2018* <span style="color:red">(Spotlight)</span> 
-[[arXiv](https://arxiv.org/abs/1708.01799){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/1708.01799){:target="_blank"}] [[slides](https://bahh723.github.io/document/portfolio.pdf){:target="_blank"}]
 
 - **Efficient Contextual Bandits in Non-stationary Worlds**  
 Haipeng Luo\*, Chen-Yu Wei\*, Alekh Agarwal, John Langford  
