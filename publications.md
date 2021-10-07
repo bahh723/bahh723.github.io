@@ -17,7 +17,7 @@ Haipeng Luo\*, Chen-Yu Wei\*, Chung-Wei Lee
 - **Achieving Near Instance-Optimality and Minimax-Optimality in Stochastic and Adversarial Linear Bandits Simultaneously**  
 Chung-Wei Lee\*, Haipeng Luo\*, Chen-Yu Wei\*, Mengxiao Zhang\*, Xiaojin Zhang\*  
 *ICML 2021* 
-[[arXiv](https://arxiv.org/abs/2102.05858){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/2102.05858){:target="_blank"}] [[slides](https://bahh723.github.io/document/bob-linear-bandit.pdf){:target="_blank"}]
 
 - **Non-stationary Reinforcement Learning without Prior Knowledge: An Optimal Black-box Approach**  
 Chen-Yu Wei and Haipeng Luo  
