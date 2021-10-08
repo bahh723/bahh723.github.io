@@ -6,13 +6,20 @@ layout: page
 
 ## Preprints <span style="font-size: 17px;">(* indicates equal contribution or alphabetical ordering)</span>  
 
-- **Policy Optimization in Adversarial MDPs:  Improved Exploration via Dilated Bonuses**  
-Haipeng Luo\*, Chen-Yu Wei\*, Chung-Wei Lee  
-[[arXiv](https://arxiv.org/abs/2107.08346){:target="_blank"}]
+- **A Model Selection Approach for Corruption Robust Reinforcement Learning**  
+Chen-Yu Wei, Christoph Dann, Julian Zimmert   
+[[arXiv](https://arxiv.org/abs/2110.03580){:target="_blank"}]
+
 
 ## Conference Papers
 
 ### 2021
+
+- **Policy Optimization in Adversarial MDPs:  Improved Exploration via Dilated Bonuses**  
+Haipeng Luo\*, Chen-Yu Wei\*, Chung-Wei Lee  
+*NeurIPS 2021* 
+[[arXiv](https://arxiv.org/abs/2107.08346){:target="_blank"}]
+
 
 - **Achieving Near Instance-Optimality and Minimax-Optimality in Stochastic and Adversarial Linear Bandits Simultaneously**  
 Chung-Wei Lee\*, Haipeng Luo\*, Chen-Yu Wei\*, Mengxiao Zhang\*, Xiaojin Zhang\*  
