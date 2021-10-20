@@ -18,7 +18,8 @@ Chen-Yu Wei, Christoph Dann, Julian Zimmert
 - **Policy Optimization in Adversarial MDPs:  Improved Exploration via Dilated Bonuses**  
 Haipeng Luo\*, Chen-Yu Wei\*, Chung-Wei Lee  
 *NeurIPS 2021* 
-[[arXiv](https://arxiv.org/abs/2107.08346){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/2107.08346){:target="_blank"}] 
+[[slides](https://bahh723.github.io/document/dilated-bonus.pdf){:target="_blank"}]
 
 
 - **Achieving Near Instance-Optimality and Minimax-Optimality in Stochastic and Adversarial Linear Bandits Simultaneously**  
