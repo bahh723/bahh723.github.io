@@ -10,6 +10,10 @@ layout: page
 Chen-Yu Wei, Christoph Dann, Julian Zimmert   
 [[arXiv](https://arxiv.org/abs/2110.03580){:target="_blank"}]
 
+- **Decentralized Cooperative Reinforcement Learning with Hierarchical Information Structure**  
+Hsu Kao, Chen-Yu Wei, Vijay Subramanian  
+[[arXiv](https://arxiv.org/abs/2111.00781){:target="_blank"}]
+
 
 ## Conference Papers
 
