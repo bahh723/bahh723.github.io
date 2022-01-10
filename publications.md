@@ -4,18 +4,22 @@ permalink: "/publications/"
 layout: page
 ---
 
-## Preprints <span style="font-size: 17px;">(* indicates equal contribution or alphabetical ordering)</span>  
+<!-- ## Preprints <span style="font-size: 17px;">(* indicates equal contribution or alphabetical ordering)</span> --> 
 
-- **A Model Selection Approach for Corruption Robust Reinforcement Learning**  
-Chen-Yu Wei, Christoph Dann, Julian Zimmert   
-[[arXiv](https://arxiv.org/abs/2110.03580){:target="_blank"}]
+
+## Conference Papers <span style="font-size: 17px;">(* indicates equal contribution or alphabetical ordering)</span> 
+
+### 2022
 
 - **Decentralized Cooperative Reinforcement Learning with Hierarchical Information Structure**  
 Hsu Kao, Chen-Yu Wei, Vijay Subramanian  
+*ALT 2022* 
 [[arXiv](https://arxiv.org/abs/2111.00781){:target="_blank"}]
 
-
-## Conference Papers
+- **A Model Selection Approach for Corruption Robust Reinforcement Learning**  
+Chen-Yu Wei, Christoph Dann, Julian Zimmert  
+*ALT 2022* 
+[[arXiv](https://arxiv.org/abs/2110.03580){:target="_blank"}]
 
 ### 2021
 
@@ -24,7 +28,6 @@ Haipeng Luo\*, Chen-Yu Wei\*, Chung-Wei Lee
 *NeurIPS 2021* 
 [[arXiv](https://arxiv.org/abs/2107.08346){:target="_blank"}] 
 [[slides](https://bahh723.github.io/document/dilated-bonus.pdf){:target="_blank"}]
-
 
 - **Achieving Near Instance-Optimality and Minimax-Optimality in Stochastic and Adversarial Linear Bandits Simultaneously**  
 Chung-Wei Lee\*, Haipeng Luo\*, Chen-Yu Wei\*, Mengxiao Zhang\*, Xiaojin Zhang\*  
