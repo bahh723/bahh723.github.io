@@ -7,7 +7,7 @@ layout: page
 ## Preprints <span style="font-size: 17px;">(* indicates equal contribution or alphabetical ordering)</span>
 
 - **Independent Policy Gradient for Large-Scale Markov Potential Games: Sharper Rates, Function Approximation, and Game-Agnostic Convergence**  
-Dongsheng Ding, Chen-Yu Wei, Kaiqing Zhang, Mihailo R. Jovanovi?  
+Dongsheng Ding\*, Chen-Yu Wei\*, Kaiqing Zhang\*, Mihailo R. Jovanovi?  
 [[arXiv](https://arxiv.org/abs/2202.04129){:target="_blank"}]
 
 - **Personalization Improves Privacy-Accuracy Tradeoffs in Federated Optimization**  
