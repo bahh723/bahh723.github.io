@@ -27,7 +27,6 @@ Hsu Kao, Chen-Yu Wei, Vijay Subramanian
 - **A Model Selection Approach for Corruption Robust Reinforcement Learning**  
 Chen-Yu Wei, Christoph Dann, Julian Zimmert  
 *ALT 2022*  <span style="color:red">(Best Paper Award)</span> 
-
 [[arXiv](https://arxiv.org/abs/2110.03580){:target="_blank"}]
 
 ### 2021
