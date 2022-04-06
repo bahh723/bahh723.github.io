@@ -22,12 +22,15 @@ Alberto Bietti, Chen-Yu Wei, Miroslav Dudik, John Langford, Zhiwei Steven Wu
 - **Decentralized Cooperative Reinforcement Learning with Hierarchical Information Structure**  
 Hsu Kao, Chen-Yu Wei, Vijay Subramanian  
 *ALT 2022* 
-[[arXiv](https://arxiv.org/abs/2111.00781){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/2111.00781){:target="_blank"}] 
+[[slides](https://bahh723.github.io/document/hierarchical-mdp.pdf){:target="_blank"}]
+
 
 - **A Model Selection Approach for Corruption Robust Reinforcement Learning**  
 Chen-Yu Wei, Christoph Dann, Julian Zimmert  
 *ALT 2022*  <span style="color:red">(Best Paper Award)</span> 
-[[arXiv](https://arxiv.org/abs/2110.03580){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/2110.03580){:target="_blank"}] [[slides](https://bahh723.github.io/document/model-selection.pdf){:target="_blank"}]
+
 
 ### 2021
 
