@@ -171,6 +171,6 @@ Chen-Yu Wei and Wanjiun Liao
 
 - **Adaptive Measurement for Energy Efficient Mobility Management in Ultra-Dense Small Cell Networks**  
 Hsu Kao, Chen-Yu Wei, Hsiao-Ching Lin, Yi-Han Chiang, Wanjiun Liao  
-*International Conference on Communications 2016*  
+*International Conference on Communications 2016* 
 [[IEEE Xplore](https://ieeexplore.ieee.org/document/7511217){:target="_blank"}]
 
