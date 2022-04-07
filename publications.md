@@ -152,6 +152,12 @@ Chen-Yu Wei and Haipeng Luo
 *COLT 2018* 
 [[arXiv](https://arxiv.org/abs/1801.03265){:target="_blank"}] [[slides](https://bahh723.github.io/document/more-adaptive.pdf){:target="_blank"}]
 
+- **Multi-Cell Cooperative Scheduling for Network Utility Maximization With User Equipment Side Interference Cancellation**  
+Chen-Yu Wei and Wanjiun Liao  
+*IEEE Transactions on Wireless Communications 2018* 
+[[IEEE Xplore](https://ieeexplore.ieee.org/document/8100745){:target="_blank"}]
+
+
 ### Before 2018
 
 - **Online Reinforcement Learning in Stochastic Games**  
@@ -163,11 +169,6 @@ Chen-Yu Wei, Yi-Te Hong, Chi-Jen Lu
 Chen-Yu Wei, Yi-Te Hong, Chi-Jen Lu  
 *NeurIPS 2016* 
 [[arXiv](https://arxiv.org/abs/1712.00578){:target="_blank"}]
-
-- **Multi-Cell Cooperative Scheduling for Network Utility Maximization With User Equipment Side Interference Cancellation**  
-Chen-Yu Wei and Wanjiun Liao  
-*IEEE Transactions on Wireless Communications 2018* 
-[[IEEE Xplore](https://ieeexplore.ieee.org/document/8100745){:target="_blank"}]
 
 - **Adaptive Measurement for Energy Efficient Mobility Management in Ultra-Dense Small Cell Networks**  
 Hsu Kao, Chen-Yu Wei, Hsiao-Ching Lin, Yi-Han Chiang, Wanjiun Liao  
