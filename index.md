@@ -10,8 +10,9 @@ I am a fifth-year Computer Science PhD student at **University of Southern Calif
 </div>
 
 ## Research Experiences [[CV](https://bahh723.github.io/document/cv.pdf){:target="_blank"}]
+Student Visitor, Simons Institute, Spring 2022 (Learning and Games)  
 Research Intern, Google Research, Summer 2021 <!--(supervisor: [Christoph Dann](https://cdann.net/), [Julian Zimmert](https://www.linkedin.com/in/julian-zimmert-998b39aa/?originalSubdomain=de)) -->  
-Student Visitor, Simons Institute for the Theory of Computing, Fall 2020  
+Student Visitor, Simons Institute, Fall 2020 (Theory of Reinforcement Learning)  
 Research Intern, Microsoft Research, Redmond, Summer 2019 <!-- (supervisor: [Alekh Agarwal](http://alekhagarwal.net/), [John Langford](https://hunch.net/~jl/)) -->  
 Research Intern, Yahoo Research, New York, Summer 2018 <!--(supervisor: [Alina Beygelzimer](https://hunch.net/~beygel/), [David Pal](http://david.palenica.com/), [Balazs Szorenyi](https://research.yahoo.com/researchers/bszorenyi)) -->  
 Research Assistant, Academia Sinica, Taipei, 2015-2017 <!-- (supervisor: [Chi-Jen Lu](https://www.iis.sinica.edu.tw/pages/cjlu/)) -->

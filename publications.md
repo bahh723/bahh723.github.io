@@ -152,7 +152,7 @@ Chen-Yu Wei and Haipeng Luo
 *COLT 2018* 
 [[arXiv](https://arxiv.org/abs/1801.03265){:target="_blank"}] [[slides](https://bahh723.github.io/document/more-adaptive.pdf){:target="_blank"}]
 
-- **Multi-Cell Cooperative Scheduling for Network Utility Maximization With User Equipment Side Interference Cancellation**  
+- **Multi-Cell Cooperative Scheduling for Network Utility Maximization with User Equipment Side Interference Cancellation**  
 Chen-Yu Wei and Wanjiun Liao  
 *IEEE Transactions on Wireless Communications 2018* 
 [[IEEE Xplore](https://ieeexplore.ieee.org/document/8100745){:target="_blank"}]
