@@ -5,7 +5,7 @@ layout: page
 
 I am a fifth-year Computer Science PhD student at **University of Southern California**.  I am very fortunate to be advised by [Prof. Haipeng Luo](https://haipeng-luo.net/){:target="_blank"}. I received my M.S. in Communication Engineering and B.S. in Electrical Engineering from **National Taiwan University**. My research focuses on designing provable algorithms for online decision making, reinforcement learning, and learning in multi-player games.  
   
-<div style="line-height:10%;">
+<div style="line-height:3%;">
     <br>
 </div>
 
@@ -17,7 +17,7 @@ Research Intern, Microsoft Research, Redmond, Summer 2019 <!-- (supervisor: [Ale
 Research Intern, Yahoo Research, New York, Summer 2018 <!--(supervisor: [Alina Beygelzimer](https://hunch.net/~beygel/), [David Pal](http://david.palenica.com/), [Balazs Szorenyi](https://research.yahoo.com/researchers/bszorenyi)) -->  
 Research Assistant, Academia Sinica, Taipei, 2015-2017 <!-- (supervisor: [Chi-Jen Lu](https://www.iis.sinica.edu.tw/pages/cjlu/)) -->
    
-<div style="line-height:10%;">
+<div style="line-height:3%;">
     <br>
 </div>
 
