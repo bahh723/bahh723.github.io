@@ -4,20 +4,24 @@ permalink: "/publications/"
 layout: page
 ---
 
-## Preprints <span style="font-size: 17px;">(* indicates equal contribution or alphabetical ordering)</span>
+<! -- ## Preprints <span style="font-size: 17px;">(* indicates equal contribution or alphabetical ordering)</span> -->
+
+
+## Published Papers <span style="font-size: 17px;">(* indicates equal contribution or alphabetical ordering)</span> 
+
+### 2022
 
 - **Independent Policy Gradient for Large-Scale Markov Potential Games: Sharper Rates, Function Approximation, and Game-Agnostic Convergence**  
 Dongsheng Ding\*, Chen-Yu Wei\*, Kaiqing Zhang\*, Mihailo Jovanovic  
+*ICML 2022* <span style="color:red">(Long Presentation)</span>  
 [[arXiv](https://arxiv.org/abs/2202.04129){:target="_blank"}]
+
 
 - **Personalization Improves Privacy-Accuracy Tradeoffs in Federated Optimization**  
 Alberto Bietti, Chen-Yu Wei, Miroslav Dudik, John Langford, Zhiwei Steven Wu  
+*ICML 2022*  
 [[arXiv](https://arxiv.org/abs/2202.05318){:target="_blank"}]
 
-
-## Published Papers  
-
-### 2022
 
 - **Decentralized Cooperative Reinforcement Learning with Hierarchical Information Structure**  
 Hsu Kao, Chen-Yu Wei, Vijay Subramanian  
@@ -131,7 +135,7 @@ Alina Beygelzimer\*, David Pal\*, Balazs Szorenyi\*, Devanathan Thiruvenkatachar
 
 - **Beating Stochastic and Adversarial Semi-Bandits Optimally and Simultaneously**  
 Julian Zimmert, Haipeng Luo, Chen-Yu Wei  
-*ICML 2019* <span style="color:red">(Long talk)</span> 
+*ICML 2019* <span style="color:red">(Long Presentation)</span> 
 [[arXiv](https://arxiv.org/abs/1901.08779){:target="_blank"}] [[slides](https://bahh723.github.io/document/semi-bandit.pdf){:target="_blank"}]
 
 
