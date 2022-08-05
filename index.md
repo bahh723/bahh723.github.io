@@ -14,11 +14,9 @@ Currently, I focus on designing provable algorithms for online decision making, 
 ## News
 I will join the Computer Science department at the University of Virginia as an assistant professor from Fall 2023.  
 
-<!-- <div style="line-height:3%;">
+<!-- <div style="line-height:5%;">
     <br>
 </div> -->
-
-<br/><br/>
 
 ## Research Experiences [[CV](https://bahh723.github.io/document/cv.pdf){:target="_blank"}]
 Student Visitor, Simons Institute, Spring 2022, *Learning and Games*   
