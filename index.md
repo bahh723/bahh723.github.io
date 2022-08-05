@@ -7,6 +7,8 @@ I am a Research Fellow at the **Simons Institute of the Theory of Computing**, u
 
 Currently, I focus on designing provable algorithms for online learning, reinforcement learning, and learning in multi-player games.  
   
+**Email**: chenyu.wei [at] usc.edu  
+
 <!-- <div style="line-height:3%;">
     <br>
 </div> --> 
@@ -31,5 +33,4 @@ Research Assistant, Academia Sinica, Taipei, 2015-2017 <!-- (supervisor: [Chi-Je
 </div> -->
 
 
-**Email**: chenyu.wei [at] usc.edu
 
