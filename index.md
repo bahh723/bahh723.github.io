@@ -18,6 +18,8 @@ I will join the Computer Science department at the University of Virginia as an 
     <br>
 </div> -->
 
+<br/><br/>
+
 ## Research Experiences [[CV](https://bahh723.github.io/document/cv.pdf){:target="_blank"}]
 Student Visitor, Simons Institute, Spring 2022, *Learning and Games*   
 Research Intern, Google Research, Summer 2021 <!--(supervisor: [Christoph Dann](https://cdann.net/), [Julian Zimmert](https://www.linkedin.com/in/julian-zimmert-998b39aa/?originalSubdomain=de)) -->  
@@ -26,6 +28,5 @@ Research Intern, Microsoft Research, Redmond, Summer 2019 <!-- (supervisor: [Ale
 Research Intern, Yahoo Research, New York, Summer 2018 <!--(supervisor: [Alina Beygelzimer](https://hunch.net/~beygel/), [David Pal](http://david.palenica.com/), [Balazs Szorenyi](https://research.yahoo.com/researchers/bszorenyi)) -->  
 Research Assistant, Academia Sinica, Taipei, 2015-2017 <!-- (supervisor: [Chi-Jen Lu](https://www.iis.sinica.edu.tw/pages/cjlu/)) -->
    
-
 <br/><br/>
 **Email**: chenyu.wei [at] usc.edu
