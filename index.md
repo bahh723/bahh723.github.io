@@ -3,7 +3,9 @@ title: "Home"
 layout: page
 ---
 
-I am a Research Fellow at the **Simons Institute of the Theory of Computing**, under the [Data-Driven Decision Process](https://simons.berkeley.edu/programs/datadriven2022) program.  I recently obtained my Ph.D. in Computer Science from the **University of Southern California**, where I was fortunate to be advised by [Prof. Haipeng Luo](https://haipeng-luo.net/){:target="_blank"}. I received my M.S. in Communication Engineering and B.S. in Electrical Engineering from **National Taiwan University**. My current research focuses on designing provable algorithms for online decision making, reinforcement learning, and learning in multi-player games.  
+I am a Research Fellow at the **Simons Institute of the Theory of Computing**, under the [Data-Driven Decision Process](https://simons.berkeley.edu/programs/datadriven2022) program.  I recently obtained my Ph.D. in Computer Science from the **University of Southern California**, where I was fortunate to be advised by [Prof. Haipeng Luo](https://haipeng-luo.net/){:target="_blank"}. I received my M.S. in Communication Engineering and B.S. in Electrical Engineering from **National Taiwan University**.  
+
+Recently, I focus on designing provable algorithms for online decision making, reinforcement learning, and learning in multi-player games.  
   
 <!-- <div style="line-height:3%;">
     <br>
