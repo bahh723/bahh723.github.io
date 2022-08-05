@@ -12,7 +12,7 @@ Currently, I focus on designing provable algorithms for online learning, reinfor
 </div> --> 
 
 ## News
-I will join the Computer Science department at the **University of Virginia** as an assistant professor from Fall 2023.  
+I will join the Computer Science department at the **University of Virginia** as an assistant professor from Fall 2023. Feel free to reach out to me if you are interested in working with me. 
 
 <!-- <div style="line-height:5%;">
     <br>
@@ -30,7 +30,6 @@ Research Assistant, Academia Sinica, Taipei, 2015-2017 <!-- (supervisor: [Chi-Je
     <br>
 </div> -->
 
-<br/>
 
 **Email**: chenyu.wei [at] usc.edu
 
