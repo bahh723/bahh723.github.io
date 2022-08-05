@@ -26,5 +26,8 @@ Research Intern, Microsoft Research, Redmond, Summer 2019 <!-- (supervisor: [Ale
 Research Intern, Yahoo Research, New York, Summer 2018 <!--(supervisor: [Alina Beygelzimer](https://hunch.net/~beygel/), [David Pal](http://david.palenica.com/), [Balazs Szorenyi](https://research.yahoo.com/researchers/bszorenyi)) -->  
 Research Assistant, Academia Sinica, Taipei, 2015-2017 <!-- (supervisor: [Chi-Jen Lu](https://www.iis.sinica.edu.tw/pages/cjlu/)) -->
    
-<br/><br/>
+<!-- <div style="line-height:5%;">
+    <br>
+</div> -->
+
 **Email**: chenyu.wei [at] usc.edu
