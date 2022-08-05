@@ -3,13 +3,20 @@ title: "Home"
 layout: page
 ---
 
-I am a Research Fellow at the **Simons Institute of the Theory of Computing**, under the [Data-Driven Decision Process](https://simons.berkeley.edu/programs/datadriven2022) program.  I recently obtained my Ph.D. in Computer Science from the **University of Southern California**, where I was fortunate to be advised by [Prof. Haipeng Luo](https://haipeng-luo.net/){:target="_blank"}. I received my M.S. in Communication Engineering and B.S. in Electrical Engineering from **National Taiwan University**.  
+I am a Research Fellow at the **Simons Institute of the Theory of Computing**, under the [Data-Driven Decision Processes](https://simons.berkeley.edu/programs/datadriven2022) program.  I recently obtained my Ph.D. in Computer Science from the **University of Southern California**, where I was fortunate to be advised by [Prof. Haipeng Luo](https://haipeng-luo.net/){:target="_blank"}. I received my M.S. in Communication Engineering and B.S. in Electrical Engineering from **National Taiwan University**.  
 
-Recently, I focus on designing provable algorithms for online decision making, reinforcement learning, and learning in multi-player games.  
+Currently, I focus on designing provable algorithms for online decision making, reinforcement learning, and learning in multi-player games.  
   
 <!-- <div style="line-height:3%;">
     <br>
 </div> --> 
+
+## News
+I will join the Computer Science department at the University of Virginia as an assistant professor from Fall 2023.  
+
+<!-- <div style="line-height:3%;">
+    <br>
+</div> -->
 
 ## Research Experiences [[CV](https://bahh723.github.io/document/cv.pdf){:target="_blank"}]
 Student Visitor, Simons Institute, Spring 2022, *Learning and Games*   
@@ -19,14 +26,6 @@ Research Intern, Microsoft Research, Redmond, Summer 2019 <!-- (supervisor: [Ale
 Research Intern, Yahoo Research, New York, Summer 2018 <!--(supervisor: [Alina Beygelzimer](https://hunch.net/~beygel/), [David Pal](http://david.palenica.com/), [Balazs Szorenyi](https://research.yahoo.com/researchers/bszorenyi)) -->  
 Research Assistant, Academia Sinica, Taipei, 2015-2017 <!-- (supervisor: [Chi-Jen Lu](https://www.iis.sinica.edu.tw/pages/cjlu/)) -->
    
-<!-- <div style="line-height:3%;">
-    <br>
-</div> -->
 
-
-## Teaching
-Teaching Assistant, Machine Learning, Fall 2021  
-Teaching Assistant, Introduction to Algorithms and Theory of Computing, Spring 2021  
-Teaching Assistant, Introduction to Online Learning, Fall 2017  
 <br/><br/>
 **Email**: chenyu.wei [at] usc.edu
