@@ -12,7 +12,7 @@ Currently, I focus on designing provable algorithms for online learning, reinfor
 </div> --> 
 
 ## News
-I will join the Computer Science department at the University of Virginia as an assistant professor from Fall 2023.  
+I will join the Computer Science department at the **University of Virginia** as an assistant professor from Fall 2023.  
 
 <!-- <div style="line-height:5%;">
     <br>
