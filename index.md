@@ -5,7 +5,7 @@ layout: page
 
 I am a Research Fellow at the **Simons Institute of the Theory of Computing**, under the [Data-Driven Decision Processes](https://simons.berkeley.edu/programs/datadriven2022) program.  I recently obtained my Ph.D. in Computer Science from the **University of Southern California**, where I was fortunate to be advised by [Prof. Haipeng Luo](https://haipeng-luo.net/){:target="_blank"}. I received my M.S. in Communication Engineering and B.S. in Electrical Engineering from **National Taiwan University**.  
 
-Currently, I focus on designing provable algorithms for online learning, reinforcement learning, and learning in multi-player games.  
+I am interested in designing provably efficient algorithms for online learning and reinforcement learning. 
   
 **Email**: chenyu.wei [at] usc.edu  
 
