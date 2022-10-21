@@ -7,7 +7,7 @@ layout: page
 ## Preprints <span style="font-size: 17px;">(* indicates equal contribution or alphabetical ordering)</span> 
 
 - **A Unified Algorithm for Stochastic Path Problems**  
-Cristoph Dann\*, Chen-Yu Wei\*, Julian Zimmert\*  
+Christoph Dann\*, Chen-Yu Wei\*, Julian Zimmert\*  
 [[arXiv](https://arxiv.org/abs/2210.09255){:target="_blank"}]
 
 
