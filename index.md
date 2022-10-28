@@ -5,7 +5,7 @@ layout: page
 
 I am a Research Fellow in the [Data-Driven Decision Processes](https://simons.berkeley.edu/programs/datadriven2022) program at the **Simons Institute for the Theory of Computing, UC Berkeley**.  I recently obtained my Ph.D. in Computer Science from the **University of Southern California**, where I was fortunate to be advised by [Prof. Haipeng Luo](https://haipeng-luo.net/){:target="_blank"}. I received my M.S. in Communication Engineering and B.S. in Electrical Engineering from **National Taiwan University**.  
 
-My research focuses on fundamental problems in online decision making (including reinforcement learning) and multi-agent learning dynamics. 
+My research focuses on fundamental problems in online decision making (including reinforcement learning) and dynamics of multi-agent systems. 
   
 **Email**: chenyu.wei [at] usc.edu  
 
