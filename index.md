@@ -14,7 +14,7 @@ My research focuses on fundamental problems in online learning, reinforcement le
 </div> --> 
 
 ## News
-I will join the Computer Science department at the **University of Virginia** as an assistant professor from Fall 2023. Feel free to contact me if you are interested in working with me. 
+I will join the Computer Science department at the **University of Virginia** as an assistant professor from Fall 2023. Please send me an email if you are interested in working with me. 
 
 <!-- <div style="line-height:5%;">
     <br>
