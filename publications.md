@@ -4,14 +4,19 @@ permalink: "/publications/"
 layout: page
 ---
 
-## Preprints <span style="font-size: 17px;">(* indicates equal contribution or alphabetical ordering)</span> 
+<!-- ## Preprints <span style="font-size: 17px;">(* indicates equal contribution or alphabetical ordering)</span> --> 
+
+
+
+## Publications <span style="font-size: 17px;">(* indicates equal contribution or alphabetical ordering)</span> 
+
+### 2023
 
 - **A Unified Algorithm for Stochastic Path Problems**  
 Christoph Dann\*, Chen-Yu Wei\*, Julian Zimmert\*  
+*ICML 2022*  
 [[arXiv](https://arxiv.org/abs/2210.09255){:target="_blank"}]
 
-
-## Published Papers  
 
 ### 2022
 
