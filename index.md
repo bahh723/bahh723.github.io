@@ -3,7 +3,7 @@ title: "Home"
 layout: page
 ---
 
-I am a Research Fellow in the [Data-Driven Decision Processes](https://simons.berkeley.edu/programs/datadriven2022) program at the **Simons Institute for the Theory of Computing, UC Berkeley**.  I recently obtained my Ph.D. in Computer Science from the **University of Southern California**, where I was fortunate to be advised by [Prof. Haipeng Luo](https://haipeng-luo.net/){:target="_blank"}. I received my M.S. degree in Communication Engineering and my B.S. degree in Electrical Engineering both from **National Taiwan University**.  
+I am a postdoctoral associate at MIT working with [Prof. Sasha Rakhlin](http://www.mit.edu/~rakhlin/).  I recently obtained my Ph.D. in Computer Science from the **University of Southern California**, where I was fortunate to be advised by [Prof. Haipeng Luo](https://haipeng-luo.net/){:target="_blank"}. I received my M.S. degree in Communication Engineering and my B.S. degree in Electrical Engineering both from **National Taiwan University**.  
 
 My research focuses on fundamental problems in online learning, reinforcement learning, and multi-agent learning. 
   
@@ -21,6 +21,7 @@ I will join the Computer Science department at the **University of Virginia** as
 </div> -->
 
 ## Research Experiences [[CV](https://bahh723.github.io/document/cv.pdf){:target="_blank"}]
+Research Fellow, Simons Institute, Fall 2022, *Data-Driven Decision Processes*    
 Student Visitor, Simons Institute, Spring 2022, *Learning and Games*   
 Research Intern, Google Research, Summer 2021   
 Student Visitor, Simons Institute, Fall 2020, *Theory of Reinforcement Learning*   
