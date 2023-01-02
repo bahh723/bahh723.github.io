@@ -3,7 +3,7 @@ title: "Home"
 layout: page
 ---
 
-I am a postdoctoral associate at MIT working with [Prof. Sasha Rakhlin](http://www.mit.edu/~rakhlin/).  I recently obtained my Ph.D. in Computer Science from the **University of Southern California**, where I was fortunate to be advised by [Prof. Haipeng Luo](https://haipeng-luo.net/){:target="_blank"}. I received my M.S. degree in Communication Engineering and my B.S. degree in Electrical Engineering both from **National Taiwan University**.  
+I am a postdoctoral associate at MIT working with [Prof. Sasha Rakhlin](http://www.mit.edu/~rakhlin/){:target="_blank"}.  I recently obtained my Ph.D. in Computer Science from the **University of Southern California**, where I was fortunate to be advised by [Prof. Haipeng Luo](https://haipeng-luo.net/){:target="_blank"}. I received my M.S. degree in Communication Engineering and my B.S. degree in Electrical Engineering both from **National Taiwan University**.  
 
 My research focuses on fundamental problems in online learning, reinforcement learning, and multi-agent learning. 
   
