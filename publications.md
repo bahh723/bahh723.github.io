@@ -6,6 +6,16 @@ layout: page
 
 ## Preprints <!--  <span style="font-size: 17px;">(* indicates equal contribution or alphabetical ordering)</span> --> 
 
+- **A Blackbox Approach to Best of Both Worlds in Bandits and Beyond**  
+Christoph Dann, Chen-Yu Wei, Julian Zimmert  
+[[arXiv](https://arxiv.org/abs/2302.09739){:target="_blank"}]
+
+
+- **Best of Both Worlds Policy Optimization**  
+Christoph Dann, Chen-Yu Wei, Julian Zimmert  
+[[arXiv](https://arxiv.org/abs/2302.09408){:target="_blank"}]
+
+
 - **Refined Regret for Adversarial MDPs with Linear Function Approximation**  
 Yan Dai, Haipeng Luo, Chen-Yu Wei, Julian Zimmert  
 [[arXiv](https://arxiv.org/abs/2301.12942){:target="_blank"}]
