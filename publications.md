@@ -23,13 +23,13 @@ Christoph Dann, Chen-Yu Wei, Julian Zimmert
 
 - **Best of Both Worlds Policy Optimization**  
 Christoph Dann, Chen-Yu Wei, Julian Zimmert  
-*ICML 2023* <span style="color:red">(Short Live Presentation)</span>  
+*ICML 2023* <span style="color:red">(Short Live Presentation)</span> 
 [[arXiv](https://arxiv.org/abs/2302.09408){:target="_blank"}]
 
 
 - **Refined Regret for Adversarial MDPs with Linear Function Approximation**  
 Yan Dai, Haipeng Luo, Chen-Yu Wei, Julian Zimmert  
-*ICML 2023*  
+*ICML 2023* 
 [[arXiv](https://arxiv.org/abs/2301.12942){:target="_blank"}]
 
 
