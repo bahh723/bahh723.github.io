@@ -11,15 +11,17 @@ Yang Cai, Haipeng Luo, Chen-Yu Wei, Weiqiang Zheng
 [[arXiv](https://arxiv.org/abs/2303.02738){:target="_blank"}]
 
 
-- **A Blackbox Approach to Best of Both Worlds in Bandits and Beyond**  
-Christoph Dann, Chen-Yu Wei, Julian Zimmert  
-[[arXiv](https://arxiv.org/abs/2302.09739){:target="_blank"}]
-
 
 
 ## Publications 
 
 ### 2023
+
+- **A Blackbox Approach to Best of Both Worlds in Bandits and Beyond**  
+Christoph Dann, Chen-Yu Wei, Julian Zimmert  
+*COLT 2023* 
+[[arXiv](https://arxiv.org/abs/2302.09739){:target="_blank"}]
+
 
 - **Best of Both Worlds Policy Optimization**  
 Christoph Dann, Chen-Yu Wei, Julian Zimmert  
