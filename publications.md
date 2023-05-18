@@ -7,7 +7,7 @@ layout: page
 ## Preprints <!--  <span style="font-size: 17px;">(* indicates equal contribution or alphabetical ordering)</span> --> 
 
 
-- **First-and Second-Order Bounds for Adversarial Linear Contextual Bandits**  
+- **First- and Second-Order Bounds for Adversarial Linear Contextual Bandits**  
 Julia Olkhovskaya, Jack Mayo, Tim van Erven, Gergely Neu, Chen-Yu Wei  
 [[arXiv](https://arxiv.org/abs/2305.00832){:target="_blank"}]
 
