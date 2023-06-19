@@ -3,9 +3,9 @@ title: "Home"
 layout: page
 ---
 
-I am a postdoctoral associate at MIT working with [Prof. Sasha Rakhlin](http://www.mit.edu/~rakhlin/){:target="_blank"}. I will join the Computer Science department at the **University of Virginia** as an assistant professor from Fall 2023. I obtained my Ph.D. in Computer Science from the **University of Southern California**, where I was fortunate to be advised by [Prof. Haipeng Luo](https://haipeng-luo.net/){:target="_blank"}. I received my M.S. degree in Communication Engineering and my B.S. degree in Electrical Engineering both from **National Taiwan University**.  
+I am a postdoctoral associate at MIT working with [Prof. Sasha Rakhlin](http://www.mit.edu/~rakhlin/){:target="_blank"}. I will be an assistant professor in the Computer Science department at the **University of Virginia** from Fall 2023. I obtained my Ph.D. in Computer Science from the **University of Southern California**, where I was fortunate to be advised by [Prof. Haipeng Luo](https://haipeng-luo.net/){:target="_blank"}. I received my M.S. degree in Communication Engineering and my B.S. degree in Electrical Engineering both from **National Taiwan University**.  
 
-My research focuses on fundamental problems in online learning, reinforcement learning, and multi-agent learning. 
+My research focuses on fundamental problems in online learning, reinforcement learning, multi-agent learning, and their intersections.  
   
 **Email**: chenyu.wei [at] usc.edu  
 
