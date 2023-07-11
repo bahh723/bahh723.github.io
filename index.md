@@ -7,7 +7,7 @@ I am a postdoctoral associate at MIT working with [Prof. Sasha Rakhlin](http://w
 
 My research focuses on fundamental problems in interactive decision-making and reinforcement learning. Specifically, I am interested in developing **robust and adaptive algorithms** that interact with potentially non-stationary or adversarial environments. Also, I am interested in understanding the **sample and computational complexity** involved in reinforcement learning problems, and devising efficient algorithms to tackle them. 
   
-**Email**: chenyu.wei [at] usc.edu  
+**Email**: chenyu.wei [at] virginia.edu  
 
 <!-- <div style="line-height:3%;">
     <br>
