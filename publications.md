@@ -6,6 +6,10 @@ layout: page
 
 ## Preprints <!--  <span style="font-size: 17px;">(* indicates equal contribution or alphabetical ordering)</span> --> 
 
+- **Last-Iterate Convergent Policy Gradient Primal-Dual Methods for Constrained MDPs**  
+Dongsheng Ding, Chen-Yu Wei, Kaiqing Zhang, Alejandro Ribeiro  
+[[arXiv](https://arxiv.org/abs/2306.11700){:target="_blank"}]  
+
 
 - **No-Regret Online Reinforcement Learning with Adversarial Losses and Transitions**  
 Tiancheng Jin, Junyan Liu, Chloe Rouyer, William Chang, Chen-Yu Wei, Haipeng Luo  
