@@ -45,7 +45,7 @@ Christoph Dann\*, Chen-Yu Wei\*, Julian Zimmert\*
 
 
 - **Refined Regret for Adversarial MDPs with Linear Function Approximation**  
-Yan Dai\*, Haipeng Luo\*, Chen-Yu Wei\*, Julian Zimmert\*  
+Yan Dai, Haipeng Luo, Chen-Yu Wei, Julian Zimmert  
 *ICML 2023* 
 [[arXiv](https://arxiv.org/abs/2301.12942){:target="_blank"}]
 
