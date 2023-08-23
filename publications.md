@@ -7,7 +7,7 @@ layout: page
 ## Preprints <!--  <span style="font-size: 17px;">(* indicates equal contribution or alphabetical ordering)</span> --> 
 
 - **Last-Iterate Convergent Policy Gradient Primal-Dual Methods for Constrained MDPs**  
-Dongsheng Ding, Chen-Yu Wei, Kaiqing Zhang, Alejandro Ribeiro  
+Dongsheng Ding*, Chen-Yu Wei*, Kaiqing Zhang*, Alejandro Ribeiro  
 [[arXiv](https://arxiv.org/abs/2306.11700){:target="_blank"}]  
 
 
