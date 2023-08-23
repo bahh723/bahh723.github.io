@@ -7,7 +7,7 @@ layout: page
 ## Preprints <!--  <span style="font-size: 17px;">(* indicates equal contribution or alphabetical ordering)</span> --> 
 
 - **Last-Iterate Convergent Policy Gradient Primal-Dual Methods for Constrained MDPs**  
-Dongsheng Ding*, Chen-Yu Wei*, Kaiqing Zhang*, Alejandro Ribeiro  
+Dongsheng Ding\*, Chen-Yu Wei\*, Kaiqing Zhang\*, Alejandro Ribeiro  
 [[arXiv](https://arxiv.org/abs/2306.11700){:target="_blank"}]  
 
 
@@ -22,7 +22,7 @@ Julia Olkhovskaya, Jack Mayo, Tim van Erven, Gergely Neu, Chen-Yu Wei
 
 
 - **Uncoupled and Convergent Learning in Two-Player Zero-Sum Markov Games**  
-Yang Cai, Haipeng Luo, Chen-Yu Wei, Weiqiang Zheng  
+Yang Cai*, Haipeng Luo*, Chen-Yu Wei*, Weiqiang Zheng*  
 [[arXiv](https://arxiv.org/abs/2303.02738){:target="_blank"}]
 
 
@@ -33,13 +33,13 @@ Yang Cai, Haipeng Luo, Chen-Yu Wei, Weiqiang Zheng
 ### 2023
 
 - **A Blackbox Approach to Best of Both Worlds in Bandits and Beyond**  
-Christoph Dann, Chen-Yu Wei, Julian Zimmert  
+Christoph Dann*, Chen-Yu Wei*, Julian Zimmert*  
 *COLT 2023* 
 [[arXiv](https://arxiv.org/abs/2302.09739){:target="_blank"}]
 
 
 - **Best of Both Worlds Policy Optimization**  
-Christoph Dann, Chen-Yu Wei, Julian Zimmert  
+Christoph Dann*, Chen-Yu Wei*, Julian Zimmert*  
 *ICML 2023* <span style="color:red">(Short Live Presentation)</span> 
 [[arXiv](https://arxiv.org/abs/2302.09408){:target="_blank"}]
 
@@ -51,7 +51,7 @@ Yan Dai, Haipeng Luo, Chen-Yu Wei, Julian Zimmert
 
 
 - **A Unified Algorithm for Stochastic Path Problems**  
-Christoph Dann, Chen-Yu Wei, Julian Zimmert  
+Christoph Dann*, Chen-Yu Wei*, Julian Zimmert*  
 *ALT 2023* 
 [[arXiv](https://arxiv.org/abs/2210.09255){:target="_blank"}]
 
@@ -59,7 +59,7 @@ Christoph Dann, Chen-Yu Wei, Julian Zimmert
 ### 2022
 
 - **Independent Policy Gradient for Large-Scale Markov Potential Games: Sharper Rates, Function Approximation, and Game-Agnostic Convergence**  
-Dongsheng Ding, Chen-Yu Wei, Kaiqing Zhang, Mihailo Jovanovic  
+Dongsheng Ding*, Chen-Yu Wei*, Kaiqing Zhang*, Mihailo Jovanovic  
 *ICML 2022* <span style="color:red">(Long Presentation)</span> 
 [[arXiv](https://arxiv.org/abs/2202.04129){:target="_blank"}]
 
@@ -86,14 +86,14 @@ Chen-Yu Wei, Christoph Dann, Julian Zimmert
 ### 2021
 
 - **Policy Optimization in Adversarial MDPs:  Improved Exploration via Dilated Bonuses**  
-Haipeng Luo, Chen-Yu Wei, Chung-Wei Lee  
+Haipeng Luo*, Chen-Yu Wei*, Chung-Wei Lee  
 *NeurIPS 2021* 
 [[arXiv](https://arxiv.org/abs/2107.08346){:target="_blank"}] 
 [[slides](https://bahh723.github.io/document/policy-optimization-in-adversarial-mdp-with-dilated-bonus.pdf){:target="_blank"}]
 [[slides](https://bahh723.github.io/document/exploration-bonus-for-policy-optimization.pdf){:target="_blank"}]
 
 - **Achieving Near Instance-Optimality and Minimax-Optimality in Stochastic and Adversarial Linear Bandits Simultaneously**  
-Chung-Wei Lee, Haipeng Luo, Chen-Yu Wei, Mengxiao Zhang, Xiaojin Zhang  
+Chung-Wei Lee*, Haipeng Luo*, Chen-Yu Wei*, Mengxiao Zhang*, Xiaojin Zhang*  
 *ICML 2021* 
 [[arXiv](https://arxiv.org/abs/2102.05858){:target="_blank"}] [[slides](https://bahh723.github.io/document/best-of-both-worlds-for-linear-bandits.pdf){:target="_blank"}]
 
@@ -103,12 +103,12 @@ Chen-Yu Wei and Haipeng Luo
 [[arXiv](https://arxiv.org/abs/2102.05406){:target="_blank"}] [[slides](https://bahh723.github.io/document/non-stationary-rl.pdf){:target="_blank"}]
 
 - **Last-iterate Convergence of Decentralized Optimistic Gradient Descent/Ascent in Infinite-Horizon Competitive Markov Games**  
-Chen-Yu Wei, Chung-Wei Lee, Mengxiao Zhang, Haipeng Luo  
+Chen-Yu Wei, Chung-Wei Lee*, Mengxiao Zhang*, Haipeng Luo  
 *COLT 2021* 
 [[arXiv](https://arxiv.org/abs/2102.04540){:target="_blank"}] [[slides](https://bahh723.github.io/document/last-iterate-convergence-of-ogda-in-markov-games.pdf){:target="_blank"}]
 
 - **Impossible Tuning Made Possible: A New Expert Algorithm and Its Applications**  
-Liyu Chen, Haipeng Luo, Chen-Yu Wei  
+Liyu Chen*, Haipeng Luo*, Chen-Yu Wei*  
 *COLT 2021* 
 [[arXiv](https://arxiv.org/abs/2102.01046){:target="_blank"}] [[slides](https://bahh723.github.io/document/impossible-tuning-made-possible.pdf){:target="_blank"}]
 
@@ -129,14 +129,14 @@ Chen-Yu Wei, Chung-Wei Lee, Mengxiao Zhang, Haipeng Luo
 [[slides](https://bahh723.github.io/document/linear-last-iterate-convergence-in-constrained-saddle-point-optimization.pdf){:target="_blank"}]
 
 - **Adversarial Online Learning with Changing Action Sets: Efficient Algorithms with Approximate Regret Bounds**  
-Ehsan Emamjomeh-Zadeh, Chen-Yu Wei, Haipeng Luo, David Kempe  
+Ehsan Emamjomeh-Zadeh*, Chen-Yu Wei*, Haipeng Luo, David Kempe  
 *ALT 2021* 
 [[arXiv](https://arxiv.org/abs/2003.03490){:target="_blank"}] [[slides](https://bahh723.github.io/document/adversarial-online-learning-with-changing-action-sets.pdf){:target="_blank"}]
 
 ### 2020
 
 - **Bias No More: High-Probability Data-Dependent Regret Bounds for Adversarial Bandits and MDPs**  
-Chung-Wei Lee, Haipeng Luo, Chen-Yu Wei, Mengxiao Zhang  
+Chung-Wei Lee*, Haipeng Luo*, Chen-Yu Wei*, Mengxiao Zhang*  
 *NeurIPS 2020*  <span style="color:red">(Oral)</span> 
 [[arXiv](https://arxiv.org/abs/2006.08040){:target="_blank"}] [[slides](https://bahh723.github.io/document/bias-no-more.pdf){:target="_blank"}]
 
@@ -160,23 +160,23 @@ Chen-Yu Wei, Mehdi Jafarnia-Jahromi, Haipeng Luo, Hiteshi Sharma, Rahul Jain
 ### 2019
 
 - **Analyzing the Variance of Policy Gradient Estimators for the Linear-Quadratic Regulator**  
-James Preiss, Sebastien Arnold, Chen-Yu Wei, Marius Kloft  
+James Preiss*, Sebastien Arnold*, Chen-Yu Wei*, Marius Kloft  
 *NeurIPS Workshop on Optimization Foundations for Reinforcement Learning 2019* [[arXiv](https://arxiv.org/abs/1910.01249){:target="_blank"}]  
 *SoCal Machine Learning Symposium 2019* <span style="color:red">(Best Poster Award)</span> 
 
 - **A New Algorithm for Non-Stationary Contextual Bandits: Efficient, Optimal, and Parameter-Free**  
-Yifang Chen, Chung-Wei Lee, Haipeng Luo, Chen-Yu Wei  
+Yifang Chen*, Chung-Wei Lee*, Haipeng Luo*, Chen-Yu Wei*  
 *COLT 2019* 
 [[arXiv](https://arxiv.org/abs/1902.00980){:target="_blank"}] 
 [[a joint extended abstract with Auer, Gajane, and Ortner](http://proceedings.mlr.press/v99/auer19b.html){:target="_blank"}] [[slides](https://bahh723.github.io/document/a-new-algorithm-for-non-stationary-contextual-bandits.pdf){:target="_blank"}]
 
 - **Improved Path-Length Regret Bounds for Bandits**  
-Sebastien Bubeck, Yuanzhi Li, Haipeng Luo, Chen-Yu Wei  
+Sebastien Bubeck*, Yuanzhi Li*, Haipeng Luo*, Chen-Yu Wei*  
 *COLT 2019* 
 [[arXiv](https://arxiv.org/abs/1901.10604){:target="_blank"}] [[slides](https://bahh723.github.io/document/improved-path-length-regret-bounds-for-bandits.pdf){:target="_blank"}]
 
 - **Bandit Multiclass Linear Classification: Efficient Algorithms for the Separable Case**  
-Alina Beygelzimer, David Pal, Balazs Szorenyi, Devanathan Thiruvenkatachari, Chen-Yu Wei, Chicheng Zhang  
+Alina Beygelzimer*, David Pal*, Balazs Szorenyi*, Devanathan Thiruvenkatachari*, Chen-Yu Wei*, Chicheng Zhang*  
 *ICML 2019* 
 [[arXiv](https://arxiv.org/abs/1902.02244){:target="_blank"}] 
 [[code](https://github.com/bahh723/separable-bandit-classification){:target="_blank"}] [[slides](https://bahh723.github.io/document/bandit-multiclass-linear-classification.pdf){:target="_blank"}]
@@ -190,12 +190,12 @@ Julian Zimmert, Haipeng Luo, Chen-Yu Wei
 ### 2018
 
 - **Efficient Online Portfolio with Logarithmic Regret**  
-Haipeng Luo, Chen-Yu Wei, Kai Zheng  
+Haipeng Luo*, Chen-Yu Wei*, Kai Zheng*  
 *NeurIPS 2018* <span style="color:red">(Spotlight)</span> 
 [[arXiv](https://arxiv.org/abs/1708.01799){:target="_blank"}] [[slides](https://bahh723.github.io/document/efficient-online-portfolio-with-logarithmic-regret.pdf){:target="_blank"}]
 
 - **Efficient Contextual Bandits in Non-Stationary Worlds**  
-Haipeng Luo, Chen-Yu Wei, Alekh Agarwal, John Langford  
+Haipeng Luo*, Chen-Yu Wei*, Alekh Agarwal, John Langford  
 *COLT 2018* 
 [[arXiv](https://arxiv.org/abs/1708.01799){:target="_blank"}] [[slides](https://bahh723.github.io/document/efficient-contextual-bandits-in-non-stationary-worlds.pdf){:target="_blank"}]
 
