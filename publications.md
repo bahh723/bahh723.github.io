@@ -35,13 +35,15 @@ Yang Cai\*, Haipeng Luo\*, Chen-Yu Wei\*, Weiqiang Zheng\*
 - **A Blackbox Approach to Best of Both Worlds in Bandits and Beyond**  
 Christoph Dann\*, Chen-Yu Wei\*, Julian Zimmert\*  
 *COLT 2023* 
-[[arXiv](https://arxiv.org/abs/2302.09739){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/2302.09739){:target="_blank"}] [[slides](https://bahh723.github.io/document/blackbox-approach-to-best-of-both-worlds.pdf){:target="_blank"}]
+
 
 
 - **Best of Both Worlds Policy Optimization**  
 Christoph Dann\*, Chen-Yu Wei\*, Julian Zimmert\*  
 *ICML 2023* <span style="color:red">(Short Live Presentation)</span> 
-[[arXiv](https://arxiv.org/abs/2302.09408){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/2302.09408){:target="_blank"}] [[slides](https://bahh723.github.io/document/best-of-both-worlds-policy-optimization.pdf){:target="_blank"}]
+
 
 
 - **Refined Regret for Adversarial MDPs with Linear Function Approximation**  
@@ -53,7 +55,8 @@ Yan Dai, Haipeng Luo, Chen-Yu Wei, Julian Zimmert
 - **A Unified Algorithm for Stochastic Path Problems**  
 Christoph Dann\*, Chen-Yu Wei\*, Julian Zimmert\*  
 *ALT 2023* 
-[[arXiv](https://arxiv.org/abs/2210.09255){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/2210.09255){:target="_blank"}] [[slides](https://bahh723.github.io/document/unified-stochastic-path.pdf){:target="_blank"}]
+
 
 
 ### 2022
