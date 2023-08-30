@@ -64,7 +64,8 @@ Christoph Dann\*, Chen-Yu Wei\*, Julian Zimmert\*
 - **Independent Policy Gradient for Large-Scale Markov Potential Games: Sharper Rates, Function Approximation, and Game-Agnostic Convergence**  
 Dongsheng Ding\*, Chen-Yu Wei\*, Kaiqing Zhang\*, Mihailo Jovanovic  
 *ICML 2022* <span style="color:red">(Long Presentation)</span> 
-[[arXiv](https://arxiv.org/abs/2202.04129){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/2202.04129){:target="_blank"}] [[video](https://slideslive.com/38983099/independent-policy-gradient-for-largescale-markov-potential-games-sharper-rates-function-approximation-and-gameagnostic-convergence){:target="_blank"}]
+
 
 
 - **Personalization Improves Privacy-Accuracy Tradeoffs in Federated Optimization**  
@@ -135,13 +136,13 @@ Chen-Yu Wei, Mehdi Jafarnia-Jahromi, Haipeng Luo, Rahul Jain
 Chen-Yu Wei, Chung-Wei Lee, Mengxiao Zhang, Haipeng Luo  
 *ICLR 2021* 
 [[arXiv](https://arxiv.org/abs/2006.09517){:target="_blank"}] [[code](https://github.com/bahh723/OGDA-last-iterate){:target="_blank"}] 
-[[slides](https://bahh723.github.io/document/linear-last-iterate-convergence-in-constrained-saddle-point-optimization.pdf){:target="_blank"}] [[video](https://slideslive.com/38954127/linear-lastiterate-convergence-in-constrained-saddlepoint-optimization?ref=recommended){:target="_blank"}]
+[[slides](https://bahh723.github.io/document/linear-last-iterate-convergence-in-constrained-saddle-point-optimization.pdf){:target="_blank"}] [[video](https://slideslive.com/38954127/linear-lastiterate-convergence-in-constrained-saddlepoint-optimization){:target="_blank"}]
 
 
 - **Adversarial Online Learning with Changing Action Sets: Efficient Algorithms with Approximate Regret Bounds**  
 Ehsan Emamjomeh-Zadeh\*, Chen-Yu Wei\*, Haipeng Luo, David Kempe  
 *ALT 2021* 
-[[arXiv](https://arxiv.org/abs/2003.03490){:target="_blank"}] [[slides](https://bahh723.github.io/document/adversarial-online-learning-with-changing-action-sets.pdf){:target="_blank"}] [[video](https://slideslive.com/38952813/adversarial-online-learning-with-changing-action-sets-efficient-algorithms-with-approximate-regret-bounds?ref=recommended){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/2003.03490){:target="_blank"}] [[slides](https://bahh723.github.io/document/adversarial-online-learning-with-changing-action-sets.pdf){:target="_blank"}] [[video](https://slideslive.com/38952813/adversarial-online-learning-with-changing-action-sets-efficient-algorithms-with-approximate-regret-bounds){:target="_blank"}]
 
 
 ### 2020
@@ -149,7 +150,7 @@ Ehsan Emamjomeh-Zadeh\*, Chen-Yu Wei\*, Haipeng Luo, David Kempe
 - **Bias No More: High-Probability Data-Dependent Regret Bounds for Adversarial Bandits and MDPs**  
 Chung-Wei Lee\*, Haipeng Luo\*, Chen-Yu Wei\*, Mengxiao Zhang\*  
 *NeurIPS 2020*  <span style="color:red">(Oral)</span> 
-[[arXiv](https://arxiv.org/abs/2006.08040){:target="_blank"}] [[slides](https://bahh723.github.io/document/bias-no-more.pdf){:target="_blank"}] [[video](https://slideslive.com/38938490/bias-no-more-highprobability-datadependent-regret-bounds-for-adversarial-bandits-and-mdps?ref=recommended){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/2006.08040){:target="_blank"}] [[slides](https://bahh723.github.io/document/bias-no-more.pdf){:target="_blank"}] [[video](https://slideslive.com/38938490/bias-no-more-highprobability-datadependent-regret-bounds-for-adversarial-bandits-and-mdps){:target="_blank"}]
 
 - **Federated Residual Learning**  
 Chen-Yu Wei, Alekh Agarwal, John Langford  
@@ -160,14 +161,14 @@ Chen-Yu Wei, Alekh Agarwal, John Langford
 - **Taking a Hint: How to Leverage Loss Predictors in Contextual Bandits?**  
 Chen-Yu Wei, Haipeng Luo, Alekh Agarwal  
 *COLT 2020* 
-[[arXiv](https://arxiv.org/abs/2003.01922){:target="_blank"}] [[slides](https://bahh723.github.io/document/how-to-leverage-loss-predictors-in-contextual-bandits.pdf){:target="_blank"}] [[video](https://slideslive.com/38931095/taking-a-hint-how-to-leverage-loss-predictors-in-contextual-bandits?ref=recommended){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/2003.01922){:target="_blank"}] [[slides](https://bahh723.github.io/document/how-to-leverage-loss-predictors-in-contextual-bandits.pdf){:target="_blank"}] [[video](https://slideslive.com/38931095/taking-a-hint-how-to-leverage-loss-predictors-in-contextual-bandits){:target="_blank"}]
 
 
 - **Model-free Reinforcement Learning in Infinite-Horizon Average-Reward Markov Decision Processes**  
 Chen-Yu Wei, Mehdi Jafarnia-Jahromi, Haipeng Luo, Hiteshi Sharma, Rahul Jain  
 *ICML 2020* 
 [[arXiv](https://arxiv.org/abs/1910.07072){:target="_blank"}] 
-[[code](https://github.com/bahh723/model-free-rl-algos){:target="_blank"}] [[slides](https://bahh723.github.io/document/model-free-rl-in-infinite-horizon-average-reward-mdp.pdf){:target="_blank"}] [[video](https://slideslive.com/38928250/modelfree-reinforcement-learning-in-infinitehorizon-averagereward-mdps?ref=recommended){:target="_blank"}]
+[[code](https://github.com/bahh723/model-free-rl-algos){:target="_blank"}] [[slides](https://bahh723.github.io/document/model-free-rl-in-infinite-horizon-average-reward-mdp.pdf){:target="_blank"}] [[video](https://slideslive.com/38928250/modelfree-reinforcement-learning-in-infinitehorizon-averagereward-mdps){:target="_blank"}]
 
 
 
