@@ -70,7 +70,8 @@ Dongsheng Ding\*, Chen-Yu Wei\*, Kaiqing Zhang\*, Mihailo Jovanovic
 - **Personalization Improves Privacy-Accuracy Tradeoffs in Federated Optimization**  
 Alberto Bietti, Chen-Yu Wei, Miroslav Dudik, John Langford, Zhiwei Steven Wu  
 *ICML 2022* 
-[[arXiv](https://arxiv.org/abs/2202.05318){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/2202.05318){:target="_blank"}] [[video](https://slideslive.com/38983416/personalization-improves-privacyaccuracy-tradeoffs-in-federated-learning){:target="_blank"}]
+
 
 
 - **Decentralized Cooperative Reinforcement Learning with Hierarchical Information Structure**  
@@ -93,17 +94,20 @@ Haipeng Luo\*, Chen-Yu Wei\*, Chung-Wei Lee
 *NeurIPS 2021* 
 [[arXiv](https://arxiv.org/abs/2107.08346){:target="_blank"}] 
 [[slides](https://bahh723.github.io/document/policy-optimization-in-adversarial-mdp-with-dilated-bonus.pdf){:target="_blank"}]
-[[slides](https://bahh723.github.io/document/exploration-bonus-for-policy-optimization.pdf){:target="_blank"}]
+[[slides](https://bahh723.github.io/document/exploration-bonus-for-policy-optimization.pdf){:target="_blank"}] [[video](https://slideslive.com/38968587/policy-optimization-in-adversarial-mdps-improved-exploration-via-dilated-bonuses){:target="_blank"}]
+
 
 - **Achieving Near Instance-Optimality and Minimax-Optimality in Stochastic and Adversarial Linear Bandits Simultaneously**  
 Chung-Wei Lee\*, Haipeng Luo\*, Chen-Yu Wei\*, Mengxiao Zhang\*, Xiaojin Zhang\*  
 *ICML 2021* 
-[[arXiv](https://arxiv.org/abs/2102.05858){:target="_blank"}] [[slides](https://bahh723.github.io/document/best-of-both-worlds-for-linear-bandits.pdf){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/2102.05858){:target="_blank"}] [[slides](https://bahh723.github.io/document/best-of-both-worlds-for-linear-bandits.pdf){:target="_blank"}] [[video](https://slideslive.com/38959312/achieving-near-instanceoptimality-and-minimaxoptimality-in-stochastic-and-adversarial-linear-bandits-simultaneously){:target="_blank"}]
+
 
 - **Non-stationary Reinforcement Learning without Prior Knowledge: An Optimal Black-Box Approach**  
 Chen-Yu Wei and Haipeng Luo  
 *COLT 2021*  <span style="color:red">(Best Paper Award)</span> 
-[[arXiv](https://arxiv.org/abs/2102.05406){:target="_blank"}] [[slides](https://bahh723.github.io/document/non-stationary-rl.pdf){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/2102.05406){:target="_blank"}] [[slides](https://bahh723.github.io/document/non-stationary-rl.pdf){:target="_blank"}] [[video](https://www.youtube.com/watch?v=kLMVbPnD5kc){:target="_blank"}]
+
 
 - **Last-iterate Convergence of Decentralized Optimistic Gradient Descent/Ascent in Infinite-Horizon Competitive Markov Games**  
 Chen-Yu Wei, Chung-Wei Lee\*, Mengxiao Zhang\*, Haipeng Luo  
@@ -118,46 +122,53 @@ Liyu Chen\*, Haipeng Luo\*, Chen-Yu Wei\*
 - **Minimax Regret for Stochastic Shortest Path with Adversarial Costs and Known Transition**  
 Liyu Chen, Haipeng Luo, Chen-Yu Wei  
 *COLT 2021* 
-[[arXiv](https://arxiv.org/abs/2012.04053){:target="_blank"}] [[slides](https://bahh723.github.io/document/adversarial-stochastic-shortest-path-with-known-transition.pdf){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/2012.04053){:target="_blank"}] [[slides](https://bahh723.github.io/document/adversarial-stochastic-shortest-path-with-known-transition.pdf){:target="_blank"}] [[video](https://www.youtube.com/watch?v=uneHM2mm3z0){:target="_blank"}]
+
 
 - **Learning Infinite-Horizon Average-Reward MDPs with Linear Function Approximation**  
 Chen-Yu Wei, Mehdi Jafarnia-Jahromi, Haipeng Luo, Rahul Jain  
 *AISTAT 2021* 
-[[arXiv](https://arxiv.org/abs/2007.11849){:target="_blank"}] [[slides](https://bahh723.github.io/document/average-reward-linear-mdp.pdf){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/2007.11849){:target="_blank"}] [[slides](https://bahh723.github.io/document/average-reward-linear-mdp.pdf){:target="_blank"}] [[video](https://www.youtube.com/watch?v=NpG97aEctqE){:target="_blank"}]
+
 
 - **Linear Last-Iterate Convergence in Constrained Saddle-Point Optimization**  
 Chen-Yu Wei, Chung-Wei Lee, Mengxiao Zhang, Haipeng Luo  
 *ICLR 2021* 
 [[arXiv](https://arxiv.org/abs/2006.09517){:target="_blank"}] [[code](https://github.com/bahh723/OGDA-last-iterate){:target="_blank"}] 
-[[slides](https://bahh723.github.io/document/linear-last-iterate-convergence-in-constrained-saddle-point-optimization.pdf){:target="_blank"}]
+[[slides](https://bahh723.github.io/document/linear-last-iterate-convergence-in-constrained-saddle-point-optimization.pdf){:target="_blank"}] [[video](https://slideslive.com/38954127/linear-lastiterate-convergence-in-constrained-saddlepoint-optimization?ref=recommended){:target="_blank"}]
+
 
 - **Adversarial Online Learning with Changing Action Sets: Efficient Algorithms with Approximate Regret Bounds**  
 Ehsan Emamjomeh-Zadeh\*, Chen-Yu Wei\*, Haipeng Luo, David Kempe  
 *ALT 2021* 
-[[arXiv](https://arxiv.org/abs/2003.03490){:target="_blank"}] [[slides](https://bahh723.github.io/document/adversarial-online-learning-with-changing-action-sets.pdf){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/2003.03490){:target="_blank"}] [[slides](https://bahh723.github.io/document/adversarial-online-learning-with-changing-action-sets.pdf){:target="_blank"}] [[video](https://slideslive.com/38952813/adversarial-online-learning-with-changing-action-sets-efficient-algorithms-with-approximate-regret-bounds?ref=recommended){:target="_blank"}]
+
 
 ### 2020
 
 - **Bias No More: High-Probability Data-Dependent Regret Bounds for Adversarial Bandits and MDPs**  
 Chung-Wei Lee\*, Haipeng Luo\*, Chen-Yu Wei\*, Mengxiao Zhang\*  
 *NeurIPS 2020*  <span style="color:red">(Oral)</span> 
-[[arXiv](https://arxiv.org/abs/2006.08040){:target="_blank"}] [[slides](https://bahh723.github.io/document/bias-no-more.pdf){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/2006.08040){:target="_blank"}] [[slides](https://bahh723.github.io/document/bias-no-more.pdf){:target="_blank"}] [[video](https://slideslive.com/38938490/bias-no-more-highprobability-datadependent-regret-bounds-for-adversarial-bandits-and-mdps?ref=recommended){:target="_blank"}]
 
 - **Federated Residual Learning**  
 Chen-Yu Wei, Alekh Agarwal, John Langford  
 *NeurIPS Workshop on Scalability, Privacy, and Security in Federated Learning 2020* 
-[[arXiv](https://arxiv.org/abs/2003.12880){:target="_blank"}] [[workshop version](http://icfl.cc/wp-content/uploads/2020/12/SpicyFL_2020_paper_74.pdf){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/2003.12880){:target="_blank"}] 
+
 
 - **Taking a Hint: How to Leverage Loss Predictors in Contextual Bandits?**  
 Chen-Yu Wei, Haipeng Luo, Alekh Agarwal  
 *COLT 2020* 
-[[arXiv](https://arxiv.org/abs/2003.01922){:target="_blank"}] [[slides](https://bahh723.github.io/document/how-to-leverage-loss-predictors-in-contextual-bandits.pdf){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/2003.01922){:target="_blank"}] [[slides](https://bahh723.github.io/document/how-to-leverage-loss-predictors-in-contextual-bandits.pdf){:target="_blank"}] [[video](https://slideslive.com/38931095/taking-a-hint-how-to-leverage-loss-predictors-in-contextual-bandits?ref=recommended){:target="_blank"}]
+
 
 - **Model-free Reinforcement Learning in Infinite-Horizon Average-Reward Markov Decision Processes**  
 Chen-Yu Wei, Mehdi Jafarnia-Jahromi, Haipeng Luo, Hiteshi Sharma, Rahul Jain  
 *ICML 2020* 
 [[arXiv](https://arxiv.org/abs/1910.07072){:target="_blank"}] 
-[[code](https://github.com/bahh723/model-free-rl-algos){:target="_blank"}] [[slides](https://bahh723.github.io/document/model-free-rl-in-infinite-horizon-average-reward-mdp.pdf){:target="_blank"}]
+[[code](https://github.com/bahh723/model-free-rl-algos){:target="_blank"}] [[slides](https://bahh723.github.io/document/model-free-rl-in-infinite-horizon-average-reward-mdp.pdf){:target="_blank"}] [[video](https://slideslive.com/38928250/modelfree-reinforcement-learning-in-infinitehorizon-averagereward-mdps?ref=recommended){:target="_blank"}]
+
 
 
 ### 2019
@@ -200,12 +211,14 @@ Haipeng Luo\*, Chen-Yu Wei\*, Kai Zheng\*
 - **Efficient Contextual Bandits in Non-Stationary Worlds**  
 Haipeng Luo\*, Chen-Yu Wei\*, Alekh Agarwal, John Langford  
 *COLT 2018* 
-[[arXiv](https://arxiv.org/abs/1708.01799){:target="_blank"}] [[slides](https://bahh723.github.io/document/efficient-contextual-bandits-in-non-stationary-worlds.pdf){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/1708.01799){:target="_blank"}] [[slides](https://bahh723.github.io/document/efficient-contextual-bandits-in-non-stationary-worlds.pdf){:target="_blank"}] [[video](https://www.youtube.com/watch?v=VSJ-_ioGeZI){:target="_blank"}]
+
 
 - **More Adaptive Algorithms for Adversarial Bandits**  
 Chen-Yu Wei and Haipeng Luo  
 *COLT 2018* 
-[[arXiv](https://arxiv.org/abs/1801.03265){:target="_blank"}] [[slides](https://bahh723.github.io/document/more-adaptive-algorithms-for-adversarial-bandits.pdf){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/1801.03265){:target="_blank"}] [[slides](https://bahh723.github.io/document/more-adaptive-algorithms-for-adversarial-bandits.pdf){:target="_blank"}] [[video](https://www.youtube.com/watch?v=q5wGKMJ8tk0){:target="_blank"}]
+
 
 - **Multi-Cell Cooperative Scheduling for Network Utility Maximization with User Equipment Side Interference Cancellation**  
 Chen-Yu Wei and Wanjiun Liao  
