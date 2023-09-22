@@ -13,31 +13,31 @@ layout: page
 
 - **Bypassing the Simulator: Near-Optimal Adversarial Linear Contextual Bandits**  
 Haolin Liu\*, Chen-Yu Wei\*, Julian Zimmert\*  
-*NeurIPS 2023*  
+*NeurIPS 2023* 
 [[arXiv](https://arxiv.org/abs/2309.00814){:target="_blank"}]  
 
 
 - **Last-Iterate Convergent Policy Gradient Primal-Dual Methods for Constrained MDPs**  
 Dongsheng Ding\*, Chen-Yu Wei\*, Kaiqing Zhang\*, Alejandro Ribeiro  
-*NeurIPS 2023*  
+*NeurIPS 2023* 
 [[arXiv](https://arxiv.org/abs/2306.11700){:target="_blank"}]  
 
 
 - **No-Regret Online Reinforcement Learning with Adversarial Losses and Transitions**  
 Tiancheng Jin, Junyan Liu, Chloe Rouyer, William Chang, Chen-Yu Wei, Haipeng Luo  
-*NeurIPS 2023*  
+*NeurIPS 2023* 
 [[arXiv](https://arxiv.org/abs/2305.17380){:target="_blank"}]
 
 
 - **First- and Second-Order Bounds for Adversarial Linear Contextual Bandits**  
 Julia Olkhovskaya, Jack Mayo, Tim van Erven, Gergely Neu, Chen-Yu Wei  
-*NeurIPS 2023*  
+*NeurIPS 2023* 
 [[arXiv](https://arxiv.org/abs/2305.00832){:target="_blank"}]
 
 
 - **Uncoupled and Convergent Learning in Two-Player Zero-Sum Markov Games**  
 Yang Cai\*, Haipeng Luo\*, Chen-Yu Wei\*, Weiqiang Zheng\*  
-*NeurIPS 2023*  
+*NeurIPS 2023* 
 [[arXiv](https://arxiv.org/abs/2303.02738){:target="_blank"}]
 
 
