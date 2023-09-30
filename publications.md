@@ -117,7 +117,7 @@ Chung-Wei Lee\*, Haipeng Luo\*, Chen-Yu Wei\*, Mengxiao Zhang\*, Xiaojin Zhang\*
 - **Non-stationary Reinforcement Learning without Prior Knowledge: An Optimal Black-Box Approach**  
 Chen-Yu Wei and Haipeng Luo  
 *COLT 2021*  <span style="color:red">(Best Paper Award)</span> 
-[[arXiv](https://arxiv.org/abs/2102.05406){:target="_blank"}] [[slides](https://bahh723.github.io/document/non-stationary-rl.pdf){:target="_blank"}] [[video](https://www.youtube.com/watch?v=kLMVbPnD5kc){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/2102.05406){:target="_blank"}] [[slides](https://bahh723.github.io/document/non-stationary-rl.pdf){:target="_blank"}] [[slides](https://bahh723.github.io/document/non-stationary-bandit.pdf){:target="_blank"}] [[video](https://www.youtube.com/watch?v=kLMVbPnD5kc){:target="_blank"}]
 
 
 - **Last-iterate Convergence of Decentralized Optimistic Gradient Descent/Ascent in Infinite-Horizon Competitive Markov Games**  
