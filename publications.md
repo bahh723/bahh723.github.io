@@ -4,7 +4,7 @@ permalink: "/publications/"
 layout: page
 ---
 
-## Preprints   <span style="font-size: 17px;">(* indicates equal contribution or alphabetical ordering)</span>  
+## Preprints   
 
 - **Towards Optimal Regret in Adversarial Linear MDPs with Bandit Feedback**  
 Haolin Liu\*, Chen-Yu Wei\*, Julian Zimmert\*  
