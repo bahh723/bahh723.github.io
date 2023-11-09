@@ -1,8 +1,44 @@
----
-title: "Reinforcement Learning (Spring 2024)"
-layout: default
----
-<article>
-  <header><h1><a href="{{ page.url | relative_url }}"></a></h1></header>
-  {{ content }}
-</article>
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en" }}">
+<head>
+  <!-- Add any head elements here like meta tags, CSS links, etc. -->
+  <title>
+    {% if page.title %}
+      {{ page.title | escape }} - {{ site.title | escape }}
+    {% else %}
+      {{ site.title | escape }}
+    {% endif %}
+  </title>
+  <!-- Include other head elements like CSS/JS, favicon etc. -->
+  {% if page.mathjax or site.mathjax %}
+    <!-- Include MathJax if necessary -->
+  {% endif %}
+</head>
+<body>
+
+  {% if page.show_sidebar or site.show_sidebar %}
+    {% include sidebar.html %}
+  {% endif %}
+  
+  <!-- Navigation Menu -->
+  {% if site.navigation %}
+    {% include menu.html menu=site.navigation %}
+  {% else %}
+    <!-- Auto-generate a menu from site pages -->
+    {% assign pages = site.pages | where_exp: "item", "item.title and item.sitemap != false" | sort: "order" %}
+    {% include menu.html menu=pages %}
+  {% endif %}
+  
+  <!-- Page content -->
+  <div class="page-content">
+    {{ content }}
+  </div>
+
+  <!-- Footer or additional content here -->
+  
+  {% if site.external %}
+    <!-- Include external links or scripts -->
+  {% endif %}
+
+</body>
+</html>
