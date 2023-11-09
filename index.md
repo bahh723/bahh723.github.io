@@ -2,8 +2,8 @@
 title: "Home"
 layout: page
 ---
-
-I am an Assistant Professor in the Computer Science department at the **University of Virginia**. Previously, I was a Postdoctoral Associate at MIT working with [Prof. Alexander Rakhlin](http://www.mit.edu/~rakhlin/){:target="_blank"}. I obtained my Ph.D. in Computer Science from the **University of Southern California**, where I was fortunate to be advised by [Prof. Haipeng Luo](https://haipeng-luo.net/){:target="_blank"}. I hold an M.S. degree in Communication Engineering and a B.S. degree in Electrical Engineering, both from **National Taiwan University**.  
+ 
+I am an Assistant Professor in the Computer Science department at the **University of Virginia**. Previously, I was a Postdoctoral Associate at MIT working with [Prof. Alexander Rakhlin](http://www.mit.edu/~rakhlin/){:target="_blank"}. I obtained my Ph.D. in Computer Science from the **University of Southern California**, where I was fortunate to be advised by [Prof. Haipeng Luo](https://haipeng-luo.net/){:target="_blank"}. I hold an M.S. degree in Communication Engineering and a B.S. degree in Electrical Engineering, both from **National Taiwan University**.   
 
 My research focuses on fundamental problems in interactive decision-making and reinforcement learning. Specifically, I am interested in developing **robust and adaptive algorithms** that interact with potentially non-stationary or adversarial environments. Also, I am interested in understanding the **sample and computational complexity** involved in reinforcement learning problems, and devising efficient algorithms to tackle them. 
   
