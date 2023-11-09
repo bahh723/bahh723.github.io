@@ -14,6 +14,13 @@ show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      show_navigation: true 
+
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
