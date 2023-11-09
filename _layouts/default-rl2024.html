@@ -28,10 +28,8 @@
 {% endif %}
 
 <header>
-  <head>
-        <title>Reinforcement Learning</title>
-  </head>
-  <h1>{{ site.title | escape }} </h1>   {% include menu.html menu=pages %}
+  <h1>{{ page.title | default: "Reinforcement Learning" | escape }}</h1>
+  {% include menu.html menu=pages %}
 </header>
 
 {{ content }} 
