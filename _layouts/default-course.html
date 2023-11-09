@@ -26,7 +26,9 @@
 <header>
   <h1>{{ page.title | default: "Chen-Yu Wei" | escape }}</h1>
   {% include menu.html menu=pages %}
-  
+  <head>
+        <title>Reinforcement Learning</title>
+  </head>
     {% if page.show_navigation %}
       <!-- Navigation menu inclusion -->
       {% if site.navigation %}
