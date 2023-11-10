@@ -25,6 +25,10 @@
 
 <header>
   <h1>{{ page.title | default: "Chen-Yu Wei" | escape }}</h1>
+  {% if page.subtitle %}
+    <br>
+    <h2 class="subtitle" style="display: block; margin-top: 1em;">{{ page.subtitle }}</h2>
+  {% endif %}
   {% include menu.html menu=pages %}
   <head>
         <title>Reinforcement Learning</title>
