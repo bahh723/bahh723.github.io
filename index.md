@@ -7,7 +7,7 @@ I am an Assistant Professor in the Computer Science department at the **Universi
 
 I am broadly interested in the field of interactive learning, with a focus on designing effective algorithms in a principled manner. My work is centered around the following topics:   
 - Robust and adaptive learning algorithms that can handle potentially non-stationary or adversarial environments;   
-- Sample-efficient reinforcement learning algorithm that perform strategic exploration over large state spaces;   
+- Sample-efficient reinforcement learning algorithms that perform strategic exploration over large state spaces;   
 - Decentralized multi-agent learning algorithms which achieve desired equilibria with efficient communication and coordination.  
 
 I am actively seeking collaborative opportunities, particularly those with a strong potential for practical application.  
