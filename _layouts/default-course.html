@@ -22,9 +22,15 @@
 {% if site.comments.isso_domain and page.layout == "post" %}<script data-isso="http://{{ site.comments.isso_domain }}" src="//{{ site.comments.isso_domain }}/js/embed.min.js"></script>{% endif %}
 {% if site.show_sidebar or site.sidebar %}{% include sidebar.html %}{% endif %}
 
-  <style>
-    header h1, header h2 {
-        display: block;
+   <style>
+    header h1 {
+      display: block;
+      margin-bottom: 0; /* Adjust as necessary */
+    }
+
+    header h2 {
+      display: block;
+      margin-top: 0; /* Adjust as necessary */
     }
   </style>
 </head>
