@@ -30,8 +30,8 @@
     header h2 {
       display: block !important;
       position: relative; /* Adjust the position if necessary */
-      top: 8px; /* You can increase or decrease this value to move the subtitle down */
-      left: -50px;
+      top: 6px; /* You can increase or decrease this value to move the subtitle down */
+      left: -80px;
     }
   </style>
 </head>
@@ -43,9 +43,6 @@
     <h2>{{ page.subtitle | escape }}</h2>
   {% endif %}
   {% include menu.html menu=pages %}
-  <head>
-        <title>Reinforcement Learning</title>
-  </head>
     {% if page.show_navigation %}
       <!-- Navigation menu inclusion -->
       {% if site.navigation %}
