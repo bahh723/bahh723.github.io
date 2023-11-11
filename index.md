@@ -9,6 +9,7 @@ I am broadly interested in the field of interactive learning, with a focus on de
 - Robust and adaptive learning algorithms that can handle potentially non-stationary or adversarial environments;   
 - Sample-efficient reinforcement learning algorithm that perform strategic exploration over large state spaces;   
 - Decentralized multi-agent learning algorithms which achieve desired equilibria with bounded communication and coordination.  
+
 I am actively seeking collaborative opportunities, particularly those with a strong potential for practical application.  
   
 **Email**: chenyu.wei [at] virginia.edu  
