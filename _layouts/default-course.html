@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 <!-- <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title> -->
+<head>
 <meta charset="{{ site.encoding }}">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="author" content="{{ page.author | default: site.author | escape }}">
@@ -21,8 +22,9 @@
 {% if site.comments.isso_domain and page.layout == "post" %}<script data-isso="http://{{ site.comments.isso_domain }}" src="//{{ site.comments.isso_domain }}/js/embed.min.js"></script>{% endif %}
 {% if site.show_sidebar or site.sidebar %}{% include sidebar.html %}{% endif %}
 
+</head>
 
-
+<body>
 <header>
   <h1>{{ page.title | default: "Chen-Yu Wei" | escape }}</h1>
   {% if page.subtitle %}
@@ -42,6 +44,7 @@
       {% include menu.html menu=pages %}
     {% endif %}
 </header>
+</body>
 
 {{ content }} 
 
