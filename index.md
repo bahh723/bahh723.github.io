@@ -10,7 +10,7 @@ I am broadly interested in the field of interactive learning, with a focus on de
 - Sample-efficient reinforcement learning algorithms that perform strategic exploration over large state spaces;   
 - Decentralized multi-agent learning algorithms that achieve desired equilibria with efficient communication and coordination.  
 
-I am actively seeking collaborative opportunities, particularly those with a strong potential for practical application.  
+I am actively seeking collaborative opportunities, particularly those with practical applications.  
   
 **Email**: chenyu.wei [at] virginia.edu  
 **Office**: Rice Hall 409  
