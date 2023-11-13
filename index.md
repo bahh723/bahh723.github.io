@@ -14,7 +14,6 @@ I am actively seeking collaborative opportunities, particularly those with a str
   
 **Email**: chenyu.wei [at] virginia.edu  
 **Office**: Rice Hall 409  
-**Chinese Name**: ???
 
 <!-- <div style="line-height:3%;">
     <br>
