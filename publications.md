@@ -55,7 +55,7 @@ Christoph Dann\*, Chen-Yu Wei\*, Julian Zimmert\*
 
 - **Best of Both Worlds Policy Optimization**  
 Christoph Dann\*, Chen-Yu Wei\*, Julian Zimmert\*  
-*ICML 2023* <span style="color:red">(Short Live Presentation)</span> 
+*ICML 2023* <span style="color:red">(Long Talk)</span> 
 [[arXiv](https://arxiv.org/abs/2302.09408){:target="_blank"}] [[slides](https://bahh723.github.io/document/best-of-both-worlds-policy-optimization.pdf){:target="_blank"}]
 
 
@@ -78,7 +78,7 @@ Christoph Dann\*, Chen-Yu Wei\*, Julian Zimmert\*
 
 - **Independent Policy Gradient for Large-Scale Markov Potential Games: Sharper Rates, Function Approximation, and Game-Agnostic Convergence**  
 Dongsheng Ding\*, Chen-Yu Wei\*, Kaiqing Zhang\*, Mihailo Jovanovic  
-*ICML 2022* <span style="color:red">(Long Presentation)</span> 
+*ICML 2022* <span style="color:red">(Long Talk)</span> 
 [[arXiv](https://arxiv.org/abs/2202.04129){:target="_blank"}] [[video](https://slideslive.com/38983099/independent-policy-gradient-for-largescale-markov-potential-games-sharper-rates-function-approximation-and-gameagnostic-convergence){:target="_blank"}]
 
 
@@ -213,7 +213,7 @@ Alina Beygelzimer\*, David Pal\*, Balazs Szorenyi\*, Devanathan Thiruvenkatachar
 
 - **Beating Stochastic and Adversarial Semi-Bandits Optimally and Simultaneously**  
 Julian Zimmert, Haipeng Luo, Chen-Yu Wei  
-*ICML 2019* <span style="color:red">(Long Presentation)</span> 
+*ICML 2019* <span style="color:red">(Long Talk)</span> 
 [[arXiv](https://arxiv.org/abs/1901.08779){:target="_blank"}] [[slides](https://bahh723.github.io/document/beating-stochastic-and-adversarial-semi-bandits-optimally-and-simultaneously.pdf){:target="_blank"}]
 
 
