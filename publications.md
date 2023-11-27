@@ -205,16 +205,18 @@ Sebastien Bubeck\*, Yuanzhi Li\*, Haipeng Luo\*, Chen-Yu Wei\*
 *COLT 2019* 
 [[arXiv](https://arxiv.org/abs/1901.10604){:target="_blank"}] [[slides](https://bahh723.github.io/document/improved-path-length-regret-bounds-for-bandits.pdf){:target="_blank"}]
 
-- **Bandit Multiclass Linear Classification: Efficient Algorithms for the Separable Case**  
-Alina Beygelzimer\*, David Pal\*, Balazs Szorenyi\*, Devanathan Thiruvenkatachari\*, Chen-Yu Wei\*, Chicheng Zhang\*  
-*ICML 2019* 
-[[arXiv](https://arxiv.org/abs/1902.02244){:target="_blank"}] 
-[[code](https://github.com/bahh723/separable-bandit-classification){:target="_blank"}] [[slides](https://bahh723.github.io/document/bandit-multiclass-linear-classification.pdf){:target="_blank"}]
 
 - **Beating Stochastic and Adversarial Semi-Bandits Optimally and Simultaneously**  
 Julian Zimmert, Haipeng Luo, Chen-Yu Wei  
 *ICML 2019* <span style="color:red">(Long Talk)</span> 
 [[arXiv](https://arxiv.org/abs/1901.08779){:target="_blank"}] [[slides](https://bahh723.github.io/document/beating-stochastic-and-adversarial-semi-bandits-optimally-and-simultaneously.pdf){:target="_blank"}]
+
+
+- **Bandit Multiclass Linear Classification: Efficient Algorithms for the Separable Case**  
+Alina Beygelzimer\*, David Pal\*, Balazs Szorenyi\*, Devanathan Thiruvenkatachari\*, Chen-Yu Wei\*, Chicheng Zhang\*  
+*ICML 2019* 
+[[arXiv](https://arxiv.org/abs/1902.02244){:target="_blank"}] 
+[[code](https://github.com/bahh723/separable-bandit-classification){:target="_blank"}] [[slides](https://bahh723.github.io/document/bandit-multiclass-linear-classification.pdf){:target="_blank"}]
 
 
 ### 2018
