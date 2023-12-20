@@ -5,10 +5,10 @@ layout: page
  
 I am an Assistant Professor in the Computer Science department at the **University of Virginia**. Previously, I was a Postdoctoral Associate at MIT working with [Prof. Alexander Rakhlin](http://www.mit.edu/~rakhlin/){:target="_blank"}. I obtained my Ph.D. in Computer Science from the **University of Southern California**, where I was fortunate to be advised by [Prof. Haipeng Luo](https://haipeng-luo.net/){:target="_blank"}. I hold an M.S. degree in Communication Engineering and a B.S. degree in Electrical Engineering, both from **National Taiwan University**.   
 
-I am broadly interested in the field of interactive learning, with a focus on designing effective algorithms in a principled manner. My work is centered around the following topics:   
-- Robust and adaptive learning algorithms that can handle potentially non-stationary or adversarial environments;   
+I am broadly interested in the field of interactive learning. My work is centered around the following topics:   
+- Robust and adaptive learning algorithms that handle non-stationary or adversarial environments;   
 - Sample-efficient reinforcement learning algorithms that perform strategic exploration over large state spaces;   
-- Decentralized multi-agent learning algorithms which achieve desired equilibria with efficient communication and coordination.  
+- Decentralized multi-agent learning algorithms with efficient communication and coordination.  
 
 I am actively seeking collaborative opportunities, particularly those with a strong potential for practical application.  
   
