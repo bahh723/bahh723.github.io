@@ -7,7 +7,7 @@ layout: page
 ## Preprints   
 
 - **Towards Optimal Regret in Adversarial Linear MDPs with Bandit Feedback**  
-Haolin Liu\*, Chen-Yu Wei\*, Julian Zimmert\*  
+(&alpha;-&beta;) Haolin Liu, Chen-Yu Wei, Julian Zimmert  
 [[arXiv](https://arxiv.org/abs/2310.11550){:target="_blank"}]  
  
 
@@ -17,7 +17,7 @@ Haolin Liu\*, Chen-Yu Wei\*, Julian Zimmert\*
 
 
 - **Bypassing the Simulator: Near-Optimal Adversarial Linear Contextual Bandits**  
-Haolin Liu\*, Chen-Yu Wei\*, Julian Zimmert\*  
+(&alpha;-&beta;) Haolin Liu, Chen-Yu Wei, Julian Zimmert  
 *NeurIPS 2023* 
 [[arXiv](https://arxiv.org/abs/2309.00814){:target="_blank"}]  
 
@@ -41,34 +41,34 @@ Julia Olkhovskaya, Jack Mayo, Tim van Erven, Gergely Neu, Chen-Yu Wei
 
 
 - **Uncoupled and Convergent Learning in Two-Player Zero-Sum Markov Games**  
-Yang Cai\*, Haipeng Luo\*, Chen-Yu Wei\*, Weiqiang Zheng\*  
+(&alpha;-&beta;) Yang Cai, Haipeng Luo, Chen-Yu Wei, Weiqiang Zheng  
 *NeurIPS 2023* 
 [[arXiv](https://arxiv.org/abs/2303.02738){:target="_blank"}]
 
 
 - **A Blackbox Approach to Best of Both Worlds in Bandits and Beyond**  
-Christoph Dann\*, Chen-Yu Wei\*, Julian Zimmert\*  
+(&alpha;-&beta;) Christoph Dann, Chen-Yu Wei, Julian Zimmert  
 *COLT 2023* 
 [[arXiv](https://arxiv.org/abs/2302.09739){:target="_blank"}] [[slides](https://bahh723.github.io/document/blackbox-approach-to-best-of-both-worlds.pdf){:target="_blank"}]
 
 
 
 - **Best of Both Worlds Policy Optimization**  
-Christoph Dann\*, Chen-Yu Wei\*, Julian Zimmert\*  
+(&alpha;-&beta;) Christoph Dann, Chen-Yu Wei, Julian Zimmert  
 *ICML 2023* <span style="color:red">(Long Talk)</span> 
 [[arXiv](https://arxiv.org/abs/2302.09408){:target="_blank"}] [[slides](https://bahh723.github.io/document/best-of-both-worlds-policy-optimization.pdf){:target="_blank"}]
 
 
 
 - **Refined Regret for Adversarial MDPs with Linear Function Approximation**  
-Yan Dai, Haipeng Luo, Chen-Yu Wei, Julian Zimmert  
+(&alpha;-&beta;) Yan Dai, Haipeng Luo, Chen-Yu Wei, Julian Zimmert  
 *ICML 2023* 
 [[arXiv](https://arxiv.org/abs/2301.12942){:target="_blank"}] [[slides](https://diamond-duke.github.io/files/slides_ICML2023_Linear_AMDP.pdf){:target="_blank"}]
 
 
 
 - **A Unified Algorithm for Stochastic Path Problems**  
-Christoph Dann\*, Chen-Yu Wei\*, Julian Zimmert\*  
+(&alpha;-&beta;) Christoph Dann, Chen-Yu Wei, Julian Zimmert  
 *ALT 2023* 
 [[arXiv](https://arxiv.org/abs/2210.09255){:target="_blank"}] [[slides](https://bahh723.github.io/document/unified-stochastic-path.pdf){:target="_blank"}]
 
@@ -114,7 +114,7 @@ Haipeng Luo\*, Chen-Yu Wei\*, Chung-Wei Lee
 
 
 - **Achieving Near Instance-Optimality and Minimax-Optimality in Stochastic and Adversarial Linear Bandits Simultaneously**  
-Chung-Wei Lee\*, Haipeng Luo\*, Chen-Yu Wei\*, Mengxiao Zhang\*, Xiaojin Zhang\*  
+(&alpha;-&beta;) Chung-Wei Lee, Haipeng Luo, Chen-Yu Wei, Mengxiao Zhang, Xiaojin Zhang  
 *ICML 2021* 
 [[arXiv](https://arxiv.org/abs/2102.05858){:target="_blank"}] [[slides](https://bahh723.github.io/document/best-of-both-worlds-for-linear-bandits.pdf){:target="_blank"}] [[video](https://slideslive.com/38959312/achieving-near-instanceoptimality-and-minimaxoptimality-in-stochastic-and-adversarial-linear-bandits-simultaneously){:target="_blank"}]
 
@@ -131,7 +131,7 @@ Chen-Yu Wei, Chung-Wei Lee\*, Mengxiao Zhang\*, Haipeng Luo
 [[arXiv](https://arxiv.org/abs/2102.04540){:target="_blank"}] [[slides](https://bahh723.github.io/document/last-iterate-convergence-of-ogda-in-markov-games.pdf){:target="_blank"}]
 
 - **Impossible Tuning Made Possible: A New Expert Algorithm and Its Applications**  
-Liyu Chen\*, Haipeng Luo\*, Chen-Yu Wei\*  
+(&alpha;-&beta;) Liyu Chen, Haipeng Luo, Chen-Yu Wei  
 *COLT 2021* 
 [[arXiv](https://arxiv.org/abs/2102.01046){:target="_blank"}] [[slides](https://bahh723.github.io/document/impossible-tuning-made-possible.pdf){:target="_blank"}]
 
@@ -163,7 +163,7 @@ Ehsan Emamjomeh-Zadeh\*, Chen-Yu Wei\*, Haipeng Luo, David Kempe
 ### 2020
 
 - **Bias No More: High-Probability Data-Dependent Regret Bounds for Adversarial Bandits and MDPs**  
-Chung-Wei Lee\*, Haipeng Luo\*, Chen-Yu Wei\*, Mengxiao Zhang\*  
+(&alpha;-&beta;) Chung-Wei Lee, Haipeng Luo, Chen-Yu Wei, Mengxiao Zhang  
 *NeurIPS 2020*  <span style="color:red">(Oral)</span> 
 [[arXiv](https://arxiv.org/abs/2006.08040){:target="_blank"}] [[slides](https://bahh723.github.io/document/bias-no-more.pdf){:target="_blank"}] [[video](https://slideslive.com/38938490/bias-no-more-highprobability-datadependent-regret-bounds-for-adversarial-bandits-and-mdps){:target="_blank"}]
 
@@ -195,13 +195,13 @@ James Preiss\*, Sebastien Arnold\*, Chen-Yu Wei\*, Marius Kloft
 *SoCal Machine Learning Symposium 2019* <span style="color:red">(Best Poster Award)</span> 
 
 - **A New Algorithm for Non-Stationary Contextual Bandits: Efficient, Optimal, and Parameter-Free**  
-Yifang Chen\*, Chung-Wei Lee\*, Haipeng Luo\*, Chen-Yu Wei\*  
+(&alpha;-&beta;) Yifang Chen, Chung-Wei Lee, Haipeng Luo, Chen-Yu Wei  
 *COLT 2019* 
 [[arXiv](https://arxiv.org/abs/1902.00980){:target="_blank"}] 
 [[a joint extended abstract with Auer, Gajane, and Ortner](http://proceedings.mlr.press/v99/auer19b.html){:target="_blank"}] [[slides](https://bahh723.github.io/document/a-new-algorithm-for-non-stationary-contextual-bandits.pdf){:target="_blank"}]
 
 - **Improved Path-Length Regret Bounds for Bandits**  
-Sebastien Bubeck\*, Yuanzhi Li\*, Haipeng Luo\*, Chen-Yu Wei\*  
+(&alpha;-&beta;) Sebastien Bubeck\*, Yuanzhi Li, Haipeng Luo, Chen-Yu Wei  
 *COLT 2019* 
 [[arXiv](https://arxiv.org/abs/1901.10604){:target="_blank"}] [[slides](https://bahh723.github.io/document/improved-path-length-regret-bounds-for-bandits.pdf){:target="_blank"}]
 
@@ -213,7 +213,7 @@ Julian Zimmert, Haipeng Luo, Chen-Yu Wei
 
 
 - **Bandit Multiclass Linear Classification: Efficient Algorithms for the Separable Case**  
-Alina Beygelzimer\*, David Pal\*, Balazs Szorenyi\*, Devanathan Thiruvenkatachari\*, Chen-Yu Wei\*, Chicheng Zhang\*  
+(&alpha;-&beta;) Alina Beygelzimer, David Pal, Balazs Szorenyi, Devanathan Thiruvenkatachari, Chen-Yu Wei, Chicheng Zhang  
 *ICML 2019* 
 [[arXiv](https://arxiv.org/abs/1902.02244){:target="_blank"}] 
 [[code](https://github.com/bahh723/separable-bandit-classification){:target="_blank"}] [[slides](https://bahh723.github.io/document/bandit-multiclass-linear-classification.pdf){:target="_blank"}]
