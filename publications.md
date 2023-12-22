@@ -222,7 +222,7 @@ Alina Beygelzimer\*, David Pal\*, Balazs Szorenyi\*, Devanathan Thiruvenkatachar
 ### 2018
 
 - **Efficient Online Portfolio with Logarithmic Regret**  
-(&alpha-&beta) Haipeng Luo, Chen-Yu Wei, Kai Zheng  
+(&alpha;-&beta;) Haipeng Luo, Chen-Yu Wei, Kai Zheng  
 *NeurIPS 2018* <span style="color:red">(Spotlight)</span> 
 [[arXiv](https://arxiv.org/abs/1708.01799){:target="_blank"}] [[slides](https://bahh723.github.io/document/efficient-online-portfolio-with-logarithmic-regret.pdf){:target="_blank"}]
 
