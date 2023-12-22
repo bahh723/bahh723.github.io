@@ -201,7 +201,7 @@ James Preiss\*, Sebastien Arnold\*, Chen-Yu Wei\*, Marius Kloft
 [[a joint extended abstract with Auer, Gajane, and Ortner](http://proceedings.mlr.press/v99/auer19b.html){:target="_blank"}] [[slides](https://bahh723.github.io/document/a-new-algorithm-for-non-stationary-contextual-bandits.pdf){:target="_blank"}]
 
 - **Improved Path-Length Regret Bounds for Bandits**  
-(&alpha;-&beta;) Sebastien Bubeck\*, Yuanzhi Li, Haipeng Luo, Chen-Yu Wei  
+(&alpha;-&beta;) Sebastien Bubeck, Yuanzhi Li, Haipeng Luo, Chen-Yu Wei  
 *COLT 2019* 
 [[arXiv](https://arxiv.org/abs/1901.10604){:target="_blank"}] [[slides](https://bahh723.github.io/document/improved-path-length-regret-bounds-for-bandits.pdf){:target="_blank"}]
 
