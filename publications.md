@@ -4,14 +4,17 @@ permalink: "/publications/"
 layout: page
 ---
 
-## Preprints   
-
-- **Towards Optimal Regret in Adversarial Linear MDPs with Bandit Feedback**  
-(&alpha;-&beta;) Haolin Liu, Chen-Yu Wei, Julian Zimmert  
-[[arXiv](https://arxiv.org/abs/2310.11550){:target="_blank"}]  
  
 
 ## Publications 
+
+### 2024 
+
+- **Towards Optimal Regret in Adversarial Linear MDPs with Bandit Feedback**  
+(&alpha;-&beta;) Haolin Liu, Chen-Yu Wei, Julian Zimmert  
+*ICLR 2024* <span style="color:red">(Spotlight)</span> 
+[[arXiv](https://arxiv.org/abs/2310.11550){:target="_blank"}]  
+
 
 ### 2023
 
