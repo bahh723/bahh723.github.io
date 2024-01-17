@@ -39,7 +39,7 @@ Research Assistant, Academia Sinica, Taipei, 2015-2017
 </div> -->
 
 ## Teaching 
-Spring 2024:  [CS 6501 Reinforcement Learning](https://bahh723.github.io/rl2024sp/){:target="_blank"}
+Spring 2024: &nbsp; [CS 6501 Reinforcement Learning](https://bahh723.github.io/rl2024sp/){:target="_blank"}
 
 
 
