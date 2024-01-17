@@ -38,3 +38,8 @@ comments:
 
 plugins:
  - jekyll-feed
+
+markdown: kramdown
+
+kramdown:
+  input: GFM

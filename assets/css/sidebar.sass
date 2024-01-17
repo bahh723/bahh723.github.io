@@ -23,7 +23,7 @@ body > article
 aside
   display: block!important
   position: fixed
-  overflow: auto
+  overflow: hidden
   background: darken($dark, 2%)
   color: #fff
   padding: 2.25em
@@ -53,3 +53,13 @@ nav a:hover, nav a.selected
 
 .description
   margin: 2em 0
+
+table
+  width: 100% // Make table width responsive to the container
+  border-collapse: collapse // For styling, if you need borders
+
+table, th, td
+  border: 1px solid black // For styling, if you need borders
+
+.table-responsive
+  overflow-x: hidden // Makes the table scrollable horizontally on small screens
