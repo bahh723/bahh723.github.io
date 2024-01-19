@@ -32,7 +32,7 @@ Dongsheng Ding\*, Chen-Yu Wei\*, Kaiqing Zhang\*, Alejandro Ribeiro
 
 
 - **No-Regret Online Reinforcement Learning with Adversarial Losses and Transitions**  
-Tiancheng Jin, Junyan Liu, Chloe Rouyer, William Chang, Chen-Yu Wei, Haipeng Luo  
+Tiancheng Jin\*, Junyan Liu\*, Chloe Rouyer, William Chang, Chen-Yu Wei, Haipeng Luo  
 *NeurIPS 2023* 
 [[arXiv](https://arxiv.org/abs/2305.17380){:target="_blank"}]
 
