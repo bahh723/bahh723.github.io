@@ -10,6 +10,12 @@ layout: page
 
 ### 2024 
 
+- **Near-Optimal Policy Optimization for Correlated Equilibrium in General-Sum Markov Games**  
+(&alpha;-&beta;) Yang Cai, Haipeng Luo, Chen-Yu Wei, Weiqiang Zheng  
+*AISTAT 2024* <span style="color:red">(Oral)</span> 
+[[arXiv](https://arxiv.org/abs/2401.15240){:target="_blank"}]  
+
+
 - **Towards Optimal Regret in Adversarial Linear MDPs with Bandit Feedback**  
 (&alpha;-&beta;) Haolin Liu, Chen-Yu Wei, Julian Zimmert  
 *ICLR 2024* <span style="color:red">(Spotlight)</span> 
