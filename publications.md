@@ -4,7 +4,11 @@ permalink: "/publications/"
 layout: page
 ---
 
- 
+## Preprints
+
+- **Offline Reinforcement Learning: Role of State Aggregation and Trajectory Data**  
+(&alpha;-&beta;) Zeyu Jia, Alexander Rakhlin, Ayush Sekhari, Chen-Yu Wei   
+[[preprint](https://bahh723.github.io/document/offline-rl.pdf){:target="_blank"}]  
 
 ## Publications 
 
