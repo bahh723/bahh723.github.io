@@ -7,6 +7,12 @@ I am an Assistant Professor in the Computer Science department at the **Universi
 
 <!-- My current interest in online learning was ignited during my time at **Academia Sinica**, where I worked with [Prof. Chi-Jen Lu](https://homepage.iis.sinica.edu.tw/pages/cjlu/){:target="_blank"}. I hold a M.S. degree in Communication Engineering and a B.S. degree in Electrical Engineering, both obtained from **National Taiwan University**.  --> 
 
+**Email**: chenyu.wei [at] virginia.edu  
+**Office**: Rice Hall 409  
+[Curriculum vitae](https://bahh723.github.io/document/cv.pdf){:target="_blank"} / [Google scholar](https://scholar.google.com/citations?user=2L2cR-kAAAAJ){:target="_blank"}  
+
+## Research
+
 I am broadly interested in the field of interactive machine learning. My work is centered around the following topics:   
 - Robust and adaptive learning algorithms for non-stationary or adversarial environments;   
 - Sample-efficient reinforcement learning algorithms with strategic exploration;   
@@ -14,9 +20,7 @@ I am broadly interested in the field of interactive machine learning. My work is
 
 I am actively seeking collaborative opportunities, particularly those with a strong potential for practical application.  
   
-**Email**: chenyu.wei [at] virginia.edu  
-**Office**: Rice Hall 409  
-[Curriculum vitae](https://bahh723.github.io/document/cv.pdf){:target="_blank"} / [Google scholar](https://scholar.google.com/citations?user=2L2cR-kAAAAJ){:target="_blank"}  
+
 
 <!-- <div style="line-height:3%;">
     <br>
