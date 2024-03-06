@@ -16,7 +16,7 @@ I am actively seeking collaborative opportunities, particularly those with a str
   
 **Email**: chenyu.wei [at] virginia.edu  
 **Office**: Rice Hall 409  
-[[Curriculum vitae](https://bahh723.github.io/document/cv.pdf){:target="_blank"}]  
+[Curriculum vitae](https://bahh723.github.io/document/cv.pdf){:target="_blank"} / [Google scholar](https://scholar.google.com/citations?user=2L2cR-kAAAAJ){:target="_blank"}  
 
 <!-- <div style="line-height:3%;">
     <br>
