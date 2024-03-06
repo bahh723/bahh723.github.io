@@ -3,13 +3,12 @@ title: "Home"
 layout: page
 ---
  
-I am an Assistant Professor in the Computer Science department at the **University of Virginia**. Prior to joining UVA, I was a Postdoctoral Associate at MIT working with [Prof. Sasha Rakhlin](http://www.mit.edu/~rakhlin/){:target="_blank"}. I obtained my Ph.D. in Computer Science at the **University of Southern California**, where I was advised by [Prof. Haipeng Luo](https://haipeng-luo.net/){:target="_blank"}. 
+I am an Assistant Professor in the Computer Science department at the **University of Virginia**. Prior to joining UVA, I was a Postdoctoral Associate at MIT working with [Prof. Sasha Rakhlin](http://www.mit.edu/~rakhlin/){:target="_blank"}. I obtained my Ph.D. in Computer Science at the **University of Southern California**, where I was advised by [Prof. Haipeng Luo](https://haipeng-luo.net/){:target="_blank"}. Here is my [CV](https://bahh723.github.io/document/cv.pdf){:target="_blank"}. 
 
 <!-- My current interest in online learning was ignited during my time at **Academia Sinica**, where I worked with [Prof. Chi-Jen Lu](https://homepage.iis.sinica.edu.tw/pages/cjlu/){:target="_blank"}. I hold a M.S. degree in Communication Engineering and a B.S. degree in Electrical Engineering, both obtained from **National Taiwan University**.  --> 
 
 **Email**: chenyu.wei [at] virginia.edu  
 **Office**: Rice Hall 409  
-[CV](https://bahh723.github.io/document/cv.pdf){:target="_blank"} / [Google scholar](https://scholar.google.com/citations?user=2L2cR-kAAAAJ){:target="_blank"}  
 
 ## Research
 
