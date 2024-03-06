@@ -21,6 +21,11 @@ I am broadly interested in the field of interactive machine learning. My work is
 I am actively seeking collaborative opportunities, particularly those with a strong potential for practical application.  
   
 
+## Teaching
+
+Spring 2024: &nbsp; [CS 6501 Reinforcement Learning](https://bahh723.github.io/rl2024sp/)  
+Spring 2024: &nbsp; CS 4501 Introduction to Algorithmic Economics (co-teaching with Denis Nekipelov)  
+
 
 <!-- <div style="line-height:3%;">
     <br>
