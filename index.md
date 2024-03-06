@@ -9,7 +9,7 @@ I am an Assistant Professor in the Computer Science department at the **Universi
 
 **Email**: chenyu.wei [at] virginia.edu  
 **Office**: Rice Hall 409  
-[Curriculum vitae](https://bahh723.github.io/document/cv.pdf){:target="_blank"} / [Google scholar](https://scholar.google.com/citations?user=2L2cR-kAAAAJ){:target="_blank"}  
+[CV](https://bahh723.github.io/document/cv.pdf){:target="_blank"} / [Google scholar](https://scholar.google.com/citations?user=2L2cR-kAAAAJ){:target="_blank"}  
 
 ## Research
 
