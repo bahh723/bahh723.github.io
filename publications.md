@@ -6,6 +6,11 @@ layout: page
 
 ## Preprints
 
+- **Tractable Local Equilibria in Non-Concave Games**  
+(&alpha;-&beta;) Yang Cai, Constantinos Daskalakis, Haipeng Luo, Chen-Yu Wei, Weiqiang Zheng  
+[[arXiv](https://arxiv.org/abs/2403.08171){:target="_blank"}]  
+
+
 - **Offline Reinforcement Learning: Role of State Aggregation and Trajectory Data**  
 (&alpha;-&beta;) Zeyu Jia, Alexander Rakhlin, Ayush Sekhari, Chen-Yu Wei   
 [[preprint](https://bahh723.github.io/document/offline-rl.pdf){:target="_blank"}]  
