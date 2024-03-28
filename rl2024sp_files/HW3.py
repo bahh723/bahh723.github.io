@@ -259,6 +259,7 @@ NUM_EPISODES = 2000
 #### Similarly, if the input algorithm == "DDQN", it will utilize DDQN to train. If the input algorithm == "DN", it will utilize Dueling Networks to train
 def train_models(algorithm):
     episode_returns = []
+    average_returns = []
     for iteration in range(NUM_EPISODES):
     ## Choose action based on epsilon greedy
         current_episode_return = 0
@@ -300,6 +301,12 @@ def train_models(algorithm):
                     print('Episode {},  score: {}'.format(iteration, current_episode_return))
                 
                 episode_returns.append(current_episode_return)
+                #### Store the average returns of 100 consecutive episodes
+                if iteration < 100:
+                    average_returns.append(np.average(episode_returns))
+                else:
+                    average_returns.append(np.average(episode_returns[iteration-100: iteration]))
+                
                 
             else: 
                 state = next_state
@@ -316,8 +323,9 @@ def train_models(algorithm):
     plt.title('Training with ' + algorithm)
     plt.xlabel('Episode')
     plt.ylabel('Reward')
-    plt.plot(episode_returns)
-
+    plt.plot(episode_returns, label = "Episode Rewards")
+    plt.plot(average_returns, label = "Average Rewards")
+    plt.legend()
     plt.savefig("Training with " + algorithm)
     plt.show()
 
