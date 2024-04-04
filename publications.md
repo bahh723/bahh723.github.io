@@ -74,7 +74,7 @@ Julia Olkhovskaya, Jack Mayo, Tim van Erven, Gergely Neu, Chen-Yu Wei
 - **Best of Both Worlds Policy Optimization**  
 (&alpha;-&beta;) Christoph Dann, Chen-Yu Wei, Julian Zimmert  
 *ICML 2023* <span style="color:red">(Long Talk)</span> 
-[[arXiv](https://arxiv.org/abs/2302.09408){:target="_blank"}] [[slides](https://bahh723.github.io/document/best-of-both-worlds-policy-optimization.pdf){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/2302.09408){:target="_blank"}] [[slides](https://bahh723.github.io/document/best-of-both-worlds-policy-optimization.pdf){:target="_blank"}] [[video](https://slideslive.com/39006642/best-of-both-worlds-policy-optimization?ref=speaker-18927){:target="_blank"}]
 
 
 
