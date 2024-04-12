@@ -37,31 +37,31 @@ layout: page
 - **Bypassing the Simulator: Near-Optimal Adversarial Linear Contextual Bandits**  
 (&alpha;-&beta;) Haolin Liu, Chen-Yu Wei, Julian Zimmert  
 *NeurIPS 2023* 
-[[arXiv](https://arxiv.org/abs/2309.00814){:target="_blank"}]  
+[[arXiv](https://arxiv.org/abs/2309.00814){:target="_blank"}] [[video](https://slideslive.com/39009540/bypassing-the-simulator-nearoptimal-adversarial-linear-contextual-bandits?ref=search-presentations){:target="_blank"}] 
 
 
 - **Last-Iterate Convergent Policy Gradient Primal-Dual Methods for Constrained MDPs**  
 Dongsheng Ding\*, Chen-Yu Wei\*, Kaiqing Zhang\*, Alejandro Ribeiro  
 *NeurIPS 2023* 
-[[arXiv](https://arxiv.org/abs/2306.11700){:target="_blank"}]  
+[[arXiv](https://arxiv.org/abs/2306.11700){:target="_blank"}] [[video](https://slideslive.com/39009306/lastiterate-convergent-policy-gradient-primaldual-methods-for-constrained-mdps?ref=search-presentations){:target="_blank"}] 
 
 
 - **No-Regret Online Reinforcement Learning with Adversarial Losses and Transitions**  
 Tiancheng Jin\*, Junyan Liu\*, Chloe Rouyer, William Chang, Chen-Yu Wei, Haipeng Luo  
 *NeurIPS 2023* 
-[[arXiv](https://arxiv.org/abs/2305.17380){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/2305.17380){:target="_blank"}] [[video](https://slideslive.com/39011477/noregret-online-reinforcement-learning-with-adversarial-losses-and-transitions?ref=search-presentations){:target="_blank"}]
 
 
 - **First- and Second-Order Bounds for Adversarial Linear Contextual Bandits**  
 Julia Olkhovskaya, Jack Mayo, Tim van Erven, Gergely Neu, Chen-Yu Wei  
 *NeurIPS 2023* 
-[[arXiv](https://arxiv.org/abs/2305.00832){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/2305.00832){:target="_blank"}] [[video](https://slideslive.com/39009624/first-and-secondorder-bounds-for-adversarial-linear-contextual-bandits?ref=search-presentations){:target="_blank"}]
 
 
 - **Uncoupled and Convergent Learning in Two-Player Zero-Sum Markov Games**  
 (&alpha;-&beta;) Yang Cai, Haipeng Luo, Chen-Yu Wei, Weiqiang Zheng  
 *NeurIPS 2023* 
-[[arXiv](https://arxiv.org/abs/2303.02738){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/2303.02738){:target="_blank"}] [[video](https://slideslive.com/39009322/uncoupled-and-convergent-learning-in-twoplayer-zerosum-markov-games-with-bandit-feedback?ref=search-presentations){:target="_blank"}]
 
 
 - **A Blackbox Approach to Best of Both Worlds in Bandits and Beyond**  
