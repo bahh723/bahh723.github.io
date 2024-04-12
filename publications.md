@@ -81,7 +81,7 @@ Julia Olkhovskaya, Jack Mayo, Tim van Erven, Gergely Neu, Chen-Yu Wei
 - **Refined Regret for Adversarial MDPs with Linear Function Approximation**  
 (&alpha;-&beta;) Yan Dai, Haipeng Luo, Chen-Yu Wei, Julian Zimmert  
 *ICML 2023* 
-[[arXiv](https://arxiv.org/abs/2301.12942){:target="_blank"}] [[slides](https://diamond-duke.github.io/files/slides_ICML2023_Linear_AMDP.pdf){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/2301.12942){:target="_blank"}] [[slides](https://diamond-duke.github.io/files/slides_ICML2023_Linear_AMDP.pdf){:target="_blank"}] [[video](https://slideslive.com/39003236/refined-regret-for-adversarial-mdps-with-linear-function-approximation?ref=search-presentations){:target="_blank"}]
 
 
 
