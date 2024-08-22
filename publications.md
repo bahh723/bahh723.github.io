@@ -6,7 +6,7 @@ layout: page
 
 ## Preprints
 
-- **Tractable Local Equilibria in Non-Concave Games**  
+- **On Tractable &Phi;-Equilibria in Non-Concave Games**  
 (&alpha;-&beta;) Yang Cai, Constantinos Daskalakis, Haipeng Luo, Chen-Yu Wei, Weiqiang Zheng  
 [[arXiv](https://arxiv.org/abs/2403.08171){:target="_blank"}]  
 
