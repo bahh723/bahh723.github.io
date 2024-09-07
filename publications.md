@@ -4,6 +4,8 @@ permalink: "/publications/"
 layout: page
 ---
 
+(&alpha;-&beta;) indicates alphabetical ordering; \* indicates equal contribution.  
+
 ## Preprints
 
 - **On Tractable &Phi;-Equilibria in Non-Concave Games**  
