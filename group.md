@@ -14,5 +14,5 @@ layout: page
 - Kingsley Kim (2024/1-present)  
 
 
-## Past PhD Students  
-- Yufeng Gao (2023/8-2023/12, now PhD student at UVA)  
+## Alumni  
+- Yufeng Gao (PhD student, 2023/8-2023/12, now PhD student at UVA)  
