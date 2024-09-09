@@ -20,7 +20,8 @@ layout: page
 - **Offline Reinforcement Learning: Role of State Aggregation and Trajectory Data**  
 (&alpha;-&beta;) Zeyu Jia, Alexander Rakhlin, Ayush Sekhari, Chen-Yu Wei   
 *COLT 2024* 
-[[arXiv](https://arxiv.org/pdf/2403.17091.pdf){:target="_blank"}]  
+[[arXiv](https://arxiv.org/pdf/2403.17091.pdf){:target="_blank"}] [[video](https://www.youtube.com/watch?v=kQ9v0sy8Cao){:target="_blank"}] 
+ 
 
 
 - **Near-Optimal Policy Optimization for Correlated Equilibrium in General-Sum Markov Games**  
