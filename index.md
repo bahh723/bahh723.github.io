@@ -2,13 +2,30 @@
 title: "Home"
 layout: page
 ---
- 
-I am an Assistant Professor in the Computer Science department at the **University of Virginia**. Before, I was a Postdoctoral Associate at MIT working with [Prof. Sasha Rakhlin](http://www.mit.edu/~rakhlin/){:target="_blank"}, and a Research Fellow at the Simons Institute for the Theory of Computing. I obtained my Ph.D. in Computer Science at the **University of Southern California**, where I was fortunate to be advised by [Prof. Haipeng Luo](https://haipeng-luo.net/){:target="_blank"}. Please find my CV [here](https://bahh723.github.io/document/cv.pdf){:target="_blank"}. 
 
-<!-- My current interest in online learning was ignited during my time at **Academia Sinica**, where I worked with [Prof. Chi-Jen Lu](https://homepage.iis.sinica.edu.tw/pages/cjlu/){:target="_blank"}. I hold a M.S. degree in Communication Engineering and a B.S. degree in Electrical Engineering, both obtained from **National Taiwan University**.  --> 
+<div style="display: flex; align-items: flex-start;">
+
+
+   <div style="flex: 0 0 160px; margin-right: 40px;">
+    <img src="/image/photo.JPG" alt="My Photo" style="max-width: 100%; height: auto;">
+  </div>
+
+  <div style="flex: 1;" markdown="1">
+
+I am an Assistant Professor in the Computer Science department at the **University of Virginia**. Before, I was a Postdoctoral Associate at MIT working with [Prof. Sasha Rakhlin](http://www.mit.edu/~rakhlin/){:target="_blank"}, and a Research Fellow at the Simons Institute for the Theory of Computing. I obtained my Ph.D. in Computer Science at the **University of Southern California**, where I was fortunate to be advised by [Prof. Haipeng Luo](https://haipeng-luo.net/){:target="_blank"}. Please find my CV [here](/document/cv.pdf){:target="_blank"}. 
 
 **Email**: chenyu.wei [at] virginia.edu  
-**Office**: Rice Hall 409  
+**Office**: Rice Hall 409
+  
+  </div>
+
+
+ 
+
+
+</div>
+
+
 
 ## Research
 
@@ -21,31 +38,25 @@ I am actively seeking collaborative opportunities, particularly those with a str
    
 
 
-<!-- <div style="line-height:3%;">
-    <br>
-</div> --> 
+
+## Teaching
+
+- Fall 2024: &nbsp; [CS 4710 Artificial Intelligence](/ai2024fa/)  
+- Spring 2024: &nbsp; [CS 6501 Reinforcement Learning](/rl2024sp/)  
+- Spring 2024: &nbsp; CS 4501 Introduction to Algorithmic Economics (co-teaching with [Prof. Denis Nekipelov](https://engineering.virginia.edu/faculty/denis-nekipelov){:target="_blank"})  
 
 
-<!-- <div style="line-height:5%;">
-    <br>
-</div> -->
+## Lab Members
 
-<!--
-## Research Experiences [[Curriculum vitae](https://bahh723.github.io/document/cv.pdf){:target="_blank"}]
-Postdoctoral Associate, MIT Institute for Data, Systems, and Society, Spring and Summer 2023   
-Research Fellow, Simons Institute, Fall 2022, *Data-Driven Decision Processes*    
-Student Visitor, Simons Institute, Spring 2022, *Learning and Games*   
-Research Intern, Google Research, Summer 2021   
-Student Visitor, Simons Institute, Fall 2020, *Theory of Reinforcement Learning*   
-Research Intern, Microsoft Research, Redmond, Summer 2019   
-Research Intern, Yahoo Research, New York, Summer 2018   
-Research Assistant, Academia Sinica, Taipei, 2015-2017 
--->
-   
-<!-- <div style="line-height:30%;">
-    <br>
-</div> -->
+- Haolin Liu (PhD student, 2023/3-present)  
+- [Braham Snyder](https://www.braham.io/){:target="_blank"} (PhD student, 2024/8-present)   
+- Clarence Chen (Undergraduate student, 2023/10-present)  
+- Kingsley Kim (Undergraduate student, 2024/1-present)  
+- Rishik Balerao (Undergraduate student, 2024/6-present)  
 
 
+### Alumni  
+
+- Yufeng Gao (PhD student, 2023/8-2023/12, now a PhD student at UVA)  
 
 
