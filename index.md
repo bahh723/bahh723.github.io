@@ -14,7 +14,7 @@ layout: page
 
 I am an Assistant Professor in the Computer Science department at the **University of Virginia**. Before, I was a Postdoctoral Associate at MIT working with [Prof. Sasha Rakhlin](http://www.mit.edu/~rakhlin/){:target="_blank"}, and a Research Fellow at the Simons Institute for the Theory of Computing. I obtained my Ph.D. in Computer Science at the **University of Southern California**, where I was fortunate to be advised by [Prof. Haipeng Luo](https://haipeng-luo.net/){:target="_blank"}. Please find my CV [here](/document/cv.pdf){:target="_blank"}. 
 
-**Email**: chenyu.wei [at] virginia.edu  
+**Email**: chenyu.wei@virginia.edu  
 **Office**: Rice Hall 409
   
   </div>
