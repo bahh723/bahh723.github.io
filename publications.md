@@ -6,16 +6,33 @@ layout: page
 
 (&alpha;-&beta;) indicates alphabetical ordering; \* indicates equal contribution.  
 
-## Preprints
-
-- **On Tractable &Phi;-Equilibria in Non-Concave Games**  
-(&alpha;-&beta;) Yang Cai, Constantinos Daskalakis, Haipeng Luo, Chen-Yu Wei, Weiqiang Zheng  
-[[arXiv](https://arxiv.org/abs/2403.08171){:target="_blank"}]  
 
 
 ## Publications 
 
 ### 2024 
+
+
+- **Corruption-Robust Linear Bandits: Minimax Optimality and Gap-Dependent Misspecification**  
+(&alpha;-&beta;) Haolin Liu, Artin Tajdini, Andrew Wagenmaker, Chen-Yu Wei  
+*NeurIPS 2024*
+
+
+- **Beating Adversarial Low-Rank MDPs with Unknown Transition and Bandit Feedback**  
+(&alpha;-&beta;) Haolin Liu, Zakaria Mhammedi, Chen-Yu Wei, Julian Zimmert  
+*NeurIPS 2024*
+
+
+- **How Does Variance Shape the Regret in Contextual Bandits?**
+(&alpha;-&beta;) Zeyu Jia, Jian Qian, Alexander Rakhlin, Chen-Yu Wei   
+*NeurIPS 2024*  
+
+
+- **On Tractable &Phi;-Equilibria in Non-Concave Games**  
+(&alpha;-&beta;) Yang Cai, Constantinos Daskalakis, Haipeng Luo, Chen-Yu Wei, Weiqiang Zheng   
+*NeurIPS 2024*
+[[arXiv](https://arxiv.org/abs/2403.08171){:target="_blank"}]  
+
 
 - **Offline Reinforcement Learning: Role of State Aggregation and Trajectory Data**  
 (&alpha;-&beta;) Zeyu Jia, Alexander Rakhlin, Ayush Sekhari, Chen-Yu Wei   
