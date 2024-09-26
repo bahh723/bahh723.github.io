@@ -23,7 +23,7 @@ layout: page
 *NeurIPS 2024*
 
 
-- **How Does Variance Shape the Regret in Contextual Bandits?**
+- **How Does Variance Shape the Regret in Contextual Bandits?**  
 (&alpha;-&beta;) Zeyu Jia, Jian Qian, Alexander Rakhlin, Chen-Yu Wei   
 *NeurIPS 2024*  
 
