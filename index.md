@@ -48,11 +48,11 @@ I am actively seeking collaborative opportunities, particularly those with a str
 
 ## Lab Members
 
-- Haolin Liu (PhD student, 2023/3-present)  
-- [Braham Snyder](https://www.braham.io/){:target="_blank"} (PhD student, 2024/8-present)   
-- Clarence Chen (Undergraduate student, 2023/10-present)  
-- Kingsley Kim (Undergraduate student, 2024/1-present)  
-- Rishik Balerao (Undergraduate student, 2024/6-present)  
+- Haolin Liu (PhD student, 2023/3-)  
+- [Braham Snyder](https://www.braham.io/){:target="_blank"} (PhD student, 2024/8-)   
+- Clarence Chen (Undergraduate student, 2023/10-)  
+- Kingsley Kim (Undergraduate student, 2024/1-)  
+- Rishik Balerao (Undergraduate student, 2024/6-)  
 
 
 ### Alumni  
