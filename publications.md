@@ -15,7 +15,9 @@ layout: page
 
 - **Corruption-Robust Linear Bandits: Minimax Optimality and Gap-Dependent Misspecification**  
 (&alpha;-&beta;) Haolin Liu, Artin Tajdini, Andrew Wagenmaker, Chen-Yu Wei  
-*NeurIPS 2024*
+*NeurIPS 2024*  
+[[arXiv](https://arxiv.org/abs/2410.07533){:target="_blank"}]  
+
 
 
 - **Beating Adversarial Low-Rank MDPs with Unknown Transition and Bandit Feedback**  
