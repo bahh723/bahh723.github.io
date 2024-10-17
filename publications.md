@@ -27,7 +27,8 @@ layout: page
 
 - **How Does Variance Shape the Regret in Contextual Bandits?**  
 (&alpha;-&beta;) Zeyu Jia, Jian Qian, Alexander Rakhlin, Chen-Yu Wei   
-*NeurIPS 2024*  
+*NeurIPS 2024* 
+[[arXiv](https://arxiv.org/pdf/2410.12713){:target="_blank"}]   
 
 
 - **On Tractable &Phi;-Equilibria in Non-Concave Games**  
