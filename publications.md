@@ -267,7 +267,7 @@ Julian Zimmert, Haipeng Luo, Chen-Yu Wei
 - **Efficient Online Portfolio with Logarithmic Regret**  
 (&alpha;-&beta;) Haipeng Luo, Chen-Yu Wei, Kai Zheng  
 *NeurIPS 2018* <span style="color:red">(Spotlight)</span> 
-[[arXiv](https://arxiv.org/pdf/1708.01799){:target="_blank"}] [[slides](/document/efficient-online-portfolio-with-logarithmic-regret.pdf){:target="_blank"}]
+[[arXiv](https://arxiv.org/abs/1805.07430){:target="_blank"}] [[slides](/document/efficient-online-portfolio-with-logarithmic-regret.pdf){:target="_blank"}]
 
 - **Efficient Contextual Bandits in Non-Stationary Worlds**  
 Haipeng Luo\*, Chen-Yu Wei\*, Alekh Agarwal, John Langford  
