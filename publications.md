@@ -22,7 +22,9 @@ layout: page
 
 - **Beating Adversarial Low-Rank MDPs with Unknown Transition and Bandit Feedback**  
 (&alpha;-&beta;) Haolin Liu, Zakaria Mhammedi, Chen-Yu Wei, Julian Zimmert  
-*NeurIPS 2024*
+*NeurIPS 2024* 
+[[arXiv](https://arxiv.org/pdf/2411.06739){:target="_blank"}]   
+
 
 
 - **How Does Variance Shape the Regret in Contextual Bandits?**  
