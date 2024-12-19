@@ -50,7 +50,6 @@ I am actively seeking collaborative opportunities, particularly those with a str
 
 - Haolin Liu (PhD student, 2023/3-)  
 - [Braham Snyder](https://www.braham.io/){:target="_blank"} (PhD student, 2024/8-)   
-- Clarence Chen (Undergraduate student, 2023/10-)  
 - Kingsley Kim (Undergraduate student, 2024/1-)  
 - Rishik Balerao (Undergraduate student, 2024/6-)  
 
@@ -58,5 +57,7 @@ I am actively seeking collaborative opportunities, particularly those with a str
 ### Alumni  
 
 - Yufeng Gao (PhD student, 2023/8-2023/12, now a PhD student at UVA)  
+- Clarence Chen (Undergraduate student, 2023/10-2024/11)  
+
 
 
