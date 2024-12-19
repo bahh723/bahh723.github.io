@@ -48,16 +48,16 @@ I am actively seeking collaborative opportunities, particularly those with a str
 
 ## Lab Members
 
-- Haolin Liu (PhD student, Spring 2023 -)  
-- [Braham Snyder](https://www.braham.io/){:target="_blank"} (PhD student, Fall 2024 -)   
-- Kingsley Kim (Undergraduate student, Spring 2024 -)  
-- Rishik Balerao (Undergraduate student, Summer 2024 -)  
+- Haolin Liu (PhD student, Spring 2023-)  
+- [Braham Snyder](https://www.braham.io/){:target="_blank"} (PhD student, Fall 2024-)   
+- Kingsley Kim (Undergraduate student, Spring 2024-)  
+- Rishik Balerao (Undergraduate student, Summer 2024-)  
 
 
 ### Alumni  
 
 - Yufeng Gao (PhD student, Fall 2023, now a PhD student at UVA)  
-- Clarence Chen (Undergraduate student, Fall 2023 - Fall 2024)  
+- Clarence Chen (Undergraduate student, Fall 2023-Fall 2024)  
 
 
 
