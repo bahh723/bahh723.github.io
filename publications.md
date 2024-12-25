@@ -155,7 +155,7 @@ Haipeng Luo\*, Chen-Yu Wei\*, Chung-Wei Lee
 *NeurIPS 2021* 
 [[arXiv](https://arxiv.org/pdf/2107.08346){:target="_blank"}] 
 [[slides](/document/policy-optimization-in-adversarial-mdp-with-dilated-bonus.pdf){:target="_blank"}]
-[[slides](/document/exploration-bonus-for-policy-optimization.pdf){:target="_blank"}] [[video](https://slideslive.com/38968587/policy-optimization-in-adversarial-mdps-improved-exploration-via-dilated-bonuses){:target="_blank"}]
+[[slides](/document/exploration-bonus-for-policy-optimization.pdf){:target="_blank"}] [[video](https://slideslive.com/38968587/policy-optimization-in-adversarial-mdps-improved-exploration-via-dilated-bonuses){:target="_blank"}] [[review](https://openreview.net/forum?id=XeM4Lld0zTR){:target="_blank"}]
 
 
 - **Achieving Near Instance-Optimality and Minimax-Optimality in Stochastic and Adversarial Linear Bandits Simultaneously**  
