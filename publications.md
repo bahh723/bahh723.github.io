@@ -196,7 +196,7 @@ Chen-Yu Wei, Mehdi Jafarnia-Jahromi, Haipeng Luo, Rahul Jain
 Chen-Yu Wei, Chung-Wei Lee, Mengxiao Zhang, Haipeng Luo  
 *ICLR 2021* 
 [[arXiv](https://arxiv.org/pdf/2006.09517){:target="_blank"}] [[code](https://github.com/bahh723/OGDA-last-iterate){:target="_blank"}] 
-[[slides](/document/linear-last-iterate-convergence-in-constrained-saddle-point-optimization.pdf){:target="_blank"}] [[video](https://slideslive.com/38954127/linear-lastiterate-convergence-in-constrained-saddlepoint-optimization){:target="_blank"}]
+[[slides](/document/linear-last-iterate-convergence-in-constrained-saddle-point-optimization.pdf){:target="_blank"}] [[video](https://slideslive.com/38954127/linear-lastiterate-convergence-in-constrained-saddlepoint-optimization){:target="_blank"}] [[review](https://openreview.net/forum?id=dx11_7vm5_r){:target="_blank"}]
 
 
 - **Adversarial Online Learning with Changing Action Sets: Efficient Algorithms with Approximate Regret Bounds**  
