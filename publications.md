@@ -36,7 +36,7 @@ layout: page
 - **On Tractable &Phi;-Equilibria in Non-Concave Games**  
 (&alpha;-&beta;) Yang Cai, Constantinos Daskalakis, Haipeng Luo, Chen-Yu Wei, Weiqiang Zheng   
 *NeurIPS 2024*
-[[arXiv](https://arxiv.org/pdf/2403.08171){:target="_blank"}] [[review](https://openreview.net/forum?id=3CtTMF5zzM){:target="_blank"}, [review(reject)](https://openreview.net/forum?id=li1Z0OQfnA){:target="_blank"}] 
+[[arXiv](https://arxiv.org/pdf/2403.08171){:target="_blank"}] [[review](https://openreview.net/forum?id=3CtTMF5zzM){:target="_blank"}, [review(rejected)](https://openreview.net/forum?id=li1Z0OQfnA){:target="_blank"}] 
 
 
 - **Offline Reinforcement Learning: Role of State Aggregation and Trajectory Data**  
