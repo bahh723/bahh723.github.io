@@ -46,7 +46,7 @@ I am actively seeking collaborative opportunities, particularly those with a str
 - Spring 2024: &nbsp; CS 4501 Introduction to Algorithmic Economics (co-teaching with [Prof. Denis Nekipelov](https://engineering.virginia.edu/faculty/denis-nekipelov){:target="_blank"})  
 
 
-## Lab Members
+## Research Group Members
 
 - Haolin Liu (PhD student, Spring 2023-)  
 - [Braham Snyder](https://www.braham.io/){:target="_blank"} (PhD student, Fall 2024-)   
