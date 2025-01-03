@@ -5,7 +5,7 @@ layout: page
 ---
 
 (&alpha;-&beta;) indicates alphabetical ordering; \* indicates equal contribution.  
-
+You can also find my publications on [Google Scholar](https://scholar.google.com/citations?user=2L2cR-kAAAAJ){:target="_blank"}.  
 
 
 ## Publications 
