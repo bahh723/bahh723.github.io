@@ -4,7 +4,7 @@ permalink: "/publications/"
 layout: page
 ---
 
-You can also find my publications on [Google Scholar](https://scholar.google.com/citations?user=2L2cR-kAAAAJ){:target="_blank"}.  
+The publication list can also be found on [Google Scholar](https://scholar.google.com/citations?user=2L2cR-kAAAAJ){:target="_blank"}.  
 
 
 ## Publications 
