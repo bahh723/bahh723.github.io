@@ -12,7 +12,7 @@ layout: page
 
   <div style="flex: 1;" markdown="1">
 
-I am an Assistant Professor in the Computer Science department at the **University of Virginia**. Before, I was a Postdoctoral Associate at MIT working with [Prof. Alexander (Sasha) Rakhlin](http://www.mit.edu/~rakhlin/){:target="_blank"}, and a Research Fellow at the Simons Institute for the Theory of Computing. I obtained my Ph.D. in Computer Science from the **University of Southern California**, where I was fortunate to be advised by [Prof. Haipeng Luo](https://haipeng-luo.net/){:target="_blank"}. I also received my Master’s and Bachelor’s degrees in Electrical Engineering from **National Taiwan University**. Please find my CV [here](/document/cv.pdf){:target="_blank"}. 
+I am an Assistant Professor in the Computer Science department at the **University of Virginia**. Before, I was a Postdoctoral Associate at MIT working with [Prof. Alexander (Sasha) Rakhlin](http://www.mit.edu/~rakhlin/){:target="_blank"}, and a Research Fellow at the Simons Institute for the Theory of Computing. I obtained my Ph.D. in Computer Science from the **University of Southern California**, where I was fortunate to be advised by [Prof. Haipeng Luo](https://haipeng-luo.net/){:target="_blank"}, and received my Master’s and Bachelor’s degrees in Electrical Engineering from **National Taiwan University**. Please find my CV [here](/document/cv.pdf){:target="_blank"}. 
 
 **Email**: chenyu.wei@virginia.edu  
 **Office**: Rice Hall 409
