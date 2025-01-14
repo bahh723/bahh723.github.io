@@ -52,7 +52,7 @@ I co-organize/attend [RL Meetup](https://rl-meetup.github.io/){:target="_blank"}
 
 ## Research Group Members
 
-- Haolin Liu (PhD student, Spring 2023-)  
+- [Haolin Liu](https://liuhl2000.github.io/){:target="_blank"} (PhD student, Spring 2023-)  
 - [Braham Snyder](https://www.braham.io/){:target="_blank"} (PhD student, Fall 2024-)   
 - Kingsley Kim (Undergraduate student, Spring 2024-)  
 - Rishik Balerao (Undergraduate student, Summer 2024-)  
