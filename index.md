@@ -36,7 +36,7 @@ I am broadly interested in the field of interactive machine learning. My work is
 
 I am actively seeking collaborative opportunities, particularly those with a strong potential for practical application.  
    
-I co-organize/attend [RL Meetup](https://rl-meetup.github.io/){:target="_blank"} and [Theory Seminar](https://weikailin.github.io/theory-seminar/){:target="_blank"} at UVA. 
+I co-organize/attend [RL Meetup](https://rl-meetup.github.io/){:target="_blank"} and [Theory Seminar](https://sites.google.com/view/tcs-uva/theory-seminar/){:target="_blank"} at UVA. 
 
 
 ## Teaching
