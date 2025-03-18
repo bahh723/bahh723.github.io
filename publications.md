@@ -42,7 +42,7 @@ The publication list can also be found on [Google Scholar](https://scholar.googl
 - **On Tractable &Phi;-Equilibria in Non-Concave Games**  
 (&alpha;-&beta;) Yang Cai, Constantinos Daskalakis, Haipeng Luo, Chen-Yu Wei, Weiqiang Zheng   
 *NeurIPS 2024*
-[[arXiv](https://arxiv.org/pdf/2403.08171){:target="_blank"}] [[review](https://openreview.net/forum?id=3CtTMF5zzM){:target="_blank"}] [[review(rejected)](https://openreview.net/forum?id=li1Z0OQfnA){:target="_blank"}] 
+[[arXiv](https://arxiv.org/pdf/2403.08171){:target="_blank"}] [[slides](https://docs.google.com/presentation/d/1PmAtSnLrAXfvc0AN2_0hupwA3kvCOPcU/edit?usp=sharing&ouid=112492238116028494469&rtpof=true&sd=true){:target="_blank"}] [[review](https://openreview.net/forum?id=3CtTMF5zzM){:target="_blank"}] [[review(rejected)](https://openreview.net/forum?id=li1Z0OQfnA){:target="_blank"}] 
 
 
 - **Offline Reinforcement Learning: Role of State Aggregation and Trajectory Data**  
