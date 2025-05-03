@@ -16,7 +16,7 @@ The publication list can also be found on [Google Scholar](https://scholar.googl
 
 - **Decision Making in Hybrid Environments: A Model Aggregation Approach**  
 (&alpha;-&beta;) Haolin Liu, Chen-Yu Wei, Julian Zimmert    
-*COLT 2025*   
+*COLT 2025* 
 [[arXiv](https://arxiv.org/pdf/2502.05974){:target="_blank"}]  
 
 
