@@ -55,7 +55,7 @@ I co-organize/attend [RL Meetup](https://rl-meetup.github.io/){:target="_blank"}
 - [Haolin Liu](https://liuhl2000.github.io/){:target="_blank"} (PhD student, Spring 2023–)  
 - [Braham Snyder](https://www.braham.io/){:target="_blank"} (PhD student, Fall 2024–)   
 - [Kingsley Kim](https://kingsleykim.dev/){:target="_blank"} (Undergraduate student, Spring 2024–)  
-- Rishik Balerao (Undergraduate student, Summer 2024-)  
+- Rishik Balerao (Undergraduate student, Summer 2024–)  
 
 
 ### Alumni  
