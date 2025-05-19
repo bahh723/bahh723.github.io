@@ -52,16 +52,16 @@ I co-organize/attend [RL Meetup](https://rl-meetup.github.io/){:target="_blank"}
 
 ## Research Group Members
 
-- [Haolin Liu](https://liuhl2000.github.io/){:target="_blank"} (PhD student, Spring 2023–)  
-- [Braham Snyder](https://www.braham.io/){:target="_blank"} (PhD student, Fall 2024–)   
-- [Kingsley Kim](https://kingsleykim.dev/){:target="_blank"} (Undergraduate student, Spring 2024–)  
-- Rishik Balerao (Undergraduate student, Summer 2024–)  
+- [Haolin Liu](https://liuhl2000.github.io/){:target="_blank"} (PhD student, Spring 2023-)  
+- [Braham Snyder](https://www.braham.io/){:target="_blank"} (PhD student, Fall 2024-)   
+- [Kingsley Kim](https://kingsleykim.dev/){:target="_blank"} (Undergraduate student, Spring 2024-)  
+- Rishik Balerao (Undergraduate student, Summer 2024-)  
 
 
 ### Alumni  
 
 - Yufeng Gao (PhD student, Fall 2023; now continuing PhD at UVA)  
-- Clarence Chen (Undergraduate student, Fall 2023–Fall 2024; joining MSCF at CMU)  
+- Clarence Chen (Undergraduate student, Fall 2023-Fall 2024; joining MSCF at CMU)  
 
 
 
