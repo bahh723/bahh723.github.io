@@ -13,6 +13,9 @@ The publication list can also be found on [Google Scholar](https://scholar.googl
 
 ### 2025 
 
+- **HANQ: Hypergradients, Asymmetry, and Normalization for Fast and Stable Deep Q-Learning**  
+Braham Snyder, Chen-Yu Wei  
+*RLC 2025*   
 
 - **Decision Making in Hybrid Environments: A Model Aggregation Approach**  
 (&alpha;-&beta;) Haolin Liu, Chen-Yu Wei, Julian Zimmert    
