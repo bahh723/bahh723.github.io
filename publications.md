@@ -8,6 +8,13 @@ The publication list can also be found on [Google Scholar](https://scholar.googl
 (&alpha;-&beta;) indicates alphabetical ordering; \* indicates equal contribution.  
 
 
+## Preprints
+
+- **From Average-Iterate to Last-Iterate Convergence in Games: A Reduction and Its Applications**  
+(&alpha;-&beta;) Yang Cai, Haipeng Luo, Chen-Yu Wei, Weiqiang Zheng   
+[[arXiv](https://arxiv.org/pdf/2506.03464){:target="_blank"}]   
+
+
 ## Publications 
 
 
