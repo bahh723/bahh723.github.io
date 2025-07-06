@@ -327,3 +327,14 @@ Chen-Yu Wei, Yi-Te Hong, Chi-Jen Lu
 Hsu Kao, Chen-Yu Wei, Hsiao-Ching Lin, Yi-Han Chiang, Wanjiun Liao  
 *International Conference on Communications 2016* 
 [[IEEE Xplore](https://ieeexplore.ieee.org/document/7511217){:target="_blank"}]
+
+
+## Other Talks      
+- **Collusion in Algorithmic Pricing**  
+Guest lecture in UVA CS6501: *Economics of Distributed Systems*, 2024   
+Invited talk at UMD CS Seminar, 2024     
+[[slides](/document/algorithmic-pricing.pdf){:target="_blank"}]  
+
+- **Some Recent Advances in Bandit Theory**  
+Colloquium talk at NTUEE, 2022   
+[[slides](/document/bandits.pdf){:target="_blank"}]    
