@@ -183,7 +183,7 @@ Haipeng Luo\*, Chen-Yu Wei\*, Chung-Wei Lee
 - **Achieving Near Instance-Optimality and Minimax-Optimality in Stochastic and Adversarial Linear Bandits Simultaneously**  
 (&alpha;-&beta;) Chung-Wei Lee, Haipeng Luo, Chen-Yu Wei, Mengxiao Zhang, Xiaojin Zhang  
 *ICML 2021* 
-[[arXiv](https://arxiv.org/pdf/2102.05858){:target="_blank"}] [[slides](/document/best-of-both-worlds-for-linear-bandits.pdf){:target="_blank"}] [[video](https://slideslive.com/38959312/achieving-near-instanceoptimality-and-minimaxoptimality-in-stochastic-and-adversarial-linear-bandits-simultaneously){:target="_blank"}]
+[[arXiv](https://arxiv.org/pdf/2102.05858){:target="_blank"}] [[slides](/document/best-of-both-worlds-for-linear-bandits.pdf){:target="_blank"}] [[talk](https://slideslive.com/38959312/achieving-near-instanceoptimality-and-minimaxoptimality-in-stochastic-and-adversarial-linear-bandits-simultaneously){:target="_blank"}]
 
 
 - **Non-stationary Reinforcement Learning without Prior Knowledge: An Optimal Black-Box Approach**  
@@ -243,7 +243,7 @@ Chen-Yu Wei, Alekh Agarwal, John Langford
 - **Taking a Hint: How to Leverage Loss Predictors in Contextual Bandits?**  
 Chen-Yu Wei, Haipeng Luo, Alekh Agarwal  
 *COLT 2020* 
-[[arXiv](https://arxiv.org/pdf/2003.01922){:target="_blank"}] [[slides](/document/how-to-leverage-loss-predictors-in-contextual-bandits.pdf){:target="_blank"}] [[video](https://slideslive.com/38931095/taking-a-hint-how-to-leverage-loss-predictors-in-contextual-bandits){:target="_blank"}]
+[[arXiv](https://arxiv.org/pdf/2003.01922){:target="_blank"}] [[slides](/document/how-to-leverage-loss-predictors-in-contextual-bandits.pdf){:target="_blank"}] [[talk](https://slideslive.com/38931095/taking-a-hint-how-to-leverage-loss-predictors-in-contextual-bandits){:target="_blank"}]
 
 
 - **Model-free Reinforcement Learning in Infinite-Horizon Average-Reward Markov Decision Processes**  
