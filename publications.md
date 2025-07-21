@@ -70,7 +70,7 @@ Braham Snyder, Chen-Yu Wei
 
 - **Near-Optimal Policy Optimization for Correlated Equilibrium in General-Sum Markov Games**  
 (&alpha;-&beta;) Yang Cai, Haipeng Luo, Chen-Yu Wei, Weiqiang Zheng  
-*AIStats 2024* <span style="color:red">(Oral)</span> 
+*AISTATS 2024* <span style="color:red">(Oral)</span> 
 [[arXiv](https://arxiv.org/pdf/2401.15240){:target="_blank"}]  
 
 
@@ -210,7 +210,7 @@ Liyu Chen, Haipeng Luo, Chen-Yu Wei
 
 - **Learning Infinite-Horizon Average-Reward MDPs with Linear Function Approximation**  
 Chen-Yu Wei, Mehdi Jafarnia-Jahromi, Haipeng Luo, Rahul Jain  
-*AIStats 2021* 
+*AISTATS 2021* 
 [[arXiv](https://arxiv.org/pdf/2007.11849){:target="_blank"}] [[slides](/document/average-reward-linear-mdp.pdf){:target="_blank"}] [[talk](https://www.youtube.com/watch?v=NpG97aEctqE){:target="_blank"}]
 
 
