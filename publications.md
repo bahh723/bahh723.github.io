@@ -47,7 +47,7 @@ Braham Snyder, Chen-Yu Wei
 *NeurIPS 2024* 
 [[arXiv](https://arxiv.org/pdf/2411.06739){:target="_blank"}] [[review](https://openreview.net/forum?id=6ZXrvoIox1){:target="_blank"}] 
 
-
+ 
 
 - **How Does Variance Shape the Regret in Contextual Bandits?**  
 (&alpha;-&beta;) Zeyu Jia, Jian Qian, Alexander Rakhlin, Chen-Yu Wei   
