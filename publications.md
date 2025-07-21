@@ -23,7 +23,7 @@ The publication list can also be found on [Google Scholar](https://scholar.googl
 - **HANQ: Hypergradients, Asymmetry, and Normalization for Fast and Stable Deep Q-Learning**  
 Braham Snyder, Chen-Yu Wei  
 *RLC 2025* 
-[[review](https://openreview.net/forum?id=RkNGtcStxc){:target="_blank"}]  
+[[openreview](https://openreview.net/forum?id=RkNGtcStxc){:target="_blank"}]  
 
 
 - **Decision Making in Hybrid Environments: A Model Aggregation Approach**  
@@ -38,27 +38,27 @@ Braham Snyder, Chen-Yu Wei
 - **Corruption-Robust Linear Bandits: Minimax Optimality and Gap-Dependent Misspecification**  
 (&alpha;-&beta;) Haolin Liu, Artin Tajdini, Andrew Wagenmaker, Chen-Yu Wei  
 *NeurIPS 2024* 
-[[arXiv](https://arxiv.org/pdf/2410.07533){:target="_blank"}] [[review](https://openreview.net/forum?id=wqs2RMq4CW){:target="_blank"}] 
+[[arXiv](https://arxiv.org/pdf/2410.07533){:target="_blank"}] [[openreview](https://openreview.net/forum?id=wqs2RMq4CW){:target="_blank"}] 
 
 
 
 - **Beating Adversarial Low-Rank MDPs with Unknown Transition and Bandit Feedback**  
 (&alpha;-&beta;) Haolin Liu, Zakaria Mhammedi, Chen-Yu Wei, Julian Zimmert  
 *NeurIPS 2024* 
-[[arXiv](https://arxiv.org/pdf/2411.06739){:target="_blank"}] [[review](https://openreview.net/forum?id=6ZXrvoIox1){:target="_blank"}] 
+[[arXiv](https://arxiv.org/pdf/2411.06739){:target="_blank"}] [[openreview](https://openreview.net/forum?id=6ZXrvoIox1){:target="_blank"}] 
 
  
 
 - **How Does Variance Shape the Regret in Contextual Bandits?**  
 (&alpha;-&beta;) Zeyu Jia, Jian Qian, Alexander Rakhlin, Chen-Yu Wei   
 *NeurIPS 2024* 
-[[arXiv](https://arxiv.org/pdf/2410.12713){:target="_blank"}] [[review](https://openreview.net/forum?id=32Z3nfCnwa){:target="_blank"}]  
+[[arXiv](https://arxiv.org/pdf/2410.12713){:target="_blank"}] [[openreview](https://openreview.net/forum?id=32Z3nfCnwa){:target="_blank"}]  
 
 
 - **On Tractable &Phi;-Equilibria in Non-Concave Games**  
 (&alpha;-&beta;) Yang Cai, Constantinos Daskalakis, Haipeng Luo, Chen-Yu Wei, Weiqiang Zheng   
 *NeurIPS 2024*
-[[arXiv](https://arxiv.org/pdf/2403.08171){:target="_blank"}] [[slides](https://docs.google.com/presentation/d/1PmAtSnLrAXfvc0AN2_0hupwA3kvCOPcU/edit?usp=sharing&ouid=112492238116028494469&rtpof=true&sd=true){:target="_blank"}] [[review](https://openreview.net/forum?id=3CtTMF5zzM){:target="_blank"}] [[review(rejected)](https://openreview.net/forum?id=li1Z0OQfnA){:target="_blank"}] 
+[[arXiv](https://arxiv.org/pdf/2403.08171){:target="_blank"}] [[slides](https://docs.google.com/presentation/d/1PmAtSnLrAXfvc0AN2_0hupwA3kvCOPcU/edit?usp=sharing&ouid=112492238116028494469&rtpof=true&sd=true){:target="_blank"}] [[openreview](https://openreview.net/forum?id=3CtTMF5zzM){:target="_blank"}] [[review(rejected)](https://openreview.net/forum?id=li1Z0OQfnA){:target="_blank"}] 
 
 
 - **Offline Reinforcement Learning: Role of State Aggregation and Trajectory Data**  
@@ -77,7 +77,7 @@ Braham Snyder, Chen-Yu Wei
 - **Towards Optimal Regret in Adversarial Linear MDPs with Bandit Feedback**  
 (&alpha;-&beta;) Haolin Liu, Chen-Yu Wei, Julian Zimmert  
 *ICLR 2024* <span style="color:red">(Spotlight)</span> 
-[[arXiv](https://arxiv.org/pdf/2310.11550){:target="_blank"}] [[review](https://openreview.net/forum?id=6yv8UHVJn4){:target="_blank"}] 
+[[arXiv](https://arxiv.org/pdf/2310.11550){:target="_blank"}] [[openreview](https://openreview.net/forum?id=6yv8UHVJn4){:target="_blank"}] 
 
 
 ### 2023
@@ -86,31 +86,31 @@ Braham Snyder, Chen-Yu Wei
 - **Bypassing the Simulator: Near-Optimal Adversarial Linear Contextual Bandits**  
 (&alpha;-&beta;) Haolin Liu, Chen-Yu Wei, Julian Zimmert  
 *NeurIPS 2023* 
-[[arXiv](https://arxiv.org/pdf/2309.00814){:target="_blank"}] [[talk](https://slideslive.com/39009540/bypassing-the-simulator-nearoptimal-adversarial-linear-contextual-bandits?ref=search-presentations){:target="_blank"}] [[review](https://openreview.net/forum?id=orh4e0AO9R){:target="_blank"}]
+[[arXiv](https://arxiv.org/pdf/2309.00814){:target="_blank"}] [[talk](https://slideslive.com/39009540/bypassing-the-simulator-nearoptimal-adversarial-linear-contextual-bandits?ref=search-presentations){:target="_blank"}] [[openreview](https://openreview.net/forum?id=orh4e0AO9R){:target="_blank"}]
 
 
 - **Last-Iterate Convergent Policy Gradient Primal-Dual Methods for Constrained MDPs**  
 Dongsheng Ding\*, Chen-Yu Wei\*, Kaiqing Zhang\*, Alejandro Ribeiro  
 *NeurIPS 2023* 
-[[arXiv](https://arxiv.org/pdf/2306.11700){:target="_blank"}] [[talk](https://slideslive.com/39009306/lastiterate-convergent-policy-gradient-primaldual-methods-for-constrained-mdps?ref=search-presentations){:target="_blank"}] [[review](https://openreview.net/forum?id=U6bhCLSPun){:target="_blank"}]
+[[arXiv](https://arxiv.org/pdf/2306.11700){:target="_blank"}] [[talk](https://slideslive.com/39009306/lastiterate-convergent-policy-gradient-primaldual-methods-for-constrained-mdps?ref=search-presentations){:target="_blank"}] [[openreview](https://openreview.net/forum?id=U6bhCLSPun){:target="_blank"}]
 
 
 - **No-Regret Online Reinforcement Learning with Adversarial Losses and Transitions**  
 Tiancheng Jin\*, Junyan Liu\*, Chloe Rouyer, William Chang, Chen-Yu Wei, Haipeng Luo  
 *NeurIPS 2023* 
-[[arXiv](https://arxiv.org/pdf/2305.17380){:target="_blank"}] [[talk](https://slideslive.com/39011477/noregret-online-reinforcement-learning-with-adversarial-losses-and-transitions?ref=search-presentations){:target="_blank"}] [[review](https://openreview.net/forum?id=0WLMVDdvDF){:target="_blank"}]
+[[arXiv](https://arxiv.org/pdf/2305.17380){:target="_blank"}] [[talk](https://slideslive.com/39011477/noregret-online-reinforcement-learning-with-adversarial-losses-and-transitions?ref=search-presentations){:target="_blank"}] [[openreview](https://openreview.net/forum?id=0WLMVDdvDF){:target="_blank"}]
 
 
 - **First- and Second-Order Bounds for Adversarial Linear Contextual Bandits**  
 Julia Olkhovskaya, Jack Mayo, Tim van Erven, Gergely Neu, Chen-Yu Wei  
 *NeurIPS 2023* 
-[[arXiv](https://arxiv.org/pdf/2305.00832){:target="_blank"}] [[talk](https://slideslive.com/39009624/first-and-secondorder-bounds-for-adversarial-linear-contextual-bandits?ref=search-presentations){:target="_blank"}] [[review](https://openreview.net/forum?id=NTSbj2otOA){:target="_blank"}]
+[[arXiv](https://arxiv.org/pdf/2305.00832){:target="_blank"}] [[talk](https://slideslive.com/39009624/first-and-secondorder-bounds-for-adversarial-linear-contextual-bandits?ref=search-presentations){:target="_blank"}] [[openreview](https://openreview.net/forum?id=NTSbj2otOA){:target="_blank"}]
 
 
 - **Uncoupled and Convergent Learning in Two-Player Zero-Sum Markov Games**  
 (&alpha;-&beta;) Yang Cai, Haipeng Luo, Chen-Yu Wei, Weiqiang Zheng  
 *NeurIPS 2023* 
-[[arXiv](https://arxiv.org/pdf/2303.02738){:target="_blank"}] [[talk](https://slideslive.com/39009322/uncoupled-and-convergent-learning-in-twoplayer-zerosum-markov-games-with-bandit-feedback?ref=search-presentations){:target="_blank"}] [[review](https://openreview.net/forum?id=3xSwxlB0fd){:target="_blank"}]
+[[arXiv](https://arxiv.org/pdf/2303.02738){:target="_blank"}] [[talk](https://slideslive.com/39009322/uncoupled-and-convergent-learning-in-twoplayer-zerosum-markov-games-with-bandit-feedback?ref=search-presentations){:target="_blank"}] [[openreview](https://openreview.net/forum?id=3xSwxlB0fd){:target="_blank"}]
 
 
 - **A Blackbox Approach to Best of Both Worlds in Bandits and Beyond**  
@@ -177,7 +177,7 @@ Haipeng Luo\*, Chen-Yu Wei\*, Chung-Wei Lee
 *NeurIPS 2021* 
 [[arXiv](https://arxiv.org/pdf/2107.08346){:target="_blank"}] 
 [[slides](/document/policy-optimization-in-adversarial-mdp-with-dilated-bonus.pdf){:target="_blank"}]
-[[slides](/document/exploration-bonus-for-policy-optimization.pdf){:target="_blank"}] [[talk](https://slideslive.com/38968587/policy-optimization-in-adversarial-mdps-improved-exploration-via-dilated-bonuses){:target="_blank"}] [[review](https://openreview.net/forum?id=XeM4Lld0zTR){:target="_blank"}]
+[[slides](/document/exploration-bonus-for-policy-optimization.pdf){:target="_blank"}] [[talk](https://slideslive.com/38968587/policy-optimization-in-adversarial-mdps-improved-exploration-via-dilated-bonuses){:target="_blank"}] [[openreview](https://openreview.net/forum?id=XeM4Lld0zTR){:target="_blank"}]
 
 
 - **Achieving Near Instance-Optimality and Minimax-Optimality in Stochastic and Adversarial Linear Bandits Simultaneously**  
