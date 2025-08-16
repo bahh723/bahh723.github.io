@@ -41,6 +41,7 @@ I co-organize and attend [RL Meetup](https://rl-meetup.github.io/){:target="_bla
 
 ## Teaching
 
+- Fall 2025: &nbsp; [CS 6771 Reinforcement Learning](/rl2025fa/)  
 - Spring 2025: &nbsp; [CS 6501 Reinforcement Learning](/rl2025sp/)  
 - Fall 2024: &nbsp; [CS 4710 Artificial Intelligence](/ai2024fa/)  
 - Spring 2024: &nbsp; [CS 6501 Reinforcement Learning](/rl2024sp/)  
