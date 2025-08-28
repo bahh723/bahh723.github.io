@@ -34,3 +34,39 @@ h1
     box-shadow: 0 0 0 1px lighten($dark, 8%)
   html, body > header, body > footer
     background: $dark
+
+
+$week-gray: #f6f8fa
+
+.week-schedule
+  // 0) Nuke any existing zebra/gradients within THIS table only
+  table, table *, & > table, &
+    background: transparent !important
+    background-image: none !important
+
+  // Header stays white
+  thead tr > th,
+  thead tr
+    background: #fff !important
+
+  // 1) Default all data *cells* to white
+  tbody tr > *
+    background: #fff !important
+
+  // 2) Week striping (Mon–Wed–Fri blocks) in *cells* so it overrides tr-based themes
+  // First full week starts at row 3 (9/1). 8/27 and 8/29 remain white.
+  tbody tr:nth-child(6n + 3) > *,
+  tbody tr:nth-child(6n + 4) > *,
+  tbody tr:nth-child(6n + 5) > *
+    background: $week-gray !important
+
+  // --- Fallback if your renderer omits <tbody> ---
+  // Data rows start at tr:nth-child(2) (after header)
+  > tr:nth-child(2) > *,
+  > tr:nth-child(3) > *
+    background: #fff !important  // 8/27, 8/29
+
+  > tr:nth-child(6n + 4) > *,
+  > tr:nth-child(6n + 5) > *,
+  > tr:nth-child(6n + 6) > *
+    background: $week-gray !important  // 9/1–9/5, 9/15–9/19, ...
