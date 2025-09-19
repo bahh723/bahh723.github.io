@@ -17,14 +17,12 @@ The publication list can also be found on [Google Scholar](https://scholar.googl
 
 - **An Improved Algorithm for Adversarial Linear Contextual Bandits via Reduction**   
 (&alpha;-&beta;) Tim van Erven, Jack Mayo, Julia Olkhovskaya, Chen-Yu Wei  
-*NeurIPS 2025*    
-[[arXiv](https://arxiv.org/pdf/2508.11931){:target="_blank"}] [[slides](/document/adversarial-linear-contextual-bandits-via-reduction.pdf){:target="_blank"}]   
+*NeurIPS 2025* [[arXiv](https://arxiv.org/pdf/2508.11931){:target="_blank"}] [[slides](/document/adversarial-linear-contextual-bandits-via-reduction.pdf){:target="_blank"}]   
 
 
 - **From Average-Iterate to Last-Iterate Convergence in Games: A Reduction and Its Applications**  
 (&alpha;-&beta;) Yang Cai, Haipeng Luo, Chen-Yu Wei, Weiqiang Zheng   
-*NeurIPS 2025*  
-[[arXiv](https://arxiv.org/pdf/2506.03464){:target="_blank"}]   
+*NeurIPS 2025* [[arXiv](https://arxiv.org/pdf/2506.03464){:target="_blank"}]   
 
 
 
