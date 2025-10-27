@@ -340,7 +340,13 @@ Hsu Kao, Chen-Yu Wei, Hsiao-Ching Lin, Yi-Han Chiang, Wanjiun Liao
 [[IEEE Xplore](https://ieeexplore.ieee.org/document/7511217){:target="_blank"}]
 
 
-## Other Talks      
+## Other Presentations         
+
+- **Swap Regret and Strategic Learning**  
+Theory seminar talk at UVA, 2025       
+[[slides](/document/swap-regret.pdf){:target="_blank"}]  
+
+
 - **Collusion in Algorithmic Pricing**  
 Guest lecture in UVA CS6501: *Economics of Distributed Systems*, 2024   
 Invited talk at UMD CS Seminar, 2024     
