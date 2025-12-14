@@ -25,6 +25,15 @@ The publication list can also be found on [Google Scholar](https://scholar.googl
 
 ### 2025 
 
+
+
+- **How Does Layer Normalization Improve Deep Q-Learning?**  
+Braham Snyder, Hadi Daneshmand\*, Chen-Yu Wei\*     
+*NeurIPS 2025 Workshop on Optimization for Machine Learning (OPT)* 
+[[openreview](https://openreview.net/forum?id=r8bkE0TO1A){:target="_blank"}]  
+
+
+
 - **An Improved Algorithm for Adversarial Linear Contextual Bandits via Reduction**   
 (&alpha;-&beta;) Tim van Erven, Jack Mayo, Julia Olkhovskaya, Chen-Yu Wei  
 *NeurIPS 2025* [[arXiv](https://arxiv.org/pdf/2508.11931){:target="_blank"}] [[slides](/document/adversarial-linear-contextual-bandits-via-reduction.pdf){:target="_blank"}] [[openreview](https://openreview.net/forum?id=MfhFiU28hv){:target="_blank"}]  
