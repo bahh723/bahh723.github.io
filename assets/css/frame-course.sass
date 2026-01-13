@@ -55,9 +55,8 @@ $week-gray: #f6f8fa
 
   // 2) Week striping (Mon–Wed–Fri blocks) in *cells* so it overrides tr-based themes
   // First full week starts at row 3 (9/1). 8/27 and 8/29 remain white.
-  tbody tr:nth-child(6n + 3) > *,
-  tbody tr:nth-child(6n + 4) > *,
-  tbody tr:nth-child(6n + 5) > *
+  tbody tr:nth-child(4n + 1) > *,
+  tbody tr:nth-child(4n + 2) > *,
     background: $week-gray !important
 
   // --- Fallback if your renderer omits <tbody> ---
