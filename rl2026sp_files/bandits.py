@@ -220,7 +220,7 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
     if args.algorithm == "EG":
-        eps_list = [0.3, 0.1, 0.03, 0.01, 0.03, 0.01, 0]
+        eps_list = [0.3, 0.1, 0.03, 0.01, 0.003, 0.001, 0]
         plt.figure()
         for eps in eps_list:
             args.eps = eps
