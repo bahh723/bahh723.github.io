@@ -7,20 +7,22 @@ layout: page
 The publication list can also be found on [Google Scholar](https://scholar.google.com/citations?user=2L2cR-kAAAAJ){:target="_blank"}.   
 (&alpha;-&beta;) indicates alphabetical ordering; \* indicates equal contribution.  
 
-## Preprints
+
+## Publications 
+
+
+### 2026   
+
 
 - **Proximal Regret and Proximal Correlated Equilibria: A New Tractable Solution Concept for Online Learning and Games**   
 (&alpha;-&beta;) Yang Cai, Constantinos Daskalakis, Haipeng Luo, Chen-Yu Wei, Weiqiang Zheng    
-[[arXiv](https://arxiv.org/pdf/2511.01852){:target="_blank"}]  
+*STOC 2026* [[arXiv](https://arxiv.org/pdf/2511.01852){:target="_blank"}]  
 
 
 - **An Improved Model-Free Decision-Estimation Coefficient with Applications in Adversarial MDPs**  
 (&alpha;-&beta;) Haolin Liu, Chen-Yu Wei, Julian Zimmert    
-[[arXiv](https://arxiv.org/pdf/2510.08882){:target="_blank"}]
+*ICLR 2026* [[arXiv](https://arxiv.org/pdf/2510.08882){:target="_blank"}]
 
-
-
-## Publications 
 
 
 ### 2025 
