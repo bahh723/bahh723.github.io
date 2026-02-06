@@ -21,7 +21,7 @@ The publication list can also be found on [Google Scholar](https://scholar.googl
 
 - **An Improved Model-Free Decision-Estimation Coefficient with Applications in Adversarial MDPs**  
 (&alpha;-&beta;) Haolin Liu, Chen-Yu Wei, Julian Zimmert    
-*ICLR 2026* [[arXiv](https://arxiv.org/pdf/2510.08882){:target="_blank"}]
+*ICLR 2026* [[arXiv](https://arxiv.org/pdf/2510.08882){:target="_blank"}] [[openreview](https://openreview.net/forum?id=lbLAgGF8OO){:target="_blank"}]
 
 
 
