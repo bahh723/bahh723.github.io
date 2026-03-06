@@ -294,7 +294,7 @@ Ehsan Emamjomeh-Zadeh\*, Chen-Yu Wei\*, Haipeng Luo, David Kempe
 
 - **Federated Residual Learning**  
 Chen-Yu Wei, Alekh Agarwal, John Langford  
-*NeurIPS Workshop on Scalability, Privacy, and Security in Federated Learning 2020* 
+*NeurIPS 2020 Workshop on Scalability, Privacy, and Security in Federated Learning* 
 [[arXiv](https://arxiv.org/pdf/2003.12880){:target="_blank"}] 
 
 
