@@ -39,6 +39,11 @@ Haolin Liu, Dian Yu, Sidi Lu, Yujun Zhou, Rui Liu, Zhenwen Liang, Haitao Mi, Che
 
 ### 2026   
 
+- **Learning Discriminative Process Reward Models without Step Labels**   
+Kingsley Kim, Haolin Liu, Chen-Yu Wei   
+*ICLR 2026 Workshop on Scaling Post-training for LLMs (SPOT)*   
+[[openreview](https://openreview.net/forum?id=df3p10k2kq){:target="_blank"}]  
+
 
 - **Proximal Regret and Proximal Correlated Equilibria: A New Tractable Solution Concept for Online Learning and Games**   
 (&alpha;-&beta;) Yang Cai, Constantinos Daskalakis, Haipeng Luo, Chen-Yu Wei, Weiqiang Zheng    
