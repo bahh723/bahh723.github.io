@@ -33,8 +33,6 @@ I am broadly interested in the field of interactive machine learning. My work is
 - Robust and adaptive learning algorithms for non-stationary or adversarial environments;   
 - Sample-efficient reinforcement learning algorithms with strategic exploration;   
 - Decentralized multi-agent learning algorithms with efficient communication and coordination.  
-
-I am actively seeking collaborative opportunities, particularly those with a strong potential for practical application.  
    
 I co-organize and attend [RL Meetup](https://rl-meetup.github.io/){:target="_blank"} and [Theory Seminar](https://sites.google.com/view/tcs-uva/theory-seminar/){:target="_blank"} at UVA.       
 
