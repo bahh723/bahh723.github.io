@@ -132,27 +132,28 @@ class MDPModel(nn.Module):
         if self.algorithm == "DQN": 
             ## This part is done in HW3
             for state, action, reward, next_state, terminated in zip(batch_state, batch_action, batch_reward, batch_next_state, batch_terminated):
-                memory.push(state, action, reward, next_state, terminated) 
-            states, actions, rewards, next_states, terminateds = zip(*memory.sample(MINIBATCH_SIZE))
-            batch_state = torch.stack(states)
-            batch_action = torch.stack(actions)
-            batch_reward = torch.stack(rewards)
-            batch_next_state = torch.stack(next_states)
-            batch_terminated = torch.stack(terminateds)
+                memory.push(state, action, reward, next_state, terminated)
+            for _ in range(self.M):  
+                states, actions, rewards, next_states, terminateds = zip(*memory.sample(MINIBATCH_SIZE))
+                batch_state = torch.stack(states)
+                batch_action = torch.stack(actions)
+                batch_reward = torch.stack(rewards)
+                batch_next_state = torch.stack(next_states)
+                batch_terminated = torch.stack(terminateds)
 
-            state_action_values = self.get_state_action_values(batch_state, batch_action)
-            with torch.no_grad():
-                max_value_actions = target_net.get_max_value_actions(batch_next_state)
-                next_state_values = target_net.get_state_action_values(batch_next_state, max_value_actions) * (1 - batch_terminated)
-            expected_state_action_values = batch_reward + GAMMA * next_state_values
+                state_action_values = self.get_state_action_values(batch_state, batch_action)
+                with torch.no_grad():
+                    max_value_actions = target_net.get_max_value_actions(batch_next_state)
+                    next_state_values = target_net.get_state_action_values(batch_next_state, max_value_actions) * (1 - batch_terminated)
+                expected_state_action_values = batch_reward + GAMMA * next_state_values
 
-            loss = F.mse_loss(state_action_values, expected_state_action_values) 
-            self.optimizer.zero_grad()
-            loss.backward()
-            self.optimizer.step()
+                loss = F.mse_loss(state_action_values, expected_state_action_values) 
+                self.optimizer.zero_grad()
+                loss.backward()
+                self.optimizer.step()
 
-            for target_param, policy_param in zip(target_net.parameters(), self.parameters()):
-                target_param.data.copy_(TAU * policy_param.data + (1.0 - TAU) * target_param.data)
+                for target_param, policy_param in zip(target_net.parameters(), self.parameters()):
+                    target_param.data.copy_(TAU * policy_param.data + (1.0 - TAU) * target_param.data)
 
         elif self.algorithm == "PPO":
 
