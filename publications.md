@@ -28,16 +28,18 @@ The publication list can also be found on [Google Scholar](https://scholar.googl
 
 
 
-- **Save the Good Prefix: Precise Error Penalization via Process-Supervised RL to Enhance LLM Reasoning**   
-Haolin Liu, Dian Yu, Sidi Lu, Yujun Zhou, Rui Liu, Zhenwen Liang, Haitao Mi, Chen-Yu Wei, Dong Yu         
-[[arXiv](https://arxiv.org/pdf/2601.18984){:target="_blank"}]  
-
 
 
 ## Publications 
 
 
 ### 2026   
+
+
+- **Save the Good Prefix: Precise Error Penalization via Process-Supervised RL to Enhance LLM Reasoning**   
+Haolin Liu, Dian Yu, Sidi Lu, Yujun Zhou, Rui Liu, Zhenwen Liang, Haitao Mi, Chen-Yu Wei, Dong Yu         
+*ACL Findings 2026* [[arXiv](https://arxiv.org/pdf/2601.18984){:target="_blank"}]  
+
 
 
 - **Proximal Regret and Proximal Correlated Equilibria: A New Tractable Solution Concept for Online Learning and Games**   
