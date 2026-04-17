@@ -55,7 +55,10 @@ Kingsley Kim, Haolin Liu, Chen-Yu Wei
 
 - **An Improved Model-Free Decision-Estimation Coefficient with Applications in Adversarial MDPs**  
 (&alpha;-&beta;) Haolin Liu, Chen-Yu Wei, Julian Zimmert    
-*ICLR 2026* [[arXiv](https://arxiv.org/pdf/2510.08882){:target="_blank"}] [[openreview](https://openreview.net/forum?id=lbLAgGF8OO){:target="_blank"}]
+*ICLR 2026* [[arXiv](https://arxiv.org/pdf/2510.08882){:target="_blank"}] [[openreview](https://openreview.net/forum?id=lbLAgGF8OO){:target="_blank"}] [[talk](https://slideslive.com/39058448/an-improved-modelfree-decisionestimation-coefficient-with-applications-in-adversarial-mdps?ref=review_link&review_token=SkZamTAmuWfIypehrOUfmMZeJRFpCQUjfrAUwGP4
+){:target="_blank"}]   
+
+
 
 
 
