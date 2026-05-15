@@ -4,7 +4,7 @@ permalink: "/publications/"
 layout: page
 --- 
 
-The publication list can also be found on [Google Scholar](https://scholar.google.com/citations?user=2L2cR-kAAAAJ){:target="_blank"}.   
+The publication list can also be found on [Google Scholar](https://scholar.google.com/citations?user=izEpscoAAAAJ){:target="_blank"}.   
 (&alpha;-&beta;) indicates alphabetical ordering; \* indicates equal contribution.  
 
 
