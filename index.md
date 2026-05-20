@@ -9,7 +9,7 @@ layout: page
 
 
    <div style="flex: 0 0 200px; margin-right: 50px;">
-    <img src="/image/photo.png" alt="My Photo" style="max-width: 100%; height: auto;">
+    <img src="/image/photo-light.png" alt="My Photo" style="max-width: 100%; height: auto;">
   </div>
 
   <div style="flex: 1;" markdown="1">
