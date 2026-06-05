@@ -58,7 +58,7 @@ Kingsley Kim, Haolin Liu, Chen-Yu Wei
 - **An Improved Model-Free Decision-Estimation Coefficient with Applications in Adversarial MDPs**  
 (&alpha;-&beta;) Haolin Liu, Chen-Yu Wei, Julian Zimmert    
 *ICLR 2026* [[arXiv](https://arxiv.org/pdf/2510.08882){:target="_blank"}] [[openreview](https://openreview.net/forum?id=lbLAgGF8OO){:target="_blank"}] [[talk](https://slideslive.com/39058448/an-improved-modelfree-decisionestimation-coefficient-with-applications-in-adversarial-mdps?ref=review_link&review_token=SkZamTAmuWfIypehrOUfmMZeJRFpCQUjfrAUwGP4
-){:target="_blank"}]   
+){:target="_blank"}] [[talk](https://slideslive.com/39058448/an-improved-modelfree-decisionestimation-coefficient-with-applications-in-adversarial-mdps){:target="_blank"}]     
 
 
 
@@ -105,7 +105,7 @@ Braham Snyder, Chen-Yu Wei
 - **Corruption-Robust Linear Bandits: Minimax Optimality and Gap-Dependent Misspecification**  
 (&alpha;-&beta;) Haolin Liu, Artin Tajdini, Andrew Wagenmaker, Chen-Yu Wei  
 *NeurIPS 2024* 
-[[arXiv](https://arxiv.org/pdf/2410.07533){:target="_blank"}] [[openreview](https://openreview.net/forum?id=wqs2RMq4CW){:target="_blank"}] 
+[[arXiv](https://arxiv.org/pdf/2410.07533){:target="_blank"}] [[openreview](https://openreview.net/forum?id=wqs2RMq4CW){:target="_blank"}] [[talk](https://slideslive.com/39025835/corruptionrobust-linear-bandits-minimax-optimality-and-gapdependent-misspecification){:target="_blank"}]  
 
 
 
@@ -153,31 +153,31 @@ Braham Snyder, Chen-Yu Wei
 - **Bypassing the Simulator: Near-Optimal Adversarial Linear Contextual Bandits**  
 (&alpha;-&beta;) Haolin Liu, Chen-Yu Wei, Julian Zimmert  
 *NeurIPS 2023* 
-[[arXiv](https://arxiv.org/pdf/2309.00814){:target="_blank"}] [[talk](https://slideslive.com/39009540/bypassing-the-simulator-nearoptimal-adversarial-linear-contextual-bandits?ref=search-presentations){:target="_blank"}] [[openreview](https://openreview.net/forum?id=orh4e0AO9R){:target="_blank"}]
+[[arXiv](https://arxiv.org/pdf/2309.00814){:target="_blank"}] [[talk](https://slideslive.com/39009540/bypassing-the-simulator-nearoptimal-adversarial-linear-contextual-bandits?ref=search-presentations){:target="_blank"}] [[openreview](https://openreview.net/forum?id=orh4e0AO9R){:target="_blank"}] [[talk](https://slideslive.com/39009540/bypassing-the-simulator-nearoptimal-adversarial-linear-contextual-bandits){:target="_blank"}]    
 
 
 - **Last-Iterate Convergent Policy Gradient Primal-Dual Methods for Constrained MDPs**  
 Dongsheng Ding\*, Chen-Yu Wei\*, Kaiqing Zhang\*, Alejandro Ribeiro  
 *NeurIPS 2023* 
-[[arXiv](https://arxiv.org/pdf/2306.11700){:target="_blank"}] [[talk](https://slideslive.com/39009306/lastiterate-convergent-policy-gradient-primaldual-methods-for-constrained-mdps?ref=search-presentations){:target="_blank"}] [[openreview](https://openreview.net/forum?id=U6bhCLSPun){:target="_blank"}]
+[[arXiv](https://arxiv.org/pdf/2306.11700){:target="_blank"}] [[talk](https://slideslive.com/39009306/lastiterate-convergent-policy-gradient-primaldual-methods-for-constrained-mdps?ref=search-presentations){:target="_blank"}] [[openreview](https://openreview.net/forum?id=U6bhCLSPun){:target="_blank"}] [[talk](https://slideslive.com/39009306/lastiterate-convergent-policy-gradient-primaldual-methods-for-constrained-mdps){:target="_blank"}]    
 
 
 - **No-Regret Online Reinforcement Learning with Adversarial Losses and Transitions**  
 Tiancheng Jin\*, Junyan Liu\*, Chloe Rouyer, William Chang, Chen-Yu Wei, Haipeng Luo  
 *NeurIPS 2023* 
-[[arXiv](https://arxiv.org/pdf/2305.17380){:target="_blank"}] [[talk](https://slideslive.com/39011477/noregret-online-reinforcement-learning-with-adversarial-losses-and-transitions?ref=search-presentations){:target="_blank"}] [[openreview](https://openreview.net/forum?id=0WLMVDdvDF){:target="_blank"}]
+[[arXiv](https://arxiv.org/pdf/2305.17380){:target="_blank"}] [[talk](https://slideslive.com/39011477/noregret-online-reinforcement-learning-with-adversarial-losses-and-transitions?ref=search-presentations){:target="_blank"}] [[openreview](https://openreview.net/forum?id=0WLMVDdvDF){:target="_blank"}] [[talk](https://slideslive.com/39011477/noregret-online-reinforcement-learning-with-adversarial-losses-and-transitions){:target="_blank"}]  
 
 
 - **First- and Second-Order Bounds for Adversarial Linear Contextual Bandits**  
 Julia Olkhovskaya, Jack Mayo, Tim van Erven, Gergely Neu, Chen-Yu Wei  
 *NeurIPS 2023* 
-[[arXiv](https://arxiv.org/pdf/2305.00832){:target="_blank"}] [[talk](https://slideslive.com/39009624/first-and-secondorder-bounds-for-adversarial-linear-contextual-bandits?ref=search-presentations){:target="_blank"}] [[openreview](https://openreview.net/forum?id=NTSbj2otOA){:target="_blank"}]
+[[arXiv](https://arxiv.org/pdf/2305.00832){:target="_blank"}] [[talk](https://slideslive.com/39009624/first-and-secondorder-bounds-for-adversarial-linear-contextual-bandits?ref=search-presentations){:target="_blank"}] [[openreview](https://openreview.net/forum?id=NTSbj2otOA){:target="_blank"}] [[talk](https://slideslive.com/39009624/first-and-secondorder-bounds-for-adversarial-linear-contextual-bandits){:target="_blank"}]   
 
 
 - **Uncoupled and Convergent Learning in Two-Player Zero-Sum Markov Games**  
 (&alpha;-&beta;) Yang Cai, Haipeng Luo, Chen-Yu Wei, Weiqiang Zheng  
 *NeurIPS 2023* 
-[[arXiv](https://arxiv.org/pdf/2303.02738){:target="_blank"}] [[talk](https://slideslive.com/39009322/uncoupled-and-convergent-learning-in-twoplayer-zerosum-markov-games-with-bandit-feedback?ref=search-presentations){:target="_blank"}] [[openreview](https://openreview.net/forum?id=3xSwxlB0fd){:target="_blank"}]
+[[arXiv](https://arxiv.org/pdf/2303.02738){:target="_blank"}] [[talk](https://slideslive.com/39009322/uncoupled-and-convergent-learning-in-twoplayer-zerosum-markov-games-with-bandit-feedback?ref=search-presentations){:target="_blank"}] [[openreview](https://openreview.net/forum?id=3xSwxlB0fd){:target="_blank"}] [[talk](https://slideslive.com/39009322/uncoupled-and-convergent-learning-in-twoplayer-zerosum-markov-games-with-bandit-feedback){:target="_blank"}]   
 
 
 - **A Blackbox Approach to Best of Both Worlds in Bandits and Beyond**  
