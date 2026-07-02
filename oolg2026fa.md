@@ -25,7 +25,7 @@ Probability at the level of concentration inequalities, linear algebra, mathemat
 ## Grading (tentative)   
 - (60%) **Assignments**: 4-5 mathematical problem sets               
 - (30%) **Paper presentation**       
-- (10%) **Attendance**
+- (10%) **Participation**
 
 
 
