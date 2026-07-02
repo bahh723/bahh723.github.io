@@ -7,7 +7,9 @@ show_navigation: false
 
 ## Course Information
 - **Time**: Monday & Wednesday 11:00AM-12:15PM  
-- **Location**: Rice Hall 032              
+- **Location**: Rice Hall 032   
+- **Instructor**: [Chen-Yu Wei](https://bahh723.github.io/)          
+           
 
 
 ## Overview  
