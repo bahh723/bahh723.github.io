@@ -41,6 +41,7 @@ I co-organize and attend [RL Meetup](https://rl-meetup.github.io/){:target="_bla
 
 ## Teaching
 
+- Fall 2026: &nbsp; [CS 6501 Online Optimization and Learning in Games](/oolg2026fa/)   
 - Spring 2026: &nbsp; [CS 4771 Reinforcement Learning](/rl2026sp/)  
 - Fall 2025: &nbsp; [CS 6771 Reinforcement Learning](/rl2025fa/)  
 - Spring 2025: &nbsp; [CS 6501 Reinforcement Learning](/rl2025sp/)  
