@@ -19,7 +19,7 @@ This course studies how algorithms learn from repeated interaction with possibly
 
 
 ## Prerequisites  
-Probability at the level of concentration inequalities, linear algebra, convex analysis, mathematical maturity.      
+Probability, linear algebra, calculus, convex analysis, mathematical maturity.      
 
 
 ## Grading (tentative)   
