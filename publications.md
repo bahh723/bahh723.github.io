@@ -397,6 +397,11 @@ Hsu Kao, Chen-Yu Wei, Hsiao-Ching Lin, Yi-Han Chiang, Wanjiun Liao
 
 ## Other Presentations         
 
+- **Elements of Interactive Decision Making**   
+Tutorial at IEEE East Asian School of Information Theory, 2026   
+[[slides](/document/easit2026dec.pdf){:target="_blank"}]   
+
+
 - **Swap Regret and Strategic Learning**  
 Theory seminar talk at UVA, 2025       
 [[slides](/document/swap-regret.pdf){:target="_blank"}]  

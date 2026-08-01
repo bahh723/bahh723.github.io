@@ -23,9 +23,11 @@ Probability, linear algebra, calculus, convex analysis, mathematical maturity.
 
 
 ## Grading (tentative)   
-- (60%) **Assignments**: 4-5 mathematical problem sets               
-- (30%) **Paper presentation**       
-- (10%) **Participation**   
+- (55%) **Assignments**: 4 mathematical problem sets               
+- (10%) **Quizzes**: 2 quizzes
+- (25%) **Paper presentation**       
+- (8%) **Participation**
+- (2%) **Course evaluation**  
 
 
 
