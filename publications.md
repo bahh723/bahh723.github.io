@@ -398,20 +398,16 @@ Hsu Kao, Chen-Yu Wei, Hsiao-Ching Lin, Yi-Han Chiang, Wanjiun Liao
 ## Other Presentations         
 
 - **Elements of Interactive Decision Making**   
-Tutorial at IEEE East Asian School of Information Theory, 2026   
-[[slides](/document/easit2026dec.pdf){:target="_blank"}]   
+Tutorial at IEEE East Asian School of Information Theory, 2026 [[slides](/document/easit2026dec.pdf){:target="_blank"}]   
 
 
 - **Swap Regret and Strategic Learning**  
-Theory seminar talk at UVA, 2025       
-[[slides](/document/swap-regret.pdf){:target="_blank"}]  
+Theory seminar talk at UVA, 2025 [[slides](/document/swap-regret.pdf){:target="_blank"}]  
 
 
 - **Collusion in Algorithmic Pricing**  
 Guest lecture in UVA CS6501: *Economics of Distributed Systems*, 2024   
-Invited talk at UMD CS Seminar, 2024     
-[[slides](/document/algorithmic-pricing.pdf){:target="_blank"}]  
+Invited talk at UMD CS Seminar, 2024 [[slides](/document/algorithmic-pricing.pdf){:target="_blank"}]  
 
 - **Some Recent Advances in Bandit Theory**  
-Colloquium talk at NTUEE, 2022   
-[[slides](/document/bandits.pdf){:target="_blank"}]    
+Colloquium talk at NTUEE, 2022 [[slides](/document/bandits.pdf){:target="_blank"}]    
