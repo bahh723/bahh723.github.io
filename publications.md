@@ -399,7 +399,7 @@ Hsu Kao, Chen-Yu Wei, Hsiao-Ching Lin, Yi-Han Chiang, Wanjiun Liao
 
 - **Elements of Interactive Decision Making**   
 Tutorial at IEEE East Asian School of Information Theory, 2026 [[slides](/document/easit2026dec.pdf){:target="_blank"}] [[event](https://sites.google.com/view/easit2026/home){:target="_blank"}]   
-Seminar talk at Academia Sinica   
+Seminar talk at IIS, Academia Sinica   
 
 
 - **Swap Regret and Strategic Learning**  
