@@ -407,7 +407,7 @@ Theory seminar talk at UVA, 2025 [[slides](/document/swap-regret.pdf){:target="_
 
 
 - **Collusion in Algorithmic Pricing**  
-Guest lecture in UVA CS6501: *Economics of Distributed Systems*, 2024   
+Guest lecture in UVA CS 6501: *Economics of Distributed Systems*, 2024   
 Invited talk at UMD CS Seminar, 2024 [[slides](/document/algorithmic-pricing.pdf){:target="_blank"}]  
 
 - **Some Recent Advances in Bandit Theory**  
