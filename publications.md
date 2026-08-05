@@ -34,7 +34,7 @@ The publication list can also be found on [Google Scholar](https://scholar.googl
 
 - **Is Online Linear Optimization Sufficient for Strategic Robustness?**    
 (&alpha;-&beta;) Yang Cai, Haipeng Luo, Chen-Yu Wei, Weiqiang Zheng     
-*EC 2026* [[arXiv](https://arxiv.org/pdf/2602.12253){:target="_blank"}]   
+*EC 2026* [[arXiv](https://arxiv.org/pdf/2602.12253){:target="_blank"}] [[reviews](/document/review-strategic-robustness.pdf){:target="_blank"}]  
 
 
 
@@ -46,7 +46,7 @@ Haolin Liu, Dian Yu, Sidi Lu, Yujun Zhou, Rui Liu, Zhenwen Liang, Haitao Mi, Che
 
 - **Proximal Regret and Proximal Correlated Equilibria: A New Tractable Solution Concept for Online Learning and Games**   
 (&alpha;-&beta;) Yang Cai, Constantinos Daskalakis, Haipeng Luo, Chen-Yu Wei, Weiqiang Zheng    
-*STOC 2026* [[arXiv](https://arxiv.org/pdf/2511.01852){:target="_blank"}]  
+*STOC 2026* [[arXiv](https://arxiv.org/pdf/2511.01852){:target="_blank"}] [[reviews](/document/review-proximal.pdf){:target="_blank"}] 
 
 
 - **Learning Discriminative Process Reward Models without Step Labels**   
@@ -76,7 +76,7 @@ Braham Snyder, Hadi Daneshmand\*, Chen-Yu Wei\*
 
 - **An Improved Algorithm for Adversarial Linear Contextual Bandits via Reduction**   
 (&alpha;-&beta;) Tim van Erven, Jack Mayo, Julia Olkhovskaya, Chen-Yu Wei  
-*NeurIPS 2025* [[arXiv](https://arxiv.org/pdf/2508.11931){:target="_blank"}] [[slides](/document/adversarial-linear-contextual-bandits-via-reduction.pdf){:target="_blank"}] [[openreview](https://openreview.net/forum?id=MfhFiU28hv){:target="_blank"}]  
+*NeurIPS 2025* [[arXiv](https://arxiv.org/pdf/2508.11931){:target="_blank"}] [[slides](/document/adversarial-linear-contextual-bandits-via-reduction.pdf){:target="_blank"}] [[openreview](https://openreview.net/forum?id=MfhFiU28hv){:target="_blank"}] [[reviews(rejected)](/document/review-lcb.pdf){:target="_blank"}]     
 
 
 - **From Average-Iterate to Last-Iterate Convergence in Games: A Reduction and Its Applications**  
@@ -95,7 +95,7 @@ Braham Snyder, Chen-Yu Wei
 - **Decision Making in Hybrid Environments: A Model Aggregation Approach**  
 (&alpha;-&beta;) Haolin Liu, Chen-Yu Wei, Julian Zimmert    
 *COLT 2025* 
-[[arXiv](https://arxiv.org/pdf/2502.05974){:target="_blank"}] [[talk](https://youtu.be/uBIIuIX0pz0?si=AqKUaq1UZQy4i9Bx&t=3765){:target="_blank"}] 
+[[arXiv](https://arxiv.org/pdf/2502.05974){:target="_blank"}] [[talk](https://youtu.be/uBIIuIX0pz0?si=AqKUaq1UZQy4i9Bx&t=3765){:target="_blank"}] [[reviews](/document/review-hybrid.pdf){:target="_blank"}]
 
 
 ### 2024 
@@ -124,20 +124,20 @@ Braham Snyder, Chen-Yu Wei
 - **On Tractable &Phi;-Equilibria in Non-Concave Games**  
 (&alpha;-&beta;) Yang Cai, Constantinos Daskalakis, Haipeng Luo, Chen-Yu Wei, Weiqiang Zheng   
 *NeurIPS 2024*
-[[arXiv](https://arxiv.org/pdf/2403.08171){:target="_blank"}] [[slides](https://docs.google.com/presentation/d/1PmAtSnLrAXfvc0AN2_0hupwA3kvCOPcU/edit?usp=sharing&ouid=112492238116028494469&rtpof=true&sd=true){:target="_blank"}] [[openreview](https://openreview.net/forum?id=3CtTMF5zzM){:target="_blank"}] [[openreview(rejected)](https://openreview.net/forum?id=li1Z0OQfnA){:target="_blank"}] 
+[[arXiv](https://arxiv.org/pdf/2403.08171){:target="_blank"}] [[slides](https://docs.google.com/presentation/d/1PmAtSnLrAXfvc0AN2_0hupwA3kvCOPcU/edit?usp=sharing&ouid=112492238116028494469&rtpof=true&sd=true){:target="_blank"}] [[openreview](https://openreview.net/forum?id=3CtTMF5zzM){:target="_blank"}] [[openreview(rejected)](https://openreview.net/forum?id=li1Z0OQfnA){:target="_blank"}] [[reviews(rejected)](/document/review-tractable.pdf){:target="_blank"}]    
 
 
 - **Offline Reinforcement Learning: Role of State Aggregation and Trajectory Data**  
 (&alpha;-&beta;) Zeyu Jia, Alexander Rakhlin, Ayush Sekhari, Chen-Yu Wei   
 *COLT 2024* 
-[[arXiv](https://arxiv.org/pdf/2403.17091.pdf){:target="_blank"}] [[talk](https://www.youtube.com/watch?v=kQ9v0sy8Cao){:target="_blank"}] 
+[[arXiv](https://arxiv.org/pdf/2403.17091.pdf){:target="_blank"}] [[talk](https://www.youtube.com/watch?v=kQ9v0sy8Cao){:target="_blank"}] [[reviews](/document/review-state-aggregation.pdf){:target="_blank"}]   
  
 
 
 - **Near-Optimal Policy Optimization for Correlated Equilibrium in General-Sum Markov Games**  
 (&alpha;-&beta;) Yang Cai, Haipeng Luo, Chen-Yu Wei, Weiqiang Zheng  
 *AISTATS 2024* <span style="color:red">(Oral)</span> 
-[[arXiv](https://arxiv.org/pdf/2401.15240){:target="_blank"}]  
+[[arXiv](https://arxiv.org/pdf/2401.15240){:target="_blank"}] [[reviews](/document/review-markov-cce.pdf){:target="_blank"}]    
 
 
 - **Towards Optimal Regret in Adversarial Linear MDPs with Bandit Feedback**  
