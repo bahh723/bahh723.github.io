@@ -31,12 +31,48 @@ Probability, linear algebra, calculus, convex analysis, mathematical maturity.
 
 ## Schedule    
 
-One file of slides may be used for multiple lectures. Check Piazza for the recording passcode.   
 
 {: .week-schedule} 
 | Date    | Topics    |  Slides  | Recordings |  Assignments  |
 |:----------------|:----------------|:----------------|:----------------|:----------------|
-| 8/26 | **Introduction** |  |  |  |
+| 8/26 | **Introduction** |  |  |  |  
+| 8/31 |  |  |  |  | 
+| 9/2 |  |  |  |  |
+| 9/7 |  |  |  |  |
+| 9/9 |  |  |  |  |
+| 9/14 |  |  |  |  |
+| 9/16 |  |  |  |  |
+| 9/21 |  |  |  |  |
+| 9/23 |  |  |  |  |
+| 9/28 |  |  |  |  |
+| 9/30 |  |  |  |  |
+| 10/5 |  |  |  |  |
+| 10/7 |  |  |  |  |
+| 10/12 |  |  |  |  |
+| 10/14 |  |  |  |  |
+| 10/19 |  |  |  |  |
+| 10/21 |  |  |  |  |
+| 10/26 |  |  |  |  |
+| 10/28 |  |  |  |  |
+| 11/2 |  |  |  |  |
+| 11/4 |  |  |  |  |
+| 11/9 |  |  |  |  |
+| 11/11 |  |  |  |  |
+| 11/16 |  |  |  |  |
+| 11/18 |  |  |  |  |
+| 11/23 |  |  |  |  |
+| 11/25 | <span style="color:#aaaaaa">Thanksgiving recess (no class)</span> |  |  |  |
+| 11/30 |  |  |  |  |
+| 12/2 |  |  |  |  |
+| 12/7 |  |  |  |  |
+
+
+
+
+
+
+
+
 
 
 
