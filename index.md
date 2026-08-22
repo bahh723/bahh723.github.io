@@ -5,14 +5,14 @@ layout: page
 
 
 
-<div style="display: flex; align-items: center;">
+<div class="profile">
 
 
-   <div style="flex: 0 0 200px; margin-right: 50px;">
-    <img src="/image/photo-light.png" alt="My Photo" style="max-width: 100%; height: auto;">
+   <div class="profile-photo">
+    <img src="/image/photo-light.png" alt="My Photo">
   </div>
 
-  <div style="flex: 1;" markdown="1">
+  <div class="profile-text" markdown="1">
 
 I am an Assistant Professor in the Computer Science department at the **University of Virginia**. Before, I was a Postdoctoral Associate at MIT working with [Prof. Alexander (Sasha) Rakhlin](http://www.mit.edu/~rakhlin/){:target="_blank"}, and a Research Fellow at the Simons Institute for the Theory of Computing. I obtained my Ph.D. in Computer Science from the **University of Southern California**, where I was fortunate to be advised by [Prof. Haipeng Luo](https://haipeng-luo.net/){:target="_blank"}. My interest in interactive machine learning began during my time in [Prof. Chi-Jen Lu](https://homepage.iis.sinica.edu.tw/pages/cjlu/){:target="_blank"}'s lab at **Academia Sinica**. I received my Master’s and Bachelor’s degrees in Electrical Engineering from **National Taiwan University**. Please find my CV [here](/document/cv.pdf){:target="_blank"}. 
 

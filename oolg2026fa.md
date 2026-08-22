@@ -13,22 +13,38 @@ show_navigation: false
 
 
 ## Overview  
-This course studies how algorithms learn from repeated interaction with possibly changing or strategic environments, and their applications in optimization, games, forecasting, and mechanism design. We begin with simple online learning problems, and gradually build toward applications in equilibrium computation, calibrated forecasting, fairness auditing, downstream decision-making, strategic manipulation, algorithmic pricing, and Bayesian persuasion. The goal is to understand how to design learning algorithms with guarantees of stability, reliability, and incentive compatibility.   
-
-[Tentative syllabus](/oolg2026fa_files/tentative_syllabus.pdf){:target="_blank"}
+This course studies how a learner makes decisions in possibly non-stationary or adversarial environments, with an emphasis on theoretical guarantees. We will discuss classic algorithms such as multiplicative weight update and follow-the-perturbed-leader, along with the general framework of online convex optimization. A recurring theme is that a small set of no-regret principles underlies a wide range of problems: we will see how these ideas apply to game theory, multi-objective learning, calibration, equilibrium computation, and learning in strategic environments.   
 
 
 ## Prerequisites  
 Probability, linear algebra, calculus, convex analysis, mathematical maturity.      
 
 
-## Grading (tentative)   
-- (55%) **Assignments**: 4 mathematical problem sets               
+## Grading    
+- (50%) **Assignments**: 4 mathematical problem sets               
 - (10%) **Quizzes**: 2 quizzes
-- (25%) **Paper presentation**       
+- (30%) **Final presentation**       
 - (8%) **Participation**
 - (2%) **Course evaluation**  
 
+
+
+## Schedule    
+
+One file of slides may be used for multiple lectures. Check Piazza for the recording passcode.   
+
+{: .week-schedule} 
+| Date    | Topics    |  Slides  | Recordings |  Assignments  |
+|:----------------|:----------------|:----------------|:----------------|:----------------|
+| 8/26 | **Introduction** |  |  |  |
+
+
+
+
+
+## Resources
+- [Learning in Games (And Games in Learning)](https://mlgametheory.com/){:target="_blank"} by Aaron Roth     
+- [Introduction to Online Optimization/Learning](https://haipeng-luo.net/courses/CSCI659/2026_spring/index.html){:target="_blank"} by Haipeng Luo    
 
 
 

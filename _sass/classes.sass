@@ -138,3 +138,29 @@ a:hover .icon
     color: #f92672
   .gi
     color: #a6e22e
+
+.profile
+  display: flex
+  align-items: center
+  gap: 50px
+
+.profile-photo
+  flex: 0 0 200px
+
+.profile-photo img
+  max-width: 100%
+  height: auto
+
+.profile-text
+  flex: 1
+  min-width: 0
+
+@media (max-width: 32em)
+  .profile
+    flex-direction: column
+    align-items: flex-start
+    gap: 1.2em
+  .profile-photo
+    flex: 0 0 auto
+    width: 60%
+    max-width: 220px
