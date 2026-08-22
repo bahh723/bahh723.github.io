@@ -13,7 +13,7 @@ show_navigation: false
 
 
 ## Overview  
-This course studies how a learner makes decisions in non-stationary or adversarial environments. We will discuss classic algorithms such as multiplicative weights and follow-the-perturbed-leader, and develop the general framework of online convex optimization. A central theme of the course is that a small set of no-regret principles can be used to understand a surprisingly broad range of problems, including game theory, multi-objective learning, calibration, equilibrium computation, and learning in strategic environments. 
+This course studies how a learner makes decisions in non-stationary or adversarial environments. We will discuss classic algorithms such as multiplicative weights and follow-the-perturbed-leader, and develop the general framework of online convex optimization. A central theme of the course is that a small set of no-regret principles can be used to understand a broad range of problems, including game theory, multi-objective learning, calibration, equilibrium computation, and learning in strategic environments. 
 
 
 ## Prerequisites  
