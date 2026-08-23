@@ -39,11 +39,11 @@ Probability, linear algebra, calculus, convex analysis, mathematical maturity.
 | 8/31 | **Expert problem**: Hedge |  |  |  | 
 | 9/2 | **Online linear optimization**: Follow-the-regularized-leader |  |  |  |
 | 9/7 | Follow-the-perturbed-leader |  |  |  |
-| 9/9 | **Zero-sum game**: Minimax theorem |  |  |  |
-| 9/14 |  |  |  |  |
-| 9/16 | **Adaptive regret** |  |  |  |
+| 9/9 | **Zero-sum game**: The minimax theorem |  |  |  |
+| 9/14 | Applications of the minimax theorem |  |  |  |
+| 9/16 | **Adaptive regret**: Sleeping-experts reduction |  |  |  |
 | 9/21 |  |  |  |  |
-| 9/23 | **Swap regret** |  |  |  |
+| 9/23 | **Swap regret**: Blum-Mansour reduction |  |  |  |
 | 9/28 | Correlated equilibrium |  |  |  |
 | 9/30 |  |  |  |  |
 | 10/5 | <span style="color:#aaaaaa">Fall reading day (no class)</span> |  |  |  |
