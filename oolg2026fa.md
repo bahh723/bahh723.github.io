@@ -36,17 +36,17 @@ Probability, linear algebra, calculus, convex analysis, mathematical maturity.
 | Date    | Topics    |  Slides  | Recordings |  Assignments  |
 |:----------------|:----------------|:----------------|:----------------|:----------------|
 | 8/26 | **Introduction** |  |  |  |  
-| 8/31 |  |  |  |  | 
-| 9/2 |  |  |  |  |
-| 9/7 |  |  |  |  |
-| 9/9 |  |  |  |  |
+| 8/31 | **Expert problem**: Hedge |  |  |  | 
+| 9/2 | **Online linear optimization**: Follow-the-regularized-leader |  |  |  |
+| 9/7 | Follow-the-perturbed-leader |  |  |  |
+| 9/9 | **Zero-sum game**: Minimax theorem |  |  |  |
 | 9/14 |  |  |  |  |
-| 9/16 |  |  |  |  |
+| 9/16 | **Adaptive regret** |  |  |  |
 | 9/21 |  |  |  |  |
-| 9/23 |  |  |  |  |
-| 9/28 |  |  |  |  |
+| 9/23 | **Swap regret** |  |  |  |
+| 9/28 | Correlated equilibrium |  |  |  |
 | 9/30 |  |  |  |  |
-| 10/5 |  |  |  |  |
+| 10/5 | <span style="color:#aaaaaa">Fall reading day (no class)</span> |  |  |  |
 | 10/7 |  |  |  |  |
 | 10/12 |  |  |  |  |
 | 10/14 |  |  |  |  |
@@ -59,12 +59,12 @@ Probability, linear algebra, calculus, convex analysis, mathematical maturity.
 | 11/9 |  |  |  |  |
 | 11/11 |  |  |  |  |
 | 11/16 |  |  |  |  |
-| 11/18 |  |  |  |  |
-| 11/23 |  |  |  |  |
+| 11/18 | Student presentation |  |  |  |
+| 11/23 | Student presentation |  |  |  |
 | 11/25 | <span style="color:#aaaaaa">Thanksgiving recess (no class)</span> |  |  |  |
-| 11/30 |  |  |  |  |
-| 12/2 |  |  |  |  |
-| 12/7 |  |  |  |  |
+| 11/30 | Student presentation |  |  |  |
+| 12/2 | Student presentation |  |  |  |
+| 12/7 | <span style="color:#aaaaaa">No class</span> |  |  |  |
 
 
 
