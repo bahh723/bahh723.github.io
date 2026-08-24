@@ -42,23 +42,23 @@ Probability, linear algebra, calculus, convex analysis, mathematical maturity.
 | 9/9 | **Zero-sum game**: The minimax theorem |  |  |  |
 | 9/14 | Applications of the minimax theorem |  |  |  |
 | 9/16 | **Adaptive regret**: Sleeping-experts reduction |  |  |  |
-| 9/21 |  |  |  |  |
+| 9/21 | MsMwC |  |  |  |
 | 9/23 | **Swap regret**: Blum-Mansour reduction |  |  |  |
 | 9/28 | Correlated equilibrium |  |  |  |
-| 9/30 |  |  |  |  |
+| 9/30 | **Multi-objective learning** |  |  |  |
 | 10/5 | <span style="color:#aaaaaa">Fall reading day (no class)</span> |  |  |  |
-| 10/7 |  |  |  |  |
+| 10/7 | Quiz 1 |  |  |  |
 | 10/12 |  |  |  |  |
-| 10/14 |  |  |  |  |
+| 10/14 | **Calibration** |  |  |  |
 | 10/19 |  |  |  |  |
 | 10/21 |  |  |  |  |
 | 10/26 |  |  |  |  |
-| 10/28 |  |  |  |  |
+| 10/28 | **Strategic learning** |  |  |  |
 | 11/2 |  |  |  |  |
 | 11/4 |  |  |  |  |
 | 11/9 |  |  |  |  |
 | 11/11 |  |  |  |  |
-| 11/16 |  |  |  |  |
+| 11/16 | Quiz 2 |  |  |  |
 | 11/18 | Student presentation |  |  |  |
 | 11/23 | Student presentation |  |  |  |
 | 11/25 | <span style="color:#aaaaaa">Thanksgiving recess (no class)</span> |  |  |  |
