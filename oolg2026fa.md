@@ -36,7 +36,7 @@ Probability, linear algebra, calculus, convex analysis, mathematical maturity.
 | Date    | Topics    |  Slides  | Recordings |  Assignments  |
 |:----------------|:----------------|:----------------|:----------------|:----------------|
 | 8/26 | **Introduction** |  |  |  |  
-| 8/31 | **Expert problem and Online Convex Optimization**: Hedge |  |  |  | 
+| 8/31 | **Expert problem and online convex optimization**: Hedge |  |  |  | 
 | 9/2 | Follow-the-regularized-leader |  |  |  |
 | 9/7 | Follow-the-perturbed-leader |  |  |  |
 | 9/9 | **Zero-sum game**: The minimax theorem |  |  |  |
