@@ -53,7 +53,7 @@ Probability, linear algebra, calculus, convex analysis, mathematical maturity.
 | 10/19 |  |  |  |  |
 | 10/21 |  |  |  |  |
 | 10/26 |  |  |  |  |
-| 10/28 | **Strategic learning**: manipulating no-regret learners |  |  |  |
+| 10/28 | **Strategic learning**: Manipulating learning algorithms |  |  |  |
 | 11/2 | Swap regret and robust learning |  |  |  |
 | 11/4 | Algorithmic collusion |  |  |  |
 | 11/9 |  |  |  |  |
