@@ -17,7 +17,7 @@ This course studies how a learner makes decisions in non-stationary or adversari
 
 
 ## Prerequisites  
-Probability, linear algebra, calculus, convex analysis, mathematical maturity.      
+Probability, linear algebra, calculus, machine learning, convex analysis, mathematical maturity.      
 
 
 ## Grading    
@@ -26,6 +26,10 @@ Probability, linear algebra, calculus, convex analysis, mathematical maturity.
 - (30%) **Final presentation**       
 - (8%) **Participation**
 - (2%) **Course evaluation**  
+
+## Late Policy for Assignments  
+Each late day results in 10% deduction in the grade of that assignment. The number of late days is calculated by rounding up (e.g., 1 hour late = 1 day late). Assignments cannot be submitted 3 days after the deadline.    
+
 
 ## Platforms
 - [Piazza](https://piazza.com/class/mtaf279bdkv5j8/){:target="_blank"}: Discussions    
