@@ -47,7 +47,7 @@ Probability, linear algebra, calculus, convex analysis, mathematical maturity.
 | 9/28 | Correlated equilibrium |  |  |  |
 | 9/30 | **Multi-objective learning** |  |  |  |
 | 10/5 | <span style="color:#aaaaaa">Fall reading day (no class)</span> |  |  |  |
-| 10/7 | Quiz 1 |  |  |  |
+| 10/7 |  |  |  |  |
 | 10/12 |  |  |  |  |
 | 10/14 | **Calibration** |  |  |  |
 | 10/19 |  |  |  |  |
@@ -58,7 +58,7 @@ Probability, linear algebra, calculus, convex analysis, mathematical maturity.
 | 11/4 | Algorithmic collusion |  |  |  |
 | 11/9 |  |  |  |  |
 | 11/11 |  |  |  |  |
-| 11/16 | Quiz 2 |  |  |  |
+| 11/16 |  |  |  |  |
 | 11/18 | Student presentation |  |  |  |
 | 11/23 | Student presentation |  |  |  |
 | 11/25 | <span style="color:#aaaaaa">Thanksgiving recess (no class)</span> |  |  |  |
