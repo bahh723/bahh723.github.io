@@ -27,6 +27,9 @@ Probability, linear algebra, calculus, convex analysis, mathematical maturity.
 - (8%) **Participation**
 - (2%) **Course evaluation**  
 
+## Platforms
+- [Piazza](https://piazza.com/class/mtaf279bdkv5j8/){:target="_blank"}: Discussions    
+- Gradescope: Homework submission   
 
 
 ## Schedule    
