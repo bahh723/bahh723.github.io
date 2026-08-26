@@ -35,7 +35,7 @@ Probability, linear algebra, calculus, convex analysis, mathematical maturity.
 {: .week-schedule} 
 | Date    | Topics    |  Slides  | Recordings |  Assignments  |
 |:----------------|:----------------|:----------------|:----------------|:----------------|
-| 8/26 | **Introduction** |  |  |  |  
+| 8/26 | **Introduction** | [Slides](/oolg2026fa_files/introduction.pdf){:target="_blank"} | [Recording](https://virginia.zoom.us/rec/share/bb3XGbGsLyKUwQZcrBzUR-8yM_HEFH_TDnxiJmlYMpvRXGOMy42h-osWqCM0Xs-g.GVZt4QnK6L0BtEav){:target="_blank"} |  |  
 | 8/31 | **Expert problem and online convex optimization**: Exponential weights |  |  |  | 
 | 9/2 | Follow-the-regularized-leader |  |  |  |
 | 9/7 | Follow-the-perturbed-leader |  |  |  |
