@@ -25,7 +25,8 @@ Probability, linear algebra, calculus, machine learning, convex analysis, mathem
 - (10%) **Quizzes**: 2 quizzes
 - (30%) **Final presentation**       
 - (8%) **Participation**
-- (2%) **Course evaluation**    
+- (2%) **Course evaluation**   
+ 
 **Late Policy for Assignments**:  Each late day results in 10% deduction in the grade of that assignment. The number of late days is calculated by rounding up (e.g., 1 hour late = 1 day late). Assignments cannot be submitted 3 days after the deadline.    
 
 
