@@ -37,6 +37,7 @@ Probability, linear algebra, calculus, machine learning, convex analysis, mathem
 
 ## Schedule    
 
+One file of slides may be used for multiple lectures. Check Piazza for the recording passcode.   
 
 {: .week-schedule} 
 | Date    | Topics    |  Slides  | Recordings |  Assignments  |
