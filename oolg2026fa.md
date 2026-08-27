@@ -21,7 +21,7 @@ Probability, linear algebra, calculus, machine learning, convex analysis, mathem
 
 
 ## Grading    
-- (50%) **Assignments**: 4 mathematical problem sets               
+- (50%) **Assignments**: 4 problem sets               
 - (10%) **Quizzes**: 2 quizzes
 - (30%) **Final presentation**       
 - (8%) **Participation**
