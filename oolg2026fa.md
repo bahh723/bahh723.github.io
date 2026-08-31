@@ -8,7 +8,8 @@ show_navigation: false
 ## Course Information
 - **Time**: Monday & Wednesday 11:00AM-12:15PM  
 - **Location**: Rice Hall 032   
-- **Instructor**: [Chen-Yu Wei](https://bahh723.github.io/)          
+- **Instructor and office hours**: [Chen-Yu Wei](https://bahh723.github.io/), Wednesday 3:30-4:30PM @ Rice 409       
+- **TA**: [Braham Snyder](https://braham.io/)                
            
 
 
@@ -43,7 +44,7 @@ One file of slides may be used for multiple lectures. Check Piazza for the recor
 | Date    | Topics    |  Slides  | Recordings |  Assignments  |
 |:----------------|:----------------|:----------------|:----------------|:----------------|
 | 8/26 | **Introduction** | [Slides](/oolg2026fa_files/introduction.pdf){:target="_blank"} | [Recording](https://virginia.zoom.us/rec/share/bb3XGbGsLyKUwQZcrBzUR-8yM_HEFH_TDnxiJmlYMpvRXGOMy42h-osWqCM0Xs-g.GVZt4QnK6L0BtEav){:target="_blank"} |  |  
-| 8/31 | **Expert problem and online convex optimization**: Exponential weights | [Slides](/oolg2026fa_files/OCO.pdf){:target="_blank"} |  |  | 
+| 8/31 | **Expert problem and online convex optimization**: Exponential weights | [Slides](/oolg2026fa_files/OCO.pdf){:target="_blank"} | [Recording](https://virginia.zoom.us/rec/share/48qxH4yD96Lkn1pwoTqZpJue9yGZYow78XAhIfjm_q1L9cGuunwNEA0uR54iNUO8.-sHGbN6BGc5qXhc4){:target="_blank"} |  | 
 | 9/2 | Follow-the-regularized-leader |  |  |  |
 | 9/7 | Follow-the-perturbed-leader |  |  |  |
 | 9/9 | **Zero-sum game**: The minimax theorem |  |  |  |
