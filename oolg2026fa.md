@@ -44,9 +44,9 @@ One file of slides may be used for multiple lectures. Check Piazza for the recor
 | Date    | Topics    |  Slides  | Recordings |  Assignments  |
 |:----------------|:----------------|:----------------|:----------------|:----------------|
 | 8/26 | **Introduction** | [Slides](/oolg2026fa_files/introduction.pdf){:target="_blank"} | [Recording](https://virginia.zoom.us/rec/share/bb3XGbGsLyKUwQZcrBzUR-8yM_HEFH_TDnxiJmlYMpvRXGOMy42h-osWqCM0Xs-g.GVZt4QnK6L0BtEav){:target="_blank"} |  |  
-| 8/31 | **Expert problem and online convex optimization**: Exponential weights | [Slides](/oolg2026fa_files/OCO.pdf){:target="_blank"} | [Recording](https://virginia.zoom.us/rec/share/48qxH4yD96Lkn1pwoTqZpJue9yGZYow78XAhIfjm_q1L9cGuunwNEA0uR54iNUO8.-sHGbN6BGc5qXhc4){:target="_blank"} |  | 
-| 9/2 | Follow-the-regularized-leader |  |  |  |
-| 9/7 | Follow-the-perturbed-leader |  |  |  |
+| 8/31 | **Expert problem and online convex optimization**: FTL | [Slides](/oolg2026fa_files/OCO.pdf){:target="_blank"} | [Recording](https://virginia.zoom.us/rec/share/48qxH4yD96Lkn1pwoTqZpJue9yGZYow78XAhIfjm_q1L9cGuunwNEA0uR54iNUO8.-sHGbN6BGc5qXhc4){:target="_blank"} |  | 
+| 9/2 | Exponential weights |  | [Recording](https://virginia.zoom.us/rec/share/2jYz546-Z9E1kZKWFZIGL2rCKfyu_IC0uQENVuz0-0eiq60WaYuHPWKXjUvwGY4U.XEm9kFymOZJMOyC2){:target="_blank"} |  |
+| 9/7 | FTRL, FTPL |  |  |  |
 | 9/9 | **Zero-sum game**: The minimax theorem |  |  |  |
 | 9/14 | Applications of the minimax theorem |  |  |  |
 | 9/16 | **Adaptive regret**: Sleeping-experts reduction |  |  |  |
