@@ -8,8 +8,8 @@ show_navigation: false
 ## Course Information
 - **Time**: Monday & Wednesday 11:00AM-12:15PM  
 - **Location**: Rice Hall 032   
-- **Instructor and office hours**: [Chen-Yu Wei](https://bahh723.github.io/), Wednesday 3:30-4:30PM @ Rice 409       
-- **TA**: [Braham Snyder](https://braham.io/)                
+- **Instructor and office hours**: [Chen-Yu Wei](https://bahh723.github.io/), Tuesday 9:00-10:00AM @ Rice 409       
+- **TA**: [Braham Snyder](https://braham.io/), Wednesday 12:30-1:30PM @ Rice 422                   
            
 
 
