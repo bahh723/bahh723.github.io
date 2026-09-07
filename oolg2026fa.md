@@ -46,25 +46,25 @@ One file of slides may be used for multiple lectures. Check Piazza for the recor
 | 8/26 | **Introduction** | [Slides](/oolg2026fa_files/introduction.pdf){:target="_blank"} | [Recording](https://virginia.zoom.us/rec/share/bb3XGbGsLyKUwQZcrBzUR-8yM_HEFH_TDnxiJmlYMpvRXGOMy42h-osWqCM0Xs-g.GVZt4QnK6L0BtEav){:target="_blank"} |  |  
 | 8/31 | **Expert problem and online convex optimization**: FTL | [Slides](/oolg2026fa_files/OCO.pdf){:target="_blank"} | [Recording](https://virginia.zoom.us/rec/share/48qxH4yD96Lkn1pwoTqZpJue9yGZYow78XAhIfjm_q1L9cGuunwNEA0uR54iNUO8.-sHGbN6BGc5qXhc4){:target="_blank"} |  | 
 | 9/2 | Exponential weights |  | [Recording](https://virginia.zoom.us/rec/share/2jYz546-Z9E1kZKWFZIGL2rCKfyu_IC0uQENVuz0-0eiq60WaYuHPWKXjUvwGY4U.XEm9kFymOZJMOyC2){:target="_blank"} |  |
-| 9/7 | FTRL, FTPL |  |  | [HW1](/oolg2026fa_files/HW1.pdf){:target="_blank"} (due on 9/20) |
-| 9/9 | **Zero-sum game**: The minimax theorem |  |  |  |
-| 9/14 | Applications of the minimax theorem |  |  |  |
-| 9/16 | **Adaptive regret**: Sleeping-experts reduction |  |  |  |
-| 9/21 | MsMwC |  |  |  |
-| 9/23 | **Swap regret**: Blum-Mansour reduction |  |  |  |
-| 9/28 | Correlated equilibrium |  |  |  |
-| 9/30 | **Multi-objective learning** |  |  |  |
+| 9/7 | FTRL |  | [Recording](https://virginia.zoom.us/rec/share/p5CJulo5_4nqw6Auq6a8dkvIG2CqU946SXHX3N6kInKrjunT94srx9CKzy0VoKA.cclztKHYQnV-cwal){:target="_blank"} | [HW1](/oolg2026fa_files/HW1.pdf){:target="_blank"} (due on 9/20) |
+| 9/9 | FTPL  |  |  |  |
+| 9/14 | **Zero-sum game**: The minimax theorem  |  |  |  |
+| 9/16 | Applications of the minimax theorem |  |  |  |
+| 9/21 | **Adaptive regret**: Sleeping-experts reduction  |  |  |  |
+| 9/23 | MsMwC  |  |  |  |
+| 9/28 | **Swap regret**: Blum-Mansour reduction  |  |  |  |
+| 9/30 | Correlated equilibrium  |  |  |  |
 | 10/5 | <span style="color:#aaaaaa">Fall reading day (no class)</span> |  |  |  |
-| 10/7 |  |  |  |  |
+| 10/7 | **Multi-objective learning** |  |  |  |
 | 10/12 |  |  |  |  |
-| 10/14 | **Calibration** |  |  |  |
-| 10/19 |  |  |  |  |
+| 10/14 |  |  |  |  |
+| 10/19 | **Calibration** |  |  |  |
 | 10/21 |  |  |  |  |
 | 10/26 |  |  |  |  |
-| 10/28 | **Strategic learning**: Manipulating learning algorithms |  |  |  |
-| 11/2 | Swap regret and robust learning |  |  |  |
-| 11/4 | Algorithmic collusion |  |  |  |
-| 11/9 |  |  |  |  |
+| 10/28 |  |  |  |  |
+| 11/2 | **Strategic learning**: Manipulating learning algorithms |  |  |  |
+| 11/4 | Swap regret and robust learning   |  |  |  |
+| 11/9 | Algorithmic collusion |  |  |  |
 | 11/11 |  |  |  |  |
 | 11/16 |  |  |  |  |
 | 11/18 | Student presentation |  |  |  |
