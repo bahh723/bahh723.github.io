@@ -33,7 +33,7 @@ Probability, linear algebra, calculus, machine learning, convex analysis, mathem
 
 ## Platforms
 - [Piazza](https://piazza.com/class/mtaf279bdkv5j8/){:target="_blank"}: Discussions    
-- Gradescope: Homework submission   
+- [Gradescope](https://www.gradescope.com/courses/1391518){:target="_blank"}: Homework submission   
 
 
 ## Schedule    
