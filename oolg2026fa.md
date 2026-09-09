@@ -47,7 +47,7 @@ One file of slides may be used for multiple lectures. Check Piazza for the recor
 | 8/31 | **Expert problem and online convex optimization**: Follow the leader | [Slides](/oolg2026fa_files/OCO.pdf){:target="_blank"} | [Recording](https://virginia.zoom.us/rec/share/48qxH4yD96Lkn1pwoTqZpJue9yGZYow78XAhIfjm_q1L9cGuunwNEA0uR54iNUO8.-sHGbN6BGc5qXhc4){:target="_blank"} |  | 
 | 9/2 | Exponential weights |  | [Recording](https://virginia.zoom.us/rec/share/2jYz546-Z9E1kZKWFZIGL2rCKfyu_IC0uQENVuz0-0eiq60WaYuHPWKXjUvwGY4U.XEm9kFymOZJMOyC2){:target="_blank"} |  |
 | 9/7 | Follow the regularized leader |  | [Recording](https://virginia.zoom.us/rec/share/p5CJulo5_4nqw6Auq6a8dkvIG2CqU946SXHX3N6kInKrjunT94srx9CKzy0VoKA.cclztKHYQnV-cwal){:target="_blank"} | [HW1](/oolg2026fa_files/HW1.pdf){:target="_blank"} (due on 9/27) |
-| 9/9 | Follow the perturbed leader  |  |  |  |
+| 9/9 | Follow the perturbed leader  |  | [Recording](https://virginia.zoom.us/rec/share/9wB5IWQmK1ugfGFr7iI4NjBtYPVNdqfH8slTjinAFLGNPitCCFz40xKvhufq2cD7.T3aTKbzClRoj4svH){:target="_blank"} |  |
 | 9/14 | **Zero-sum game**: The minimax theorem  |  |  |  |
 | 9/16 | Applications of the minimax theorem |  |  |  |
 | 9/21 | **Adaptive regret**: Sleeping-experts reduction  |  |  |  |
