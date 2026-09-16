@@ -49,9 +49,9 @@ One file of slides may be used for multiple lectures. Check Piazza for the recor
 | 9/7 | Follow the regularized leader |  | [Recording](https://virginia.zoom.us/rec/share/p5CJulo5_4nqw6Auq6a8dkvIG2CqU946SXHX3N6kInKrjunT94srx9CKzy0VoKA.cclztKHYQnV-cwal){:target="_blank"} | [HW1](/oolg2026fa_files/HW1.pdf){:target="_blank"} (due on 9/27) |
 | 9/9 | Follow the regularized leader |  | [Recording](https://virginia.zoom.us/rec/share/9wB5IWQmK1ugfGFr7iI4NjBtYPVNdqfH8slTjinAFLGNPitCCFz40xKvhufq2cD7.T3aTKbzClRoj4svH){:target="_blank"} |  |
 | 9/14 | Follow the perturbed leader |  | [Recording](https://virginia.zoom.us/rec/share/IesMYJiLGtXhkvla4jDCQYDcuIqDYf5YcCQ3vkrgzGCZVraLRJKYR6qwIjZwGrfN.EXisK9YNTvAF_lq4){:target="_blank"} |  |
-| 9/16 | **Zero-sum game**: The minimax theorem |  |  |  |
+| 9/16 | **Zero-sum game**: The minimax theorem | [Slides](/oolg2026fa_files/zero-sum.pdf){:target="_blank"} | [Recording](https://virginia.zoom.us/rec/share/1Jd9UC3UtRGnDLGAs3WgoM56-NTg86iDDQWOzHv6L0ZWTWwwa9rFrvJ0AvTp6tnD.EgKhGWAL8rZboqpp){:target="_blank"} |  |
 | 9/21 | Applications of the minimax theorem  |  |  |  |
-| 9/23 | **Adaptive regret**: Sleeping-experts reduction  |  |  |  |
+| 9/23 | Applications of the minimax theorem  |  |  |  |
 | 9/28 | **Swap regret**: Blum-Mansour reduction  |  |  |  |
 | 9/30 | Correlated equilibrium  |  |  |  |
 | 10/5 | <span style="color:#aaaaaa">Fall reading day (no class)</span> |  |  |  |
