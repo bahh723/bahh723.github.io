@@ -48,10 +48,10 @@ One file of slides may be used for multiple lectures. Check Piazza for the recor
 | 9/2 | Exponential weights |  | [Recording](https://virginia.zoom.us/rec/share/2jYz546-Z9E1kZKWFZIGL2rCKfyu_IC0uQENVuz0-0eiq60WaYuHPWKXjUvwGY4U.XEm9kFymOZJMOyC2){:target="_blank"} |  |
 | 9/7 | Follow the regularized leader |  | [Recording](https://virginia.zoom.us/rec/share/p5CJulo5_4nqw6Auq6a8dkvIG2CqU946SXHX3N6kInKrjunT94srx9CKzy0VoKA.cclztKHYQnV-cwal){:target="_blank"} | [HW1](/oolg2026fa_files/HW1.pdf){:target="_blank"} (due on 9/27) |
 | 9/9 | Follow the perturbed leader  |  | [Recording](https://virginia.zoom.us/rec/share/9wB5IWQmK1ugfGFr7iI4NjBtYPVNdqfH8slTjinAFLGNPitCCFz40xKvhufq2cD7.T3aTKbzClRoj4svH){:target="_blank"} |  |
-| 9/14 | **Zero-sum game**: The minimax theorem  |  |  |  |
-| 9/16 | Applications of the minimax theorem |  |  |  |
-| 9/21 | **Adaptive regret**: Sleeping-experts reduction  |  |  |  |
-| 9/23 | MsMwC  |  |  |  |
+| 9/14 |   |  | [Recording](https://virginia.zoom.us/rec/share/IesMYJiLGtXhkvla4jDCQYDcuIqDYf5YcCQ3vkrgzGCZVraLRJKYR6qwIjZwGrfN.EXisK9YNTvAF_lq4){:target="_blank"} |  |
+| 9/16 | **Zero-sum game**: The minimax theorem |  |  |  |
+| 9/21 | Applications of the minimax theorem  |  |  |  |
+| 9/23 | **Adaptive regret**: Sleeping-experts reduction  |  |  |  |
 | 9/28 | **Swap regret**: Blum-Mansour reduction  |  |  |  |
 | 9/30 | Correlated equilibrium  |  |  |  |
 | 10/5 | <span style="color:#aaaaaa">Fall reading day (no class)</span> |  |  |  |
