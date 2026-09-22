@@ -52,11 +52,11 @@ One file of slides may be used for multiple lectures. Check Piazza for the recor
 | 9/16 | **Zero-sum game**: The minimax theorem | [Slides](/oolg2026fa_files/zero-sum.pdf){:target="_blank"} | [Recording](https://virginia.zoom.us/rec/share/1Jd9UC3UtRGnDLGAs3WgoM56-NTg86iDDQWOzHv6L0ZWTWwwa9rFrvJ0AvTp6tnD.EgKhGWAL8rZboqpp){:target="_blank"} |  |
 | 9/21 | Applications of the minimax theorem  |  | [Recording](https://virginia.zoom.us/rec/share/KfUrXken1KIsRYEa5KxOb1yWWoGzIgZ1j3eQOQ8E1RqPo6t9TWdhlOV9IgJLuwTA.tt-GnvpHD3n4-l2-){:target="_blank"} |  |
 | 9/23 | Applications of the minimax theorem  |  |  |  |
-| 9/28 | **Swap regret**: Blum-Mansour reduction  |  |  |  |
-| 9/30 | Correlated equilibrium  |  |  |  |
+| 9/28 | **Multi-objective learning**   |  |  |  |
+| 9/30 |   |  |  |  |
 | 10/5 | <span style="color:#aaaaaa">Fall reading day (no class)</span> |  |  |  |
-| 10/7 | **Multi-objective learning** |  |  |  |
-| 10/12 |  |  |  |  |
+| 10/7 | **Swap regret**: Blum-Mansour reduction |  |  |  |
+| 10/12 | Correlated equilibrium |  |  |  |
 | 10/14 |  |  |  |  |
 | 10/19 | **Calibration** |  |  |  |
 | 10/21 |  |  |  |  |
