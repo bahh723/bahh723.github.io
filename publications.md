@@ -15,7 +15,7 @@ The publication list can also be found on [Google Scholar](https://scholar.googl
 ### 2026   
 
 
-- **On the Complexity of Offline Reinforcement Learning with Q\*-Approximation and Partial Coverage**    
+- **On the Complexity of Offline Reinforcement Learning with Q<sup>*</sup>-Approximation and Partial Coverage**    
 (&alpha;-&beta;) Haolin Liu, Braham Snyder, Chen-Yu Wei   
 *NeurIPS 2026* [[arXiv](https://arxiv.org/pdf/2602.12107){:target="_blank"}]   
 
