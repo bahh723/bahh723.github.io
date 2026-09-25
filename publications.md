@@ -8,27 +8,23 @@ The publication list can also be found on [Google Scholar](https://scholar.googl
 (&alpha;-&beta;) indicates alphabetical ordering; \* indicates equal contribution.  
 
 
-## Preprints
-
-
-- **On the Complexity of Offline Reinforcement Learning with Q*-Approximation and Partial Coverage**    
-(&alpha;-&beta;) Haolin Liu, Braham Snyder, Chen-Yu Wei   
-[[arXiv](https://arxiv.org/pdf/2602.12107){:target="_blank"}]   
-
-
-
-- **Achieving Optimal Static and Dynamic Regret Simultaneously in Bandits with Deterministic Losses**   
-(&alpha;-&beta;) Jian Qian, Chen-Yu Wei    
-[[arXiv](https://arxiv.org/pdf/2602.07418){:target="_blank"}] 
-
-
-
-
 
 ## Publications 
 
 
 ### 2026   
+
+
+
+- **On the Complexity of Offline Reinforcement Learning with Q*-Approximation and Partial Coverage**    
+(&alpha;-&beta;) Haolin Liu, Braham Snyder, Chen-Yu Wei   
+*NeurIPS 2026* [[arXiv](https://arxiv.org/pdf/2602.12107){:target="_blank"}]   
+
+
+
+- **Achieving Optimal Static and Dynamic Regret Simultaneously in Bandits with Deterministic Losses**   
+(&alpha;-&beta;) Jian Qian, Chen-Yu Wei    
+*NeurIPS 2026* [[arXiv](https://arxiv.org/pdf/2602.07418){:target="_blank"}] 
 
 
 
