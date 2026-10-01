@@ -52,8 +52,8 @@ One file of slides may be used for multiple lectures. Check Piazza for the recor
 | 9/16 | **Zero-sum game**: The minimax theorem | [Slides](/oolg2026fa_files/zero-sum.pdf){:target="_blank"} | [Recording](https://virginia.zoom.us/rec/share/1Jd9UC3UtRGnDLGAs3WgoM56-NTg86iDDQWOzHv6L0ZWTWwwa9rFrvJ0AvTp6tnD.EgKhGWAL8rZboqpp){:target="_blank"} |  |
 | 9/21 | The minimax theorem  |  | [Recording](https://virginia.zoom.us/rec/share/KfUrXken1KIsRYEa5KxOb1yWWoGzIgZ1j3eQOQ8E1RqPo6t9TWdhlOV9IgJLuwTA.tt-GnvpHD3n4-l2-){:target="_blank"} |  |
 | 9/23 | Nash equilibrium  |  | [Recording](https://virginia.zoom.us/rec/share/guqHXKrnz9-Jtfy172VvclS2J3L7FhPj3UKjZoD25uW-5FMrtzrqIV9tvw5rDCw8.rJfmYdFHLrWf1GOj){:target="_blank"} |  |
-| 9/28 | Boosting   |  |  |  |
-| 9/30 | Linear programming  | [Slides](/oolg2026fa_files/LP.pdf){:target="_blank"} |  |  |
+| 9/28 | Boosting   |  | [Recording](https://virginia.zoom.us/rec/share/znP3Qhht3jQ4TtEZYzaxmMlNPYhg9Rx1GZUmwjBPqlyUOxQyN501pnJZyyWT6Ba2.9ca88ICPMPONSrNN){:target="_blank"} |  |
+| 9/30 | Linear programming  | [Slides](/oolg2026fa_files/LP.pdf){:target="_blank"} | [Recording](https://virginia.zoom.us/rec/share/eBNnXBSIhOQSJINwcZfudM6HZmJt62h1vZqDXw8uJpx2VEAOv60JMWMTbq4SF6Qh.LIimWtC8rzRZ-c9Z){:target="_blank"} |  |
 | 10/5 | <span style="color:#aaaaaa">Fall reading day (no class)</span> |  |  |  |
 | 10/7 | **Swap regret**: Blum-Mansour reduction |  |  |  |
 | 10/12 | Correlated equilibrium |  |  |  |
@@ -62,11 +62,11 @@ One file of slides may be used for multiple lectures. Check Piazza for the recor
 | 10/21 |  |  |  |  |
 | 10/26 |  |  |  |  |
 | 10/28 |  |  |  |  |
-| 11/2 | **Strategic learning**: Manipulating learning algorithms |  |  |  |
-| 11/4 | Swap regret and robust learning   |  |  |  |
-| 11/9 | Algorithmic collusion |  |  |  |
+| 11/2 |  |  |  |  |
+| 11/4 |    |  |  |  |
+| 11/9 | **Learning with strategic players**: Manipulating learning algorithms |  |  |  |
 | 11/11 |  |  |  |  |
-| 11/16 |  |  |  |  |
+| 11/16 | Swap regret and robust learning |  |  |  |
 | 11/18 | Student presentation |  |  |  |
 | 11/23 | Student presentation |  |  |  |
 | 11/25 | <span style="color:#aaaaaa">Thanksgiving recess (no class)</span> |  |  |  |
