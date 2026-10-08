@@ -55,8 +55,8 @@ One file of slides may be used for multiple lectures. Check Piazza for the recor
 | 9/28 | Boosting   |  | [Recording](https://virginia.zoom.us/rec/share/znP3Qhht3jQ4TtEZYzaxmMlNPYhg9Rx1GZUmwjBPqlyUOxQyN501pnJZyyWT6Ba2.9ca88ICPMPONSrNN){:target="_blank"} |  |
 | 9/30 | Linear programming  | [Slides](/oolg2026fa_files/LP.pdf){:target="_blank"} | [Recording](https://virginia.zoom.us/rec/share/eBNnXBSIhOQSJINwcZfudM6HZmJt62h1vZqDXw8uJpx2VEAOv60JMWMTbq4SF6Qh.LIimWtC8rzRZ-c9Z){:target="_blank"} | [HW2](/oolg2026fa_files/HW2.pdf){:target="_blank"} (due on 10/11) |
 | 10/5 | <span style="color:#aaaaaa">Fall reading day (no class)</span> |  |  |  |
-| 10/7 | **Swap regret**: Blum-Mansour reduction |  |  |  |
-| 10/12 | Correlated equilibrium |  |  |  |
+| 10/7 |  |  | [Recording](https://virginia.zoom.us/rec/share/aXeF_AJf6SvA4ozxfYiDb4fAwmfyJAjSBQPmnXnDHCA9Ow7g-E0qfFr8YX1AEImy.c1OaRd3C7KuJEfPt){:target="_blank"} |  |
+| 10/12 |  |  |  |  |
 | 10/14 |  |  |  |  |
 | 10/19 | **Calibration** |  |  |  |
 | 10/21 |  |  |  |  |
