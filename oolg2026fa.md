@@ -58,7 +58,7 @@ One file of slides may be used for multiple lectures. Check Piazza for the recor
 | 10/7 | Linear programming |  | [Recording](https://virginia.zoom.us/rec/share/aXeF_AJf6SvA4ozxfYiDb4fAwmfyJAjSBQPmnXnDHCA9Ow7g-E0qfFr8YX1AEImy.c1OaRd3C7KuJEfPt){:target="_blank"} |  |
 | 10/12 | **Online learning with multiple objectives**: Group-wise regret | [Slides](/oolg2026fa_files/multi-objective.pdf){:target="_blank"} |  |  |
 | 10/14 |  |  |  |  |
-| 10/19 |  |  |  |  |
+| 10/19 | **Quiz 1** |  |  |  |
 | 10/21 |  |  |  |  |
 | 10/26 |  |  |  |  |
 | 10/28 |  |  |  |  |
