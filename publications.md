@@ -10,7 +10,7 @@ The publication list can also be found on [Google Scholar](https://scholar.googl
 
 ## Preprints
 
-- **Follow the Perturbed Leader for Linear Bandits: $\sqrt{T}$ Regret over General Convex Sets**    
+- **Follow the Perturbed Leader for Linear Bandits: $$\small\sqrt{\mathsf{T}}$$ Regret over General Convex Sets**    
 Chen-Yu Wei   
 [[arXiv](https://arxiv.org/pdf/2610.17818){:target="_blank"}]   
 
