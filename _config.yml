@@ -44,3 +44,5 @@ markdown: kramdown
 
 kramdown:
   input: GFM
+
+mathjax: true
