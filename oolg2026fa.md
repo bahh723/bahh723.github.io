@@ -53,11 +53,11 @@ One file of slides may be used for multiple lectures. Check Piazza for the recor
 | 9/21 | The minimax theorem  |  | [Recording](https://virginia.zoom.us/rec/share/KfUrXken1KIsRYEa5KxOb1yWWoGzIgZ1j3eQOQ8E1RqPo6t9TWdhlOV9IgJLuwTA.tt-GnvpHD3n4-l2-){:target="_blank"} |  |
 | 9/23 | Nash equilibrium  |  | [Recording](https://virginia.zoom.us/rec/share/guqHXKrnz9-Jtfy172VvclS2J3L7FhPj3UKjZoD25uW-5FMrtzrqIV9tvw5rDCw8.rJfmYdFHLrWf1GOj){:target="_blank"} |  |
 | 9/28 | Boosting   |  | [Recording](https://virginia.zoom.us/rec/share/znP3Qhht3jQ4TtEZYzaxmMlNPYhg9Rx1GZUmwjBPqlyUOxQyN501pnJZyyWT6Ba2.9ca88ICPMPONSrNN){:target="_blank"} |  |
-| 9/30 | Linear programming  | [Slides](/oolg2026fa_files/LP.pdf){:target="_blank"} | [Recording](https://virginia.zoom.us/rec/share/eBNnXBSIhOQSJINwcZfudM6HZmJt62h1vZqDXw8uJpx2VEAOv60JMWMTbq4SF6Qh.LIimWtC8rzRZ-c9Z){:target="_blank"} | [HW2](/oolg2026fa_files/HW2.pdf){:target="_blank"} (due on 10/11) |
+| 9/30 | Linear programming duality | [Slides](/oolg2026fa_files/LP.pdf){:target="_blank"} | [Recording](https://virginia.zoom.us/rec/share/eBNnXBSIhOQSJINwcZfudM6HZmJt62h1vZqDXw8uJpx2VEAOv60JMWMTbq4SF6Qh.LIimWtC8rzRZ-c9Z){:target="_blank"} | [HW2](/oolg2026fa_files/HW2.pdf){:target="_blank"} (due on 10/11) |
 | 10/5 | <span style="color:#aaaaaa">Fall reading day (no class)</span> |  |  |  |
-| 10/7 | Linear programming |  | [Recording](https://virginia.zoom.us/rec/share/aXeF_AJf6SvA4ozxfYiDb4fAwmfyJAjSBQPmnXnDHCA9Ow7g-E0qfFr8YX1AEImy.c1OaRd3C7KuJEfPt){:target="_blank"} |  |
+| 10/7 | Solving LP with no-regret algorithms |  | [Recording](https://virginia.zoom.us/rec/share/aXeF_AJf6SvA4ozxfYiDb4fAwmfyJAjSBQPmnXnDHCA9Ow7g-E0qfFr8YX1AEImy.c1OaRd3C7KuJEfPt){:target="_blank"} |  |
 | 10/12 | **Online learning with multiple objectives**: Group-wise regret | [Slides](/oolg2026fa_files/multi-objective.pdf){:target="_blank"} | [Recording](https://virginia.zoom.us/rec/share/zgiPOs9Ey81ys__pHhfLeYL_dGY07Nf8dB17GoTLULuyzsQFRoPdI9ZGV8n91Az9.CIpLfj9t-Ertrdi3){:target="_blank"} |  |
-| 10/14 |  |  |  |  |
+| 10/14 | Interval regret | [Recording](https://virginia.zoom.us/rec/share/5JrZsEJfLzUqrTVPA_NakO74dtWfaKO3AuIRiVJKJWcXQAxPPIaiD1KXTBdnl01p.k956Id1yj4o52HHX){:target="_blank"} |  |  |
 | 10/19 | **Quiz 1** |  |  |  |
 | 10/21 |  |  |  |  |
 | 10/26 |  |  |  |  |
