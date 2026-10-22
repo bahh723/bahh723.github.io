@@ -59,7 +59,7 @@ One file of slides may be used for multiple lectures. Check Piazza for the recor
 | 10/12 | **Online learning with multiple objectives**: Group-wise regret | [Slides](/oolg2026fa_files/multi-objective.pdf){:target="_blank"} | [Recording](https://virginia.zoom.us/rec/share/zgiPOs9Ey81ys__pHhfLeYL_dGY07Nf8dB17GoTLULuyzsQFRoPdI9ZGV8n91Az9.CIpLfj9t-Ertrdi3){:target="_blank"} |  |
 | 10/14 | Interval regret |  | [Recording](https://virginia.zoom.us/rec/share/5JrZsEJfLzUqrTVPA_NakO74dtWfaKO3AuIRiVJKJWcXQAxPPIaiD1KXTBdnl01p.k956Id1yj4o52HHX){:target="_blank"} |  |
 | 10/19 | **Quiz 1** |  |  |  |
-| 10/21 |  |  |  |  |
+| 10/21 | Swap regret |  | [Recording](https://virginia.zoom.us/rec/share/cDCP-ua6YJm6n8BtUeOTm0RzZypxp0FcYEPjfWxKKu_K-7E3RBCOrEo3kxyyfCzv.5v9MRRTcaVDshBoN){:target="_blank"} |  |
 | 10/26 |  |  |  |  |
 | 10/28 |  |  |  |  |
 | 11/2 |  |  |  |  |
