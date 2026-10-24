@@ -10,9 +10,23 @@ The publication list can also be found on [Google Scholar](https://scholar.googl
 
 ## Preprints
 
+
+- **Reverse-KL Policy Distillation: Statistical Guarantees and Limits**    
+(&alpha;-&beta;) Haolin Liu, Chen-Yu Wei, Julian Zimmert      
+[[arXiv](https://arxiv.org/pdf/2610.30844){:target="_blank"}]   
+
+
+
+- **A Computationally Efficient and Rate-Optimal Algorithm for Adversarial Linear MDPs with (Aggregate) Bandit Feedback**   
+(&alpha;-&beta;) Haolin Liu, Chen-Yu Wei, Hanbin Zhou  
+[[arXiv](https://arxiv.org/pdf/2610.30801){:target="_blank"}]   
+
+ 
+
 - **Follow the Perturbed Leader for Linear Bandits: $$\small\sqrt{\mathsf{T}}$$ Regret over General Action Sets**    
 Chen-Yu Wei   
 [[arXiv](https://arxiv.org/pdf/2610.17818){:target="_blank"}]   
+
 
 ## Publications 
 
