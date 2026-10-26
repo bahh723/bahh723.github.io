@@ -60,7 +60,7 @@ One file of slides may be used for multiple lectures. Check Piazza for the recor
 | 10/14 | Interval regret |  | [Recording](https://virginia.zoom.us/rec/share/5JrZsEJfLzUqrTVPA_NakO74dtWfaKO3AuIRiVJKJWcXQAxPPIaiD1KXTBdnl01p.k956Id1yj4o52HHX){:target="_blank"} |  |
 | 10/19 | **Quiz 1** |  |  |  |
 | 10/21 | Swap regret |  | [Recording](https://virginia.zoom.us/rec/share/cDCP-ua6YJm6n8BtUeOTm0RzZypxp0FcYEPjfWxKKu_K-7E3RBCOrEo3kxyyfCzv.5v9MRRTcaVDshBoN){:target="_blank"} |  |
-| 10/26 |  |  |  |  |
+| 10/26 | **General-sum game** | [Slides](/oolg2026fa_files/CE.pdf){:target="_blank"} |  |  |
 | 10/28 |  |  |  |  |
 | 11/2 |  |  |  |  |
 | 11/4 |    |  |  |  |
