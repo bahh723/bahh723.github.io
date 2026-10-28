@@ -67,12 +67,12 @@ One file of slides may be used for multiple lectures. Check Piazza for the recor
 | 11/9 | **Learning with strategic players**: Manipulating learning algorithms |  |  |  |
 | 11/11 |  |  |  |  |
 | 11/16 | Swap regret and robust learning |  |  |  |
-| 11/18 | **Student presentation**: Differential privacy, online conformal prediction |  |  |  |
-| 11/23 | **Quiz 2** <br> **Student presentation**: Human-AI collaboration |  |  |  |
+| 11/18 | **Quiz 2** |  |  |  |
+| 11/23 | **Student presentation** (remote): Differential privacy, online conformal prediction  |  |  |  |
 | 11/25 | <span style="color:#aaaaaa">Thanksgiving recess (no class)</span> |  |  |  |
-| 11/30 | **Student presentation**: Multi-distribution learning, omniprediction |  |  |  |
-| 12/2 | **Student presentation**: Incentive design, counterfactual regret minimization |  |  |  |
-| 12/7 | <span style="color:#aaaaaa">No class</span> |  |  |  |
+| 11/30 | **Student presentation** (remote): Human-AI collaboration |  |  |  |
+| 12/2 | **Student presentation** (remote): Multi-distribution learning, omniprediction |  |  |  |
+| 12/7 | **Student presentation** (remote): Incentive design, counterfactual regret minimization |  |  |  |
 
 
 
