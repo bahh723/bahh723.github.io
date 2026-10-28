@@ -70,8 +70,8 @@ One file of slides may be used for multiple lectures. Check Piazza for the recor
 | 11/18 | **Student presentation**: Differential privacy, online conformal prediction |  |  |  |
 | 11/23 | **Quiz 2** <br> **Student presentation**: Human-AI collaboration |  |  |  |
 | 11/25 | <span style="color:#aaaaaa">Thanksgiving recess (no class)</span> |  |  |  |
-| 11/30 | **Student presentation**: | Multi-distribution learning, omniprediction |  |  |
-| 12/2 | **Student presentation**: | Incentive design, Counterfactual regret minimization |  |  |
+| 11/30 | **Student presentation**: Multi-distribution learning, omniprediction |  |  |  |
+| 12/2 | **Student presentation**: Incentive design, Counterfactual regret minimization |  |  |  |
 | 12/7 | <span style="color:#aaaaaa">No class</span> |  |  |  |
 
 
