@@ -61,12 +61,12 @@ One file of slides may be used for multiple lectures. Check Piazza for the recor
 | 10/19 | **Quiz 1** |  |  |  |
 | 10/21 | Swap regret |  | [Recording](https://virginia.zoom.us/rec/share/cDCP-ua6YJm6n8BtUeOTm0RzZypxp0FcYEPjfWxKKu_K-7E3RBCOrEo3kxyyfCzv.5v9MRRTcaVDshBoN){:target="_blank"} |  |
 | 10/26 | **General-sum game** | [Slides](/oolg2026fa_files/CE.pdf){:target="_blank"} | [Recording](https://virginia.zoom.us/rec/share/VBwyWK-kep1fNOU-ekWZmdpd6FUVB4G6i8budRE4prrw1G8N4GEAA0cWR23GSs4X.Nk7qAxLMxtLfY08l){:target="_blank"} |  |
-| 10/28 |  |  |  |  |
+| 10/28 | Equilibrium |  | [Recording](https://virginia.zoom.us/rec/share/moPcqSa5jzGRYGRZshwT-bCDe--7nzCbKve8jPVwBXfXngz5TKCFsVMfCdJuh4UQ.E5xjHYPsEBgtUbqK){:target="_blank"} |  |
 | 11/2 |  |  |  |  |
 | 11/4 |    |  |  |  |
-| 11/9 | **Learning with strategic players**: Manipulating learning algorithms |  |  |  |
+| 11/9 | **Algorithmic collusion** |  |  |  |
 | 11/11 |  |  |  |  |
-| 11/16 | Swap regret and robust learning |  |  |  |
+| 11/16 |  |  |  |  |
 | 11/18 | **Quiz 2** |  |  |  |
 | 11/23 | **Student presentation** (remote): Differential privacy, online conformal prediction  |  |  |  |
 | 11/25 | <span style="color:#aaaaaa">Thanksgiving recess (no class)</span> |  |  |  |
