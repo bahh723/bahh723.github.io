@@ -63,7 +63,7 @@ One file of slides may be used for multiple lectures. Check Piazza for the recor
 | 10/26 | **General-sum game** | [Slides](/oolg2026fa_files/CE.pdf){:target="_blank"} | [Recording](https://virginia.zoom.us/rec/share/VBwyWK-kep1fNOU-ekWZmdpd6FUVB4G6i8budRE4prrw1G8N4GEAA0cWR23GSs4X.Nk7qAxLMxtLfY08l){:target="_blank"} |  |
 | 10/28 | Equilibrium |  | [Recording](https://virginia.zoom.us/rec/share/moPcqSa5jzGRYGRZshwT-bCDe--7nzCbKve8jPVwBXfXngz5TKCFsVMfCdJuh4UQ.E5xjHYPsEBgtUbqK){:target="_blank"} |  |
 | 11/2 | CE, CCE |  | [Recording](https://virginia.zoom.us/rec/share/-i3MKilaznSGyLv0uzSGPpbxbBhBz1fp-F61DKIgxvv5k3AjSXiPtixRtPsJKhli.WNuOxCXyYcoOKevW){:target="_blank"} |  |
-| 11/4 |    |  |  | [HW3](/oolg2026fa_files/HW3.pdf){:target="_blank"} (due on 11/12) |
+| 11/4 |    |  | [Recording](https://virginia.zoom.us/rec/share/bunkkLOuhCKoPfpdNdRy85FEFxSOZlYqSqI01C_6V6n7tJfH9ck71IB8OrfuiZYT.SXdjt1FeTxeSRMew){:target="_blank"} | [HW3](/oolg2026fa_files/HW3.pdf){:target="_blank"} (due on 11/12) |
 | 11/9 | **Algorithmic collusion** |  |  |  |
 | 11/11 |  |  |  |  |
 | 11/16 |  |  |  |  |
